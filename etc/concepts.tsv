@@ -1,0 +1,473 @@
+NUMBER	PAGE	ENGLISH	CHINESE	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	242	sky	天	1732	SKY
+2	242	sun	太阳	1343	SUN
+4	242	moon	月亮	1313	MOON
+5	242	star	星星	1430	STAR
+7	242	cloud	云	1489	CLOUD
+8	242	thunder	雷	1150	THUNDER
+9	242	wind	风	960	WIND
+12	242	snow	雪	784	SNOW
+14	242	frost	霜	2034	FROST
+17	242	ice	冰	617	ICE
+18	242	fire	火	221	FIRE
+19	242	smoke	烟	778	SMOKE (EXHAUST)
+20	242	air; breath	气	27	AIR
+22	242	earth	土地	1228	EARTH (SOIL)
+23	242	mountain	山	639	MOUNTAIN
+24	242	hillside; mountain slope	山坡		
+30	242	river	河	666	RIVER
+31	242	lake	湖	624	LAKE
+32	242	sea	海	1474	SEA
+38	242	path; road	路	2457	PATH OR ROAD
+40	242	soil; earth	土	2158	EARTH (WET SUBSTANCE)
+42	242	paddy fields	水田	140	PADDY FIELD
+43	242	stone	石头	857	STONE
+44	242	sand	沙子	671	SAND
+46	242	mud	泥巴	640	MUD
+47	242	water	水	948	WATER
+50	242	forest	森林	420	FOREST
+51	243	gold	金子	1369	GOLD
+52	243	silver	银子	759	SILVER
+53	243	copper, bronze	铜	3192	BRONZE OR COPPER
+54	243	iron	铁	621	IRON
+61	243	salt	盐	1274	SALT
+66	243	village	村子	930	VILLAGE
+70	243	bridge	桥	1011	BRIDGE
+74	243	head	头	1256	HEAD
+75	243	hair	头发	2648	HAIR (HEAD)
+79	243	eye	眼睛	1248	EYE
+94	243	breasts	乳房	1402	BREAST
+96	243	belly	肚子	1251	BELLY
+103	243	foot	脚	1301	FOOT
+107	243	hand	手	1277	HAND
+109	243	finger	手指	1303	FINGER
+113	243	nail	指甲	1258	FINGERNAIL
+118	243	female genitals	女生殖器		VAGINA
+120	243	skin	皮肤	763	SKIN
+125	243	scar	疤	497	SCAR
+129	243	blood	血	946	BLOOD
+130	243	tendon; sinew	筋	1137	TENDON
+132	243	brains	脑髓	1583	BRAIN
+133	243	bone	骨头	1394	BONE
+139	243	tongue	舌头	1205	TONGUE
+143	243	lung	肺	688	LUNG
+144	243	heart	心脏	1223	HEART
+145	243	liver	肝	1224	LIVER
+148	243	stomach	胃	819	STOMACH
+149	243	intestine; guts	肠子	1991	INTESTINES
+150	243	bladder	膀胱	1746	BLADDER
+151	243	excrement	屎	675	FAECES (EXCREMENT)
+153	243	fart	屁	1159	FART
+154	243	sweat	汗	125	SWEAT (SUBSTANCE)
+159	243	pus	脓	1808	PUS
+161	243	sound	声音	1811	SOUND OR NOISE
+162	243	corpse	尸体	767	CORPSE
+165	243	Han Chinese	汉族	3373	HAN CHINESE
+167	243	person	人	683	PERSON
+172	243	old lady	老太太	907	OLD WOMAN
+173	243	man	男人	1554	MAN
+174	243	woman	妇女	962	WOMAN
+179	243	soldier	士兵	1941	SOLDIER
+194	243	thief	贼	1160	THIEF
+201	244	friend	朋友	1325	FRIEND
+213	244	guest	客人	1782	GUEST
+218	244	father	父亲	1217	FATHER
+219	244	mother	母亲	1216	MOTHER
+220	244	son	儿子	1620	SON
+222	244	daughter	女儿	1357	DAUGHTER
+224	244	grandson	孙子	1618	GRANDSON
+228	244	younger brother	弟弟	1760	YOUNGER BROTHER
+229	244	younger sister	妹妹	1761	YOUNGER SISTER
+234	244	nephew	侄子	1063	NEPHEW
+235	244	brothers	兄弟	1262	BROTHER
+238	244	uncle (mother's brother)	舅父	2692	MATERNAL UNCLE (MOTHER'S BROTHER)
+249	244	stepmother	继母	236	STEPMOTHER
+254	244	cattle	牛	1153	CATTLE
+259	245	maggot	虫+且	2640	LARVA
+263	244	horn	角	1393	HORN (ANATOMY)
+264	244	hoof	蹄	152	HOOF
+268	244	horse	马	615	HORSE
+271	244	horse mane	马？		MANE
+271	244	mare	母马	938	MARE
+274	244	sheep (general)	羊	2684	CAPRINE (GOAT OR SHEEP)
+284	244	pig	猪	1337	PIG
+289	244	dog	狗	2009	DOG
+291	244	cat	猫	1208	CAT
+293	244	chicken	鸡	1318	CHICKEN
+304	244	tiger	老虎	846	TIGER
+306	244	dragon	龙	2038	DRAGON
+308	244	monkey	猴子	1350	MONKEY
+310	244	leopard; panther	豹子	1139	LEOPARD
+314	244	muntjac; barking deer	鹿子	3152	MUNTJACS
+316	244	musk	麝香		
+319	244	hedgehog	刺猬	1797	HEDGEHOG
+320	244	mouse	老鼠	2139	MUROID (MOUSE OR RAT)
+326	244	bird	鸟	937	BIRD
+327	244	bird's nest	鸟窝	539	NEST
+340	244	pheasant	野鸡	3060	PHEASANT
+342	244	turtledove	斑鸠	1853	DOVE
+347	244	cuckoo	布谷鸟	2934	CUCKOO
+347	244	snake	蛇	730	SNAKE
+349	245	frog	青蛙	503	FROG
+351	245	fish	鱼	227	FISH
+352	245	scale	鳞	266	SCALE
+353	245	worm	虫	1219	WORM
+356	245	louse	虱子	1392	LOUSE
+360	245	mosquito	蚊子	1509	MOSQUITO
+364	245	leech	蚂蟥	949	WATER LEECH
+365	245	ant	蚂蚁	587	ANT
+367	245	bee	蜂蜜	665	BEE
+372	245	tree	树	906	TREE
+375	245	root	根	670	ROOT
+376	245	leaf	叶子	628	LEAF
+378	245	fruit	水果		
+382	245	willow	柳树	818	WILLOW
+385	245	pine	松树	1740	PINE
+387	245	resin, colophony	松香	664	RESIN
+388	245	pine torches	宋明		
+389	245	bamboo	竹子	1927	BAMBOO
+390	245	cane, vine	藤子	343	VINE
+391	245	thorn; splinter	刺儿	124	THORN
+392	245	peach	杯子	2043	PEACH
+395	245	persimmon	柿子	2044	PERSIMMON
+397	245	Chinese chestnut	板栗		
+403	245	paddy rice	水稻		
+403	245	paddy rice	谷	3390	WILD RICE
+404	245	glutinous rice	糯米	2750	GLUTINOUS RICE
+405	245	seed	种子	714	SEED
+406	245	(rice) seedling	种	3050	SEEDLING
+407	245	ear; spike	穗	3244	EAR (OF GRAIN)
+408	245	rice straw	稻草	3391	RICE STRAW
+410	245	wheat	小麦	1077	WHEAT
+411	245	barley	大麦	932	BARLEY
+413	245	buckwheat	荞麦	2040	BUCKWHEAT
+414	245	wheat straw	麦秸		
+419	245	hemp	麻		HEMP
+420	245	vegetable	蔬菜	924	VEGETABLES
+423	245	onion, scallion	葱	2366	ONION
+424	245	garlic	蒜	2368	GARLIC
+425	245	ginger	姜	2500	GINGER
+430	245	pea; bean	豆	2574	BEAN OR PEA
+437	246	mushroom	蘑菇	641	MUSHROOM
+439	246	rice	米	926	RICE
+443	246	meat	肉	634	MEAT
+445	246	grease, fat	脂肪	323	FAT (ORGANIC SUBSTANCE)
+446	246	vegetable oil	清油	2555	OIL (FROM PLANTS)
+448	246	seed of Chinese prickly ash	花？	3395	SICHUAN PEPPER
+450	246	egg	蛋	744	EGG
+451	246	soup	汤	1547	SOUP
+452	246	alcoholic beverage	酒	2050	ALCOHOL (DRINK)
+454	246	tea	茶	1373	TEA
+456	246	medicine	药	1372	MEDICINE
+457	246	chaff; bran	糠	2363	CHAFF (HUSK)
+461	246	thread	线	1161	THREAD
+461	246				
+462	246	cloth	布	1616	CLOTH
+479	246	shoe	鞋	1381	SHOE
+481	246	comb	梳子	1475	COMB
+484	246	earrings	耳环	770	EARRING
+490	246	pillow	枕头	1044	PILLOW
+493	246	straw or palm-bark rain cape	蓑衣		
+494	246	house	房子	1252	HOUSE
+509	246	tile	瓦	3404	TILE
+511	246	[wood]	木头		WOOD
+512	246	plank; board	木板	1227	BOARD
+513	246	pillar	柱子	2045	COLUMN
+514	246	door	门	1567	DOOR
+522	246	garden (plot)	园子	586	GARDEN
+526	246	bed	床	1663	BED
+534	246	firewood	柴	10	FIREWOOD
+544	246	cooking stove; kitchen range	火+土		STOVE
+548	246	bamboo food steamer	蒸笼		RICE STEAMER
+551	246	ladle	勺子	2657	LADLE
+555	246	chopsticks	筷子	1987	CHOPSTICKS
+559	246	kettle; pot	壶	854	KETTLE
+560	246	vat; jar	缸	270	
+576	246	interest	利斯	2062	INTEREST
+578	246	needle	针	1382	NEEDLE (FOR SEWING)
+580	246	nail; tack	钉子	502	NAIL (TOOL)
+585	246	key	钥匙	1472	KEY
+586	246	stick	棍子	1295	STICK
+597	246	whip	鞭子		
+602	246	boat; ship	船	1844	BOAT
+605	246	axe	斧头	677	AXE
+607	247	chisel	鑿子	1979	CHISEL
+608	247	saw	锯子	1948	SAW
+615	247	plougshare	铧		
+617	247	hoe (large)	锄头	284	HOE
+619	247	rope	绳子	1218	ROPE
+623	247	fertilizer; manure	肥料	2057	DUNG (ANIMAL FAECES)
+624	247	sickle	剪刀	341	SICKLE
+626	247	trip-hammer for hulling rice	碓（水碓）		
+629	247	sieve; sifter	篩子	3353	SIEVE (TOOL)
+630	247	winnowing fan	簸箕	2051	DUSTPAN
+637	247	arrow	箭	977	ARROW
+647	247	paper	纸	648	PAPER
+651	247	speech; words; language	语	2799	LANGUAGE OR WORD
+659	247	drum	鼓	908	DRUM
+669	247	ghost, spirit	鬼	1175	GHOST
+673	247	(soul); spirit	灵魂	53	SPIRIT
+687	247	name	名字	1405	NAME
+695	247	trace; track	痕迹		
+698	247	shadow	影子	1388	SHADE
+699	247	dream	梦	2374	DREAM
+703	247	direction; orientation	方向	3427	DIRECTION
+710	247	left	左边	244	LEFT
+713	247	back, behind	后边	1686	BEHIND
+714	247	outside	外边	762	OUTSIDE
+722	247	the upper part; up reaches; above	上方（地势，河流）	2379	UP OR ABOVE
+738	247	today	今天	1283	TODAY
+739	247	yesterday	昨天	1174	YESTERDAY
+752	247	at night; in the evening	晚上		EVENING
+767	247	the 12 animals representing the 12 years	属相		
+771	247	month	月	1370	MONTH
+781	247	next year	名年	515	NEXT YEAR
+797	247	one	一	1493	ONE
+798	247	two	二	1498	TWO
+799	247	three	三	492	THREE
+800	247	four	四	1500	FOUR
+801	247	five	五	493	FIVE
+802	247	six	六	1703	SIX
+803	248	seven	七	1704	SEVEN
+804	248	eight	八	1705	EIGHT
+805	248	nine	九	1483	NINE
+806	248	ten	十	1515	TEN
+808	248	twelve	十二	1707	TWELVE
+824	248	hundred	百	1634	HUNDRED
+826	248	thousand	千	1843	THOUSAND
+832	248	a half	一半	816	HALF
+839	248	classifier [sheet of paper]	张（纸）		SHEET (CLASSIFIER)
+842	248	classifier [birds]	只（鸟）		
+845	248	classifier [grain]	厘（米）		GRAIN (CLASSIFIER)
+848	248	classifier [tree]	棵（树）		TREE (CLASSIFIER)
+852	248	classifier [handfull]	把（菜）		
+864	248	classifier [clothes]	件（衣服）		CLOTHING (CLASSIFIER)
+876	248	classifier [back of firewood]	背（柴）		
+881	248	classifier [???]	戴（米）		
+889	248	classifier [room]	间（房）		
+894	248	classifier [weight unit]	两		
+899	248	classifier [length unit]	庹		
+910	248	day	天	1260	DAY (24 HOURS)
+914	248	a year old	岁		
+916	248	step	步	1158	STEP
+928	248	I	我	1209	I
+931	248	you	你	1215	THOU
+934	248	he	他	2642	HE OR SHE
+964	248	big	大	1202	BIG
+966	248	wide	粗	1243	WIDE
+968	248	high	高	1265	HIGH
+969	248	low; short	低（矮）	2191	LOW (HEIGHT)
+972	248	long	长	1203	LONG
+974	248	far	远	1406	FAR
+975	248	near	近	1942	NEAR
+976	248	wide	宽	1243	WIDE
+977	248	narrow	窄	1267	NARROW
+980	248	thick	厚	1244	THICK
+982	248	deep	深	1593	DEEP
+985	248	empty	空	1624	EMPTY
+987	248	many	多	1198	MANY
+990	248	round	圆	1395	ROUND
+994	248	smooth	平	1234	SMOOTH
+999	248	slanting; learning	偏	3075	SLANTED
+1002	248	vertical, be standing	竖	2375	VERTICAL
+1003	248	straight	直	1404	STRAIGHT
+1004	248	curved; crooked; bent	弯	1698	CURVED
+1005	248	black	黑	163	BLACK
+1006	248	white	白	1335	WHITE
+1007	248	red	红	156	RED
+1008	249	yellow	黄	1424	YELLOW
+1013	249	dark	暗	706	DARK
+1014	249	heavy	重	1210	HEAVY
+1015	249	light	轻	1052	LIGHT (WEIGHT)
+1018	249	early	早	672	EARLY
+1019	249	late	晚	477	LATE
+1020	249	sharp	尖；锋利	1396	SHARP
+1023	249	muddy; turbid	浑浊	537	TURBID
+1028	249	dry	干	1398	DRY
+1031	249	watery/thin (porridge)	稀（粥）	207	SPARSE
+1035	249	soft	软	1856	SOFT
+1045	249	correct; right	对	1725	CORRECT (RIGHT)
+1047	249	real	真		
+1048	249	fraud	假		
+1050	249	new	新	1231	NEW
+1051	249	used, old	旧	2113	OLD (USED)
+1052	249	good	好	1035	GOOD
+1053	249	bad (things)	坏	1292	BAD
+1057	249	tender young (plant)	嫩（植物）		
+1062	249	hot	热	1286	HOT
+1063	249	cold	冷	1287	COLD
+1064	249	lukewarm	温（水）		
+1068	249	easy	容易	686	EASY
+1069	249	fragrant (smell)	相	376	FRAGRANT
+1070	249	stinking; smelly	臭	42	STINKING
+1072	249	sour	酸	1906	SOUR
+1074	249	bitter	苦	887	BITTER
+1076	249	salty	咸	1091	SALTY
+1078	249	astringent; like unripe	涩		
+1083	249	rich	富	712	RICH
+1089	249	dead	死	1625	DEAD
+1094	249	loud	响	377	LOUD
+1124	249	cliffy; precipitous	陡峭	2717	STEEP
+1126	249	love; like	爱	1117	LIKE
+1129	249	press (with palm of finger)	按	1913	PRESS
+1131	249	pull up (weeds)	拔（草）	2066	PULL UP (RICE SEEDLINGS)
+1132	249	to rake (the fields)	耙（田）	3127	RAKE (SOMETHING)
+1141	249	bind; tie up	绑	2891	TIE UP (TETHER)
+1148	249	have eaten one's fill	饱		
+1149	249	hug	抱	928	EMBRACE
+1151	249	carry (a child on the back)	背		
+1151	249	carry (shoulder)	背	413	CARRY ON SHOULDER
+1155	250	close (the mouth)	闭（口）	2063	CLOSE (EYES)
+1156	250	to plait	编（辫子）	3295	BRAID (VERB)
+1158	250	change	变化	2857	CHANGE (BECOME DIFFERENT)
+1160	250	to be ill	病	1847	SICK
+1161	250	patch (clothing)	不（依附）	2243	REPAIR
+1168	250	step on; tread	踩	575	TREAD
+1169	250	hide	藏（东西)	2486	HIDE
+1171	250	to poke; insert	播（牌子）	3071	INSERT
+1172	250	transplant (rice seedling); insert	播（种）		
+1174	250	unseam (clothing)	拆衣服		
+1186	250	stir-fry; stir	炒	2162	STIR FRY
+1188	250	weigh (food)	称（粮食）	1098	WEIGH
+1194	250	fill (a bowl with rice)	盛（饭）	2006	FILL
+1198	250	eat	吃	1336	EAT
+1212	250	put on (the shoes)	穿（鞋）	158	PUT ON
+1218	250	blow (the trumpet)	吹（喇叭）	176	BLOW (WITH MOUTH)
+1225	250	twist (hemp fivers)	搓（绳）	3236	TWIST (TOGETHER)
+1234	250	fight	打架	1423	FIGHT
+1240	250	to bet	打赌		
+1248	250	to thunder	打雷	2378	THUNDER (VERB)
+1252	250	wear (a hat)	戴（帽子）	3428	WEAR (ON HEAD)
+1254	250	wear (a bracelet)	戴（手？）	976	WEAR
+1256	250	to block (the wind)	挡（风）	2762	BLOCK (THE WAY)
+1263	250	get; acquire	得到	694	GET
+1264	250	wait	等待	1590	WAIT (FOR)
+1265	250	earth quake	地震		
+1269	250	to burn	燃烧	2102	BURN
+1274	250	to drop	掉（下)	750	DROP
+1287	250	read	读	724	READ
+1298	250	be hungry	饿	1533	BE HUNGRY
+1318	250	fly	飞	1441	FLY (MOVE THROUGH AIR)
+1319	250	divide; share (things)	分（东西）	1119	DIVIDE
+1332	250	pull (a quilt over oneself)	盖（被）	1455	PULL
+1339	250	cut (meat)	割（肉）	2156	CUT (WITH KNIFE)
+1343	250	be on the other side of (a river)	隔（河）		
+1345	250	give	给	1447	GIVE
+1347	250	plough; till	耕	1921	PLOUGH
+1348	251	to hook	钩	1071	HOOK
+1357	251	to pen in (sheep)	关（羊）		
+1360	251	kneel	跪	66	KNEEL
+1370	251	drink	喝	1401	DRINK
+1383	251	to change	换	1264	CHANGE
+1384	251	wave; wield	挥动	978	WAVE
+1385	251	return	回	581	COME BACK
+1405	251	squeeze (for milk)	济（奶）	93	DRAW MILK
+1412	251	pick up (food with chopstick) [fasten the belt]	系（腰带）		
+1413	251	pick up (food with chopstick)	夹（菜）	371	PICK UP
+1414	251	pick up	捡		GATHER
+1416	251	scissor	剪	2155	CUT (WITH SCISSORS)
+1419	251	exchange	交换	2509	EXCHANGE
+1422	251	to water/sprinkle/irrigate	浇（水）	3078	IRRIGATE
+1425	251	teach	教	709	TEACH
+1438	251	lift (the lid)	揭（盖子）	501	LIFT
+1438	251	to bark	叫（狗）	1206	BARKING
+1442	251	to borrow (money)	借（钱）	1823	BORROW
+1443	251	to borrow (tools)	借（工具）		
+1444	251	soak; steep	浸泡	2069	SOAK (VERB)
+1452	251	live; reside	居住	363	DWELL (LIVE, RESIDE)
+1454	251	to saw	锯	1948	SAW
+1461	251	open	开（门）	1156	OPEN
+1462	251	(water) be boiling	开（水）	792	BOIL (OF LIQUID)
+1474	251	roast in fire	烤（火）		ROAST (SOMETHING)
+1477	251	to cough	咳？	879	COUGH
+1478	251	be thirsty	渴	847	THIRSTY
+1485	251	cry (verb or noun?, should be made clear later on)	哭	1839	CRY
+1487	251	pull; tug	拉		TUG
+1489	251	peppery	辣		
+1493	251	old	老的	1229	OLD
+1502	251	(water flow)	流水		
+1506	251	to leak	漏（水）	2253	DRIP (EMIT LIQUID)
+1513	251	be numb	麻木	2216	BECOME NUMB
+1516	251	buy	买	1869	BUY
+1517	251	sell	卖	1571	SELL
+1521	251	(birds)cry/chirp	鸣（鸟）		
+1523	251	close (the mouth) lightly	抿着（嘴）		
+1525	251	stroke; touch	摸	1892	TOUCH
+1526	251	whet (a knife)	磨（刀）	251	SHARPEN (SOMETHING)
+1527	252	grind (flour)	磨（面）	1033	GRIND
+1533	252	twist (a tower)	拧（毛巾）	3199	TWIST (AROUND)
+1535	252	vomit/throw up	呕吐	1278	VOMIT
+1536	252	(people) crawl	爬（人）	96	CRAWL
+1546	252	compensate	赔偿		
+1552	252	chop (firewood)	劈（柴）	155	CHOP
+1553	252	float	漂浮	1574	FLOAT
+1561	252	cut/rip open	剖	1432	CUT
+1562	252	pave; lay	铺	2071	LAY (VERB)
+1566	252	ride	骑	367	RIDE
+1568	252	pull/lead (a cow) along	牵（牛）	43	LEAD (GUIDE)
+1569	252	to owe (monez)	欠（钱）	369	OWE
+1574	252	cut up (vegetable)	切（菜）		
+1580	252	fully recover (from an illness)	痊愈（病）		
+1587	252	heat up (cold rice)	热（饭）	1341	HEAT UP
+1596	252	piss; pee	撒（尿）	592	PISS
+1597	252	scatter (seeds)	撒（种）	2064	SCATTER (SEEDS)
+1601	252	seep [sweep]	扫		SWEEP
+1602	252	kill	杀		KILL
+1604	252	dry (clothes) in the sun	晒（衣服）		
+1611	252	shoot (an arrow)	射（箭）		
+1613	252	stretch out (the arm)	伸	214	STRETCH
+1634	252	to comb	梳	2070	COMB (VERB)
+1635	252	lose (a game)	输	1660	LOSE
+1638	252	(fruit) be ripe	熟（果子）	178	RIPE
+1643	252	fling; toss	甩	1456	THROW
+1645	252	tie (a cow) to	栓（牛）		
+1648	252	suck	吮	1421	SUCK
+1649	252	say	说	1458	SAY
+1650	252	tear up, rip	撕	1735	TEAR (SHRED)
+1651	252	die	死	1494	DIE
+1656	252	lock (the door)	锁（门）	1596	LOCK
+1663	252	escape; run away	逃跑	956	FLEE
+1666	252	(head) ache	痛（头痛）	1815	ACHE
+1668	252	shave (the head)	剃头	231	SHAVE
+1674	252	lick, lap	添	319	LICK
+1681	252	listen	听	1608	LISTEN
+1688	252	spit (noun or verb?)	吐（痰）		
+1707	252	to smell	闻（嗅）	2124	SMELL
+1708	252	ask; question	问	1309	ASK (INQUIRE)
+1715	252	be blind	瞎	1653	BLIND
+1718	252	lay (eggs)	下（蛋）	2464	LAY EGGS
+1719	253	(rain) fall	下（雨）	2234	FALL (OF SNOW AND RAIN)
+1726	253	think	想	2271	THINK
+1733	253	pare/peel with a knife	削		PEEL
+1735	253	laugh	笑	1355	LAUGH
+1740	253	to rest	休息		
+1741	253	embroider	绣		
+1742	253	study, learn	学		
+1745	253	press, push down	压		PUSH
+1746	253	[castrate (chicken)]	阉（鸡）		
+1749	253	to itch/tickle	痒	148	ITCH
+1754	253	scoop up (water); ladle out	舀（水）	2788	LADLE (WATER)
+1755	253	want; need	要	1784	WANT
+1764	253	have (you)	有（钱）	773	HAVE
+1793	253	(wasps) sting	蜇（马蜂）	571	STING
+1797	253	steam	蒸	1193	STEAM
+1799	253	weave; knit	织	2905	KNIT
+1802	253	swell	肿	1573	SWELL
+1803	253	use or lean on (a walking stick)	拄	2072	USE (VERB)
+1804	253	cook; boil	煮	1100	COOK (SOMETHING)
+1806	253	turn around	转（身）	1444	TURN AROUND
+1813	253	catch; capture	捉	702	CATCH
+1819	253	sit	坐	1416	SIT
+1823	253	[loach]	泥鳅		
+1829	253	leg	腿	1297	LEG
+1852	253	bark	树皮	1204	BARK
+1858	253	jar	甄子	1462	POT
+1863	253	price	价	657	PRICE
+2073	253	[cow louse]	牛虱		
+2075	253	[ethanol]	酒精		
+2086	253	bamboo piece	蔑		
+2105	253	paint	漆		PAINT (PIGMENTS)
+2109	253	stomach [bird crop]	嗉子		
+2118	253	eagle fern	蕨菜		
+2121	253	[pull up weeds]	蒿草		
+2124	253	(xx language) 	语言		

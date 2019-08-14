@@ -21,12 +21,12 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1559	MZL		461	xɯ33	xɯ33	x ɯ ³³	461	
 3748	PB	(birds)cry/chirp	1521	mæ1b	mæ1b	m æ 1b/¹	1521	
 3749	TL	(birds)cry/chirp	1521	ma35	ma35	m a ³⁵	1521	
-3750	GX	(birds)cry/chirp	1521	mæ12	mæ12	m æ ¹² +	1521	
+3750	GX	(birds)cry/chirp	1521	mæ12	mæ12	m æ ¹²	1521	
 3751	EQ	(birds)cry/chirp	1521	mæ21	mæ21	m æ ²¹	1521	
 3752	JX	(birds)cry/chirp	1521	man21	man21	m a n ²¹	1521	
 3753	DS	(birds)cry/chirp	1521	mɚ21	mɚ21	m ɚ/ə ²¹	1521	
 3754	MZL	(birds)cry/chirp	1521	mɚ̃21	mɚ̃21	m ɚ/ə̃ ²¹	1521	
-3983	PB	(fruit) be ripe	1638	dzro4	dzro4	dzr o ⁴	1638	
+3983	PB	(fruit) be ripe	1638	dzro4	dzro4	ɖʐ o ⁴	1638	
 3984	TL	(fruit) be ripe	1638	ʐy42	ʐy42	ʐ y ⁴²	1638	
 3985	GX	(fruit) be ripe	1638	dzao21	dzao21	dz ao ²¹	1638	
 3986	EQ	(fruit) be ripe	1638	tɕio21	tɕio21	tɕ i/j o ²¹	1638	
@@ -64,7 +64,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4159	DS	(rain) fall	1719	ɣou42	ɣou42	ɣ ou ⁴²	1719	
 4160	ZC	(rain) fall	1719	ou42(vu33ɕi44)	ou42	o u ⁴²	1719	
 4161	MZL	(rain) fall	1719	ɣo42	ɣo42	ɣ o ⁴²	1719	
-1283	PB	(rice) seedling	406	dzri1	dzri1	dzr i ¹	406	
+1283	PB	(rice) seedling	406	dzri1	dzri1	ɖʐ i ¹	406	
 1284	TL	(rice) seedling	406	ʐɚ35	ʐɚ35	ʐ ɚ/ə ³⁵	406	
 1285	GX	(rice) seedling	406	dʐi21	dʐi21	ɖʐ i ²¹	406	
 1286	EQ	(rice) seedling	406	tsɿ21	tsɿ21	ts ɿ ²¹	406	
@@ -95,7 +95,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4257	MZL	(wasps) sting	1793	tsʰo44	tsʰo44	tsʰ o ⁴⁴	1793	
 3698	PB	(water flow)	1502	gɯ1	gɯ1	g ɯ ¹	1502	
 3699	TL	(water flow)	1502	gɯ35	gɯ35	g ɯ ³⁵	1502	
-3700	GX	(water flow)	1502	gɯ12	gɯ12	g ɯ ¹² +	1502	
+3700	GX	(water flow)	1502	gɯ12	gɯ12	g ɯ ¹²	1502	
 3701	EQ	(water flow)	1502	kɯ21	kɯ21	k ɯ ²¹	1502	
 3702	EG	(water flow)	1502	kɯ21	kɯ21	k ɯ ²¹	1502	
 3703	JM	(water flow)	1502	kɯ21	kɯ21	k ɯ ²¹	1502	
@@ -222,9 +222,9 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1497	DS	alcoholic beverage	452	tsõ33	tsõ33	ts õ ³³	452	
 1498	ZC	alcoholic beverage	452	tsi33	tsi33	ts i ³³	452	
 1499	MZL	alcoholic beverage	452	tsoŋ33	tsoŋ33	ts o ŋ ³³	452	
-1105	PB	ant	365	bri1bɯ1	bri1bɯ1	b r i 1b/¹ ɯ ¹	365	
+1105	PB	ant	365	bri1bɯ1	bri1bɯ1	b r i 1b/¹ + ɯ ¹	365	
 1106	TL	ant	365	tɕien55(ɕaŋ55)	tɕien55	tɕ i/j e n ⁵⁵	365	
-1107	GX	ant	365	dzu12bu12	dzu12bu12	dz u ¹² + b u ¹² +	365	
+1107	GX	ant	365	dzu12bu12	dzu12bu12	dz u ¹² + b u ¹²	365	
 1108	EQ	ant	365	tsu43pɯ21	tsu43pɯ21	ts u ⁴ + ³ + p ɯ ²¹	365	
 1109	EG	ant	365	tɕi21pɯ21	tɕi21pɯ21	tɕ i ²¹ + p ɯ ²¹	365	
 1110	JM	ant	365	tɕi21pɯ21	tɕi21pɯ21	tɕ i ²¹ + p ɯ ²¹	365	
@@ -256,7 +256,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2911	TL	astringent; like unripe	1078	ʂi4	ʂi4	ʂ i ⁴	1078	
 2912	GX	astringent; like unripe	1078	tsua24	tsua24	ts u/w a ²⁴	1078	
 2913	EQ	astringent; like unripe	1078	sɿ55	sɿ55	s ɿ ⁵⁵	1078	
-2914	EG	astringent; like unripe	1078	(kʰui42/tsʰi42)	tsʰi42)	tsʰ i ⁴² +	1078	
+2914	EG	astringent; like unripe	1078	(kʰui42/tsʰi42)	tsʰi42)	tsʰ i ⁴²	1078	
 2915	JM	astringent; like unripe	1078	ʂɚ55	ʂɚ55	ʂ ɚ/ə ⁵⁵	1078	
 2916	JX	astringent; like unripe	1078	sa44	sa44	s a ⁴⁴	1078	
 2917	DS	astringent; like unripe	1078	ʂi44	ʂi44	ʂ i ⁴⁴	1078	
@@ -295,7 +295,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2801	PB	bad (things)	1053	quɛ3	quɛ3	q u/w ɛ ³	1053	
 2802	TL	bad (things)	1053	quɛ21	quɛ21	q u/w ɛ ²¹	1053	
 2803	GX	bad (things)	1053	quɛ42	quɛ42	q u/w ɛ ⁴²	1053	
-2804	EQ	bad (things)	1053	quE43	quE43	q u ᴇ ⁴ + ³	1053	
+2804	EQ	bad (things)	1053	quE43	quE43	q u ᴇ/ɛ ⁴ + ³	1053	
 2805	EG	bad (things)	1053	quɛ42	quɛ42	q u/w ɛ ⁴²	1053	
 2806	JM	bad (things)	1053	que42	que42	q u/w e ⁴²	1053	
 2807	JX	bad (things)	1053	kua44	kua44	k u/w a ⁴⁴	1053	
@@ -313,14 +313,14 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1202	MZL	bamboo	389	tsu44	tsu44	ts u ⁴⁴	389	
 1702	PB	bamboo food steamer	548	ŋuen1	ŋuen1	ŋ u/w e n ¹	548	
 1703	TL	bamboo food steamer	548	uen35	uen35	u e n ³⁵	548	
-1704	GX	bamboo food steamer	548	uen12	uen12	u e n ¹² +	548	
+1704	GX	bamboo food steamer	548	uen12	uen12	u e n ¹²	548	
 1705	EQ	bamboo food steamer	548	ŋui21	ŋui21	ŋ u i ²¹	548	
 1706	EG	bamboo food steamer	548	ŋuɛ21	ŋuɛ21	ŋ u/w ɛ ²¹	548	
 1707	JX	bamboo food steamer	548	uẽ21	uẽ21	u ẽ ²¹	548	
 1708	DS	bamboo food steamer	548	uen21	uen21	u e n ²¹	548	
 1709	ZC	bamboo food steamer	548	uɛ21	uɛ21	u ɛ ²¹	548	
 4397	PB	bamboo piece	2086	mi1b	mi1b	m i 1b/¹	2086	
-4398	GX	bamboo piece	2086	mi12	mi12	m i ¹² +	2086	
+4398	GX	bamboo piece	2086	mi12	mi12	m i ¹²	2086	
 4399	EQ	bamboo piece	2086	mi21	mi21	m i ²¹	2086	
 4400	EG	bamboo piece	2086	ɲyi21	ɲyi21	ɲ y i ²¹	2086	
 4401	JM	bamboo piece	2086	(tɕiu44pʰe42)	tɕiu44pʰe42	tɕ i u ⁴⁴ + pʰ e ⁴²	2416	
@@ -338,7 +338,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4365	MZL	bark	1852	ɕen55pe21	ɕen55pe21	ɕ e n ⁵⁵ + p e ²¹	1852	
 1323	PB	barley	411	zɔ1	zɔ1	z ɔ ¹	411	
 1324	TL	barley	411	zɔ35	zɔ35	z ɔ ³⁵	411	
-1325	GX	barley	411	zao12	zao12	z ao ¹² +	411	
+1325	GX	barley	411	zao12	zao12	z ao ¹²	411	
 1326	EQ	barley	411	zo43	zo43	z o ⁴ + ³	411	
 1327	EG	barley	411	zo21	zo21	z o ²¹	411	
 1328	JM	barley	411	zao21	zao21	z ao ²¹	411	
@@ -398,7 +398,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3660	MZL	be thirsty	1478	kʰɐ44 (is ɐ a regular phoneme of  mzl or is this a mistake?)	kʰɐ44	kʰ ɐ ⁴⁴	1478	
 1674	PB	bed	526	droŋ1	droŋ1	d r o ŋ ¹	526	
 1675	TL	bed	526	dioŋ35	dioŋ35	d i/j o ŋ ³⁵	526	
-1676	GX	bed	526	dzoŋ12	dzoŋ12	dz o ŋ ¹² +	526	
+1676	GX	bed	526	dzoŋ12	dzoŋ12	dz o ŋ ¹²	526	
 1677	EQ	bed	526	tio21	tio21	t i/j o ²¹	526	
 1678	EG	bed	526	(ŋu22ti22tɕʰu42qʰa44)	ŋu22ti22tɕʰu42qʰa44	ŋ u ²² + t i ²² + tɕʰ u ⁴² + qʰ a ⁴⁴	2210	
 1679	JM	bed	526	(ũ42fi22tɕʰu42)	ũ42fi22tɕʰu42	ũ ⁴² + f i ²² + tɕʰ u ⁴²	2211	
@@ -516,7 +516,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3199	MZL	blow (the trumpet)	1218	pʰǝɯ55	pʰǝɯ55	pʰ ə ɯ ⁵⁵	1218	
 1806	PB	boat; ship	602	jen1b	jen1b	j e n 1b/¹	602	
 1807	TL	boat; ship	602	jen35	jen35	j e n ³⁵	602	
-1808	GX	boat; ship	602	jen12	jen12	j e n ¹² +	602	
+1808	GX	boat; ship	602	jen12	jen12	j e n ¹²	602	
 1809	EQ	boat; ship	602	ɲia21	ɲia21	ɲ i/j a ²¹	602	
 1810	EG	boat; ship	602	ɲa21	ɲa21	ɲ a ²¹	602	
 1811	JM	boat; ship	602	ɲɚ21	ɲɚ21	ɲ ɚ/ə ²¹	602	
@@ -542,7 +542,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 484	JM	brains	132	nõ22	nõ22	n õ ²²	132	
 485	JX	brains	132	nõ33	nõ33	n õ ³³	132	
 486	DS	brains	132	nõ33	nõ33	n õ ³³	132	
-487	ZC	brains	132	[nao31kʰv55/nao31tsi33]	nao31tsi33]	n ao ³¹ + ts i ³³ +	132	
+487	ZC	brains	132	[nao31kʰv55/nao31tsi33]	nao31tsi33]	n ao ³¹ + ts i ³³	132	
 488	MZL	brains	132	nɚ̃22ɕyi22	nɚ̃22ɕyi22	n ɚ/ə̃ ²² + ɕ y i ²²	132	
 372	PB	breasts	94	ba4	ba4	b a ⁴	94	
 373	TL	breasts	94	bo42	bo42	b o ⁴²	94	
@@ -556,7 +556,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 381	MZL	breasts	94	[ŋɔŋ33]	ŋɔŋ33	ŋ ɔ ŋ ³³	2149	1
 332	PB	bridge	70	gu1	gu1	g u ¹	70	
 333	TL	bridge	70	gv35	gv35	g v ³⁵	70	
-334	GX	bridge	70	gu12	gu12	g u ¹² +	70	
+334	GX	bridge	70	gu12	gu12	g u ¹²	70	
 335	EQ	bridge	70	ku21	ku21	k u ²¹	70	
 336	EG	bridge	70	kv21	kv21	k v ²¹	70	
 337	JM	bridge	70	kv21	kv21	k v ²¹	70	
@@ -572,7 +572,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 780	MZL	brothers	235	joŋ55tʰɛ33	joŋ55tʰɛ33	j o ŋ ⁵⁵ + tʰ ɛ ³³	235	
 1333	PB	buckwheat	413	go1	go1	g o ¹	413	
 1334	TL	buckwheat	413	gv35	gv35	g v ³⁵	413	
-1335	GX	buckwheat	413	gao12	gao12	g ao ¹² +	413	
+1335	GX	buckwheat	413	gao12	gao12	g ao ¹²	413	
 1336	EQ	buckwheat	413	ku21	ku21	k u ²¹	413	
 1337	EG	buckwheat	413	kv21	kv21	k v ²¹	413	
 1338	JM	buckwheat	413	kv21	kv21	k v ²¹	413	
@@ -593,7 +593,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1203	PB	cane, vine	390	mɛ5	mɛ5	m ɛ ⁵	390	
 1204	TL	cane, vine	390	mɛ21	mɛ21	m ɛ ²¹	390	
 1205	GX	cane, vine	390	men42	men42	m e n ⁴²	390	
-1206	EQ	cane, vine	390	mE43	mE43	m ᴇ ⁴ + ³	390	
+1206	EQ	cane, vine	390	mE43	mE43	m ᴇ/ɛ ⁴ + ³	390	
 1207	EG	cane, vine	390	mɛ42	mɛ42	m ɛ ⁴²	390	
 1208	JM	cane, vine	390	me42	me42	m e ⁴²	390	
 1209	JX	cane, vine	390	me42	me42	m e ⁴²	390	
@@ -630,7 +630,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4325	MZL	catch; capture	1813	kɚ44	kɚ44	k ɚ/ə ⁴⁴	1813	
 797	PB	cattle	254	ŋɯ1b	ŋɯ1b	ŋ ɯ 1b/¹	254	
 798	TL	cattle	254	ŋe35	ŋe35	ŋ e ³⁵	254	
-799	GX	cattle	254	ŋe12	ŋe12	ŋ e ¹² +	254	
+799	GX	cattle	254	ŋe12	ŋe12	ŋ e ¹²	254	
 800	EQ	cattle	254	ŋɯ21	ŋɯ21	ŋ ɯ ²¹	254	
 801	EG	cattle	254	ŋɯ21	ŋɯ21	ŋ ɯ ²¹	254	
 802	JM	cattle	254	ɯ̃21	ɯ̃21	ɯ̃ ²¹	254	
@@ -651,7 +651,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3059	PB	change	1158	pren5	pren5	p r e n ⁵	1158	
 3060	TL	change	1158	tɕyen21	tɕyen21	tɕ y/ɥ e n ²¹	1158	
 3061	GX	change	1158	tɕyen42	tɕyen42	tɕ y/ɥ e n ⁴²	1158	
-3062	EQ	change	1158	pE43	pE43	p ᴇ ⁴ + ³	1158	
+3062	EQ	change	1158	pE43	pE43	p ᴇ/ɛ ⁴ + ³	1158	
 3063	EG	change	1158	(ka42)pɛ42	pɛ42	p ɛ ⁴²	1158	
 3064	JM	change	1158	(ka42)pe42	pe42	p e ⁴²	1158	
 3065	JX	change	1158	pien42	pien42	p i/j e n ⁴²	1158	
@@ -661,7 +661,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 891	PB	chicken	293	qɛ1	qɛ1	q ɛ ¹	293	
 892	TL	chicken	293	qɛ55	qɛ55	q ɛ ⁵⁵	293	
 893	GX	chicken	293	qɛ55	qɛ55	q ɛ ⁵⁵	293	
-894	EQ	chicken	293	qE24	qE24	q ᴇ ²⁴	293	
+894	EQ	chicken	293	qE24	qE24	q ᴇ/ɛ ²⁴	293	
 895	EG	chicken	293	qɛ55	qɛ55	q ɛ ⁵⁵	293	
 896	JM	chicken	293	qɛ̃55	qɛ̃55	q ɛ̃ ⁵⁵	293	
 897	JX	chicken	293	ki55	ki55	k i ⁵⁵	293	
@@ -688,7 +688,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3838	DS	chop (firewood)	1552	pʰou31	pʰou31	pʰ ou ³¹	1552	
 3839	ZC	chop (firewood)	1552	pʰo42	pʰo42	pʰ o ⁴²	1552	
 3840	MZL	chop (firewood)	1552	(tʰu55)	tʰu55	tʰ u ⁵⁵	2368	
-1720	PB	chopsticks	555	dzro3	dzro3	dzr o ³	555	
+1720	PB	chopsticks	555	dzro3	dzro3	ɖʐ o ³	555	
 1721	TL	chopsticks	555	ʐv21	ʐv21	ʐ v ²¹	555	
 1722	GX	chopsticks	555	dʐao42	dʐao42	ɖʐ ao ⁴²	555	
 1723	EQ	chopsticks	555	dʐo42	dʐo42	ɖʐ o ⁴²	555	
@@ -700,7 +700,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1729	MZL	chopsticks	555	tsǝɯ21	tsǝɯ21	ts ə ɯ ²¹	555	
 2328	PB	classifier [???]	881	noŋ1b	noŋ1b	n o ŋ 1b/¹	881	
 2329	TL	classifier [???]	881	noŋ35	noŋ35	n o ŋ ³⁵	881	
-2330	GX	classifier [???]	881	nõ12	nõ12	n õ ¹² +	881	
+2330	GX	classifier [???]	881	nõ12	nõ12	n õ ¹²	881	
 2331	EQ	classifier [???]	881	no21	no21	n o ²¹	881	
 2332	EG	classifier [???]	881	nõ21	nõ21	n õ ²¹	881	
 2333	JM	classifier [???]	881	nõ21	nõ21	n õ ²¹	881	
@@ -708,14 +708,14 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2335	MZL	classifier [???]	881	noŋ21	noŋ21	n o ŋ ²¹	881	
 2321	PB	classifier [back of firewood]	876	bjo2	bjo2	b j o ²	876	
 2322	TL	classifier [back of firewood]	876	vɚ33	vɚ33	v ɚ/ə ³³	876	
-2323	GX	classifier [back of firewood]	876	(Iæn42) (what consonant iss "I"?, should be checked in any case)	Iæn42)	I/i æ n ⁴² +	2255	
-2324	EQ	classifier [back of firewood]	876	(Iæ43) (dito, GX)	Iæ43)	I/i æ ⁴ + ³ +	2256	
+2323	GX	classifier [back of firewood]	876	(Iæn42) (what consonant iss "I"?, should be checked in any case)	Iæn42)	I/i æ n ⁴²	2255	
+2324	EQ	classifier [back of firewood]	876	(Iæ43) (dito, GX)	Iæ43)	I/i æ ⁴³	2256	
 2325	JX	classifier [back of firewood]	876	v33	v33	v ³³	876	
 2326	DS	classifier [back of firewood]	876	(jɚ42)	jɚ42	j ɚ/ə ⁴²	2257	
 2327	MZL	classifier [back of firewood]	876	bi33	bi33	b i ³³	876	
 2272	PB	classifier [birds]	842	djɯ1	djɯ1	d j ɯ ¹	842	
 2273	TL	classifier [birds]	842	diɯ35	diɯ35	d i/j ɯ ³⁵	842	
-2274	GX	classifier [birds]	842	di12	di12	d i ¹² +	842	
+2274	GX	classifier [birds]	842	di12	di12	d i ¹²	842	
 2275	EQ	classifier [birds]	842	diɯ21	diɯ21	d i/j ɯ ²¹	842	
 2276	EG	classifier [birds]	842	tsu44tɕi21	tsu44tɕi21	ts u ⁴⁴ + tɕ i ²¹	842	
 2277	JM	classifier [birds]	842	tso44a42ʈɯ21	tso44a42ʈɯ21	ts o ⁴⁴ + a ⁴² + ʈ ɯ ²¹	842	
@@ -745,7 +745,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2302	PB	classifier [handfull]	852	ʦʰua4	ʦʰua4	tsʰ u/w a ⁴	852	
 2303	TL	classifier [handfull]	852	tsʰuo42	tsʰuo42	tsʰ u o ⁴²	852	
 2304	GX	classifier [handfull]	852	(dʑɛ24)	dʑɛ24	d ʑ ɛ ²⁴	2249	
-2305	EQ	classifier [handfull]	852	(qE24)	qE24	q ᴇ ²⁴	2250	
+2305	EQ	classifier [handfull]	852	(qE24)	qE24	q ᴇ/ɛ ²⁴	2250	
 2306	EG	classifier [handfull]	852	(qɛ55)	qɛ55	q ɛ ⁵⁵	2251	
 2307	JM	classifier [handfull]	852	(qẽ55)	qẽ55	q ẽ ⁵⁵	2252	
 2308	JX	classifier [handfull]	852	tsʰuɑ44	tsʰuɑ44	tsʰ u ɑ ⁴⁴	852	
@@ -754,7 +754,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2311	MZL	classifier [handfull]	852	(keɯ44)	keɯ44	k e ɯ ⁴⁴	2254	
 2354	PB	classifier [length unit]	899	zen1	zen1	z e n ¹	899	
 2355	TL	classifier [length unit]	899	zi35	zi35	z i ³⁵	899	
-2356	GX	classifier [length unit]	899	zien12	zien12	z i/j e n ¹² +	899	
+2356	GX	classifier [length unit]	899	zien12	zien12	z i/j e n ¹²	899	
 2357	EQ	classifier [length unit]	899	zɿ21	zɿ21	z ɿ ²¹	899	
 2358	EG	classifier [length unit]	899	zɛ21	zɛ21	z ɛ ²¹	899	
 2359	JM	classifier [length unit]	899	zẽ21	zẽ21	z ẽ ²¹	899	
@@ -774,7 +774,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2345	MZL	classifier [room]	889	kɚ̃55	kɚ̃55	k ɚ/ə̃ ⁵⁵	889	
 2262	PB	classifier [sheet of paper]	839	troŋ1	troŋ1	t r o ŋ ¹	839	
 2263	TL	classifier [sheet of paper]	839	tioŋ55	tioŋ55	t i/j o ŋ ⁵⁵	839	
-2264	GX	classifier [sheet of paper]	839	tsoŋ12	tsoŋ12	ts o ŋ ¹² +	839	
+2264	GX	classifier [sheet of paper]	839	tsoŋ12	tsoŋ12	ts o ŋ ¹²	839	
 2265	EQ	classifier [sheet of paper]	839	tio24	tio24	t i/j o ²⁴	839	
 2266	EG	classifier [sheet of paper]	839	(sy55qa42qa42)	sy55qa42qa42	s y ⁵⁵ + q a ⁴² + q a ⁴²	2248	
 2267	JM	classifier [sheet of paper]	839	ʈõ55	ʈõ55	ʈ õ ⁵⁵	839	
@@ -830,7 +830,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1540	PB	cloth	462	sʰɛ4	sʰɛ4	sʰ ɛ ⁴	462	
 1541	TL	cloth	462	sɛ42	sɛ42	s ɛ ⁴²	462	
 1542	GX	cloth	462	sɛ24	sɛ24	s ɛ ²⁴	462	
-1543	EQ	cloth	462	sE55	sE55	s ᴇ ⁵⁵	462	
+1543	EQ	cloth	462	sE55	sE55	s ᴇ/ɛ ⁵⁵	462	
 1544	EG	cloth	462	sɛ44	sɛ44	s ɛ ⁴⁴	462	
 1545	JM	cloth	462	se55	se55	s e ⁵⁵	462	
 1546	JX	cloth	462	se44	se44	s e ⁴⁴	462	
@@ -839,7 +839,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1549	MZL	cloth	462	(pʰio21)	pʰio21	pʰ i/j o ²¹	2204	
 41	PB	cloud	7	ŋɔ1b	ŋɔ1b	ŋ ɔ 1b/¹	7	
 42	TL	cloud	7	ŋɔ35	ŋɔ35	ŋ ɔ ³⁵	7	
-43	GX	cloud	7	ŋE12	ŋE12	ŋ ᴇ ¹² +	7	
+43	GX	cloud	7	ŋE12	ŋE12	ŋ ᴇ/ɛ ¹²	7	
 44	EQ	cloud	7	ʀæ21	ʀæ21	ʀ æ ²¹	7	
 45	EG	cloud	7	(mɯ̃121)	mɯ̃121	m ɯ̃ ¹² + ¹	2125	
 46	JM	cloud	7	(mM21)	mM21	m ɯ ²¹	2126	
@@ -850,7 +850,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2830	PB	cold	1063	kɯ1	kɯ1	k ɯ ¹	1063	
 2831	PB	cold	1063	gæ1	gæ1	g æ ¹	1063	
 2832	TL	cold	1063	kɯ55	kɯ55	k ɯ ⁵⁵	1063	
-2833	GX	cold	1063	ga12	ga12	g a ¹² +	1063	
+2833	GX	cold	1063	ga12	ga12	g a ¹²	1063	
 2834	EQ	cold	1063	kɯ24	kɯ24	k ɯ ²⁴	1063	
 2835	EG	cold	1063	kɯ55	kɯ55	k ɯ ⁵⁵	1063	
 2836	JM	cold	1063	kɯ55	kɯ55	k ɯ ⁵⁵	1063	
@@ -871,7 +871,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1578	MZL	comb	481	su55	su55	s u ⁵⁵	481	
 3823	PB	compensate	1546	bæ1	bæ1	b æ ¹	1546	
 3824	TL	compensate	1546	ba35	ba35	b a ³⁵	1546	
-3825	GX	compensate	1546	bæ12	bæ12	b æ ¹² +	1546	
+3825	GX	compensate	1546	bæ12	bæ12	b æ ¹²	1546	
 3826	EQ	compensate	1546	pæ21	pæ21	p æ ²¹	1546	
 3827	JX	compensate	1546	pa21	pa21	p a ²¹	1546	
 3828	DS	compensate	1546	pɚ21	pɚ21	p ɚ/ə ²¹	1546	
@@ -915,7 +915,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 622	MZL	corpse	162	tsʰoŋ55	tsʰoŋ55	tsʰ o ŋ ⁵⁵	162	
 2744	PB	correct; right	1045	hɔ1	hɔ1	h ɔ ¹	1045	
 2745	TL	correct; right	1045	hɔ55	hɔ55	h ɔ ⁵⁵	1045	
-2746	GX	correct; right	1045	ho12	ho12	h o ¹² +	1045	
+2746	GX	correct; right	1045	ho12	ho12	h o ¹²	1045	
 2747	EQ	correct; right	1045	χo24	χo24	χ o ²⁴	1045	
 2748	EG	correct; right	1045	xo55	xo55	x o ⁵⁵	1045	
 2749	JM	correct; right	1045	(kv42)	kv42	k v ⁴²	2276	
@@ -956,7 +956,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3900	PB	cut up (vegetable)	1574	tsʰuaŋ2	tsʰuaŋ2	tsʰ u/w a ŋ ²	1574	
 3901	TL	cut up (vegetable)	1574	tsʰoŋ33	tsʰoŋ33	tsʰ o ŋ ³³	1574	
 3902	GX	cut up (vegetable)	1574	tsʰuaŋ22	tsʰuaŋ22	tsʰ u/w a ŋ ²²	1574	
-3903	EQ	cut up (vegetable)	1574	tcʰyE22	tcʰyE22	t cʰ y ᴇ ²²	1574	
+3903	EQ	cut up (vegetable)	1574	tcʰyE22	tcʰyE22	t cʰ y/ɥ ᴇ/ɛ ²²	1574	
 3904	EG	cut up (vegetable)	1574	(ɕa44)	ɕa44	ɕ a ⁴⁴	2372	
 3905	JM	cut up (vegetable)	1574	(ɕu44)	ɕu44	ɕ u ⁴⁴	2373	
 3906	JX	cut up (vegetable)	1574	tsʰuɑ̃33	tsʰuɑ̃33	tsʰ u/w ɑ̃ ³³	1574	
@@ -1032,7 +1032,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2016	PB	direction; orientation	703	pjɛ2	pjɛ2	p j ɛ ²	703	
 2017	TL	direction; orientation	703	fɚ33	fɚ33	f ɚ/ə ³³	703	
 2018	GX	direction; orientation	703	(ɢo12pʰu55)	ɢo12pʰu55	ɣ o ¹² + pʰ u ⁵⁵	2236	
-2019	EQ	direction; orientation	703	fE22	fE22	f ᴇ ²²	703	
+2019	EQ	direction; orientation	703	fE22	fE22	f ᴇ/ɛ ²²	703	
 2020	EG	direction; orientation	703	(pʰu55)	pʰu55	pʰ u ⁵⁵	2237	
 2021	JM	direction; orientation	703	fe22	fe22	f e ²²	703	
 2022	JX	direction; orientation	703	fv33	fv33	f v ³³	703	
@@ -1042,7 +1042,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3348	PB	divide; share (things)	1319	pjen1	pjen1	p j e n ¹	1319	
 3349	TL	divide; share (things)	1319	fɚ55	fɚ55	f ɚ/ə ⁵⁵	1319	
 3350	GX	divide; share (things)	1319	pfũ55	pfũ55	p f ũ ⁵⁵	1319	
-3351	EQ	divide; share (things)	1319	fE24	fE24	f ᴇ ²⁴	1319	
+3351	EQ	divide; share (things)	1319	fE24	fE24	f ᴇ/ɛ ²⁴	1319	
 3352	EG	divide; share (things)	1319	xuɛ55	xuɛ55	x u/w ɛ ⁵⁵	1319	
 3353	JM	divide; share (things)	1319	so55fi55	so55fi55	s o ⁵⁵ + f i ⁵⁵	1319	
 3354	JX	divide; share (things)	1319	fṽ55	fṽ55	f ṽ ⁵⁵	1319	
@@ -1061,8 +1061,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 880	MZL	dog	289	kʰuaŋ33	kʰuaŋ33	kʰ u/w a ŋ ³³	289	
 1654	PB	door	514	mɛ1b	mɛ1b	m ɛ 1b/¹	514	
 1655	TL	door	514	mɛ35	mɛ35	m ɛ ³⁵	514	
-1656	GX	door	514	mǝn12	mǝn12	m ə n ¹² +	514	
-1657	EQ	door	514	mE21	mE21	m ᴇ ²¹	514	
+1656	GX	door	514	mǝn12	mǝn12	m ə n ¹²	514	
+1657	EQ	door	514	mE21	mE21	m ᴇ/ɛ ²¹	514	
 1658	EG	door	514	mɛ21	mɛ21	m ɛ ²¹	514	
 1659	JM	door	514	me21	me21	m e ²¹	514	
 1660	JX	door	514	me21	me21	m e ²¹	514	
@@ -1071,7 +1071,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1663	MZL	door	514	me21	me21	m e ²¹	514	
 911	PB	dragon	306	loŋ1b	loŋ1b	l o ŋ 1b/¹	306	
 912	TL	dragon	306	loŋ35	loŋ35	l o ŋ ³⁵	306	
-913	GX	dragon	306	lõ12	lõ12	l õ ¹² +	306	
+913	GX	dragon	306	lõ12	lõ12	l õ ¹²	306	
 914	EQ	dragon	306	lu21	lu21	l u ²¹	306	
 915	EG	dragon	306	lu21	lu21	l u ²¹	306	
 916	JM	dragon	306	lu21	lu21	l u ²¹	306	
@@ -1118,7 +1118,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2724	ZC	dry	1028	ka35	ka35	k a ³⁵	1028	
 2725	MZL	dry	1028	kaŋ55	kaŋ55	k a ŋ ⁵⁵	1028	
 4418	PB	eagle fern	2118	kua4	kua4	k u/w a ⁴	2118	
-4419	GX	eagle fern	2118	kua12	kua12	k u/w a ¹² +	2118	
+4419	GX	eagle fern	2118	kua12	kua12	k u/w a ¹²	2118	
 4420	EQ	eagle fern	2118	kua55	kua55	k u/w a ⁵⁵	2118	
 4421	EG	eagle fern	2118	(kui55)/(i45qɯ22)	kui55	k u i ⁵⁵	2419	
 4422	EG	eagle fern	2118	(kui55)/(i45qɯ22)	i45qɯ22	i ⁴ + ⁵ + q ɯ ²²	2420	
@@ -1128,7 +1128,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1293	PB	ear; spike	407	truæn2	truæn2	t r u æ n ²	407	
 1294	TL	ear; spike	407	tjuaŋ33	tjuaŋ33	t j u/w a ŋ ³³	407	
 1295	GX	ear; spike	407	tsuan22	tsuan22	ts u/w a n ²²	407	
-1296	EQ	ear; spike	407	tzE22	tzE22	t z ᴇ ²²	407	
+1296	EQ	ear; spike	407	tzE22	tzE22	t z ᴇ/ɛ ²²	407	
 1297	EG	ear; spike	407	tɕya22	tɕya22	tɕ y a ²²	407	
 1298	JM	ear; spike	407	ʈõ22	ʈõ22	ʈ õ ²²	407	
 1299	JX	ear; spike	407	tsuan33	tsuan33	ts u/w a n ³³	407	
@@ -1196,7 +1196,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1470	PB	egg	450	sen5	sen5	s e n ⁵	450	
 1471	TL	egg	450	sen21 ('testicle')	sen21	s e n ²¹	450	
 1472	GX	egg	450	sen42	sen42	s e n ⁴²	450	
-1473	EQ	egg	450	sE43	sE43	s ᴇ ⁴ + ³	450	
+1473	EQ	egg	450	sE43	sE43	s ᴇ/ɛ ⁴ + ³	450	
 1474	EG	egg	450	sɛ42	sɛ42	s ɛ ⁴²	450	
 1475	JM	egg	450	sẽ42	sẽ42	s ẽ ⁴²	450	
 1476	JX	egg	450	sen42	sen42	s e n ⁴²	450	
@@ -1224,7 +1224,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2537	MZL	empty	985	koŋ55	koŋ55	k o ŋ ⁵⁵	985	
 4052	PB	escape; run away	1663	mɯ1b	mɯ1b	m ɯ 1b/¹	1663	
 4053	TL	escape; run away	1663	mɯ35	mɯ35	m ɯ ³⁵	1663	
-4054	GX	escape; run away	1663	moŋ12	moŋ12	m o ŋ ¹² +	1663	
+4054	GX	escape; run away	1663	moŋ12	moŋ12	m o ŋ ¹²	1663	
 4055	EQ	escape; run away	1663	mɯ21	mɯ21	m ɯ ²¹	1663	
 4056	EG	escape; run away	1663	mɯ21	mɯ21	m ɯ ²¹	1663	
 4057	JM	escape; run away	1663	mɯ21	mɯ21	m ɯ ²¹	1663	
@@ -1260,7 +1260,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2471	PB	far	974	tuen2	tuen2	t u/w e n ²	974	
 2472	TL	far	974	tue33	tue33	t u/w e ³³	974	
 2473	GX	far	974	tiuen22	tiuen22	t i u/w e n ²²	974	
-2474	EQ	far	974	tyE22	tyE22	t y ᴇ ²²	974	
+2474	EQ	far	974	tyE22	tyE22	t y/ɥ ᴇ/ɛ ²²	974	
 2475	EG	far	974	ti22	ti22	t i ²²	974	
 2476	JM	far	974	tyi22	tyi22	t y i ²²	974	
 2477	JX	far	974	tuen33	tuen33	t u/w e n ³³	974	
@@ -1270,7 +1270,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 577	PB	fart	153	pʰjɛ3	pʰjɛ3	pʰ j ɛ ³	153	
 578	TL	fart	153	fɚ21	fɚ21	f ɚ/ə ²¹	153	
 579	GX	fart	153	pfʰu55	pfʰu55	pfʰ u ⁵⁵	153	
-580	EQ	fart	153	fE43	fE43	f ᴇ ⁴ + ³	153	
+580	EQ	fart	153	fE43	fE43	f ᴇ/ɛ ⁴ + ³	153	
 581	EG	fart	153	fɛ22	fɛ22	f ɛ ²²	153	
 582	JM	fart	153	fe42	fe42	f e ⁴²	153	
 583	JX	fart	153	fv31	fv31	f v ³¹	153	
@@ -1378,7 +1378,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4000	MZL	fling; toss	1643	[suɛ42]	suɛ42	s u/w ɛ ⁴²	2384	1
 3841	PB	float	1553	bɯ1	bɯ1	b ɯ ¹	1553	
 3842	TL	float	1553	bɯ35	bɯ35	b ɯ ³⁵	1553	
-3843	GX	float	1553	bu12	bu12	b u ¹² +	1553	
+3843	GX	float	1553	bu12	bu12	b u ¹²	1553	
 3844	EQ	float	1553	bɯ21	bɯ21	b ɯ ²¹	1553	
 3845	EG	float	1553	pɯ21	pɯ21	p ɯ ²¹	1553	
 3846	JM	float	1553	pɯ21	pɯ21	p ɯ ²¹	1553	
@@ -1389,7 +1389,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3338	PB	fly	1318	pje1	pje1	p j e ¹	1318	
 3339	TL	fly	1318	fɚ55	fɚ55	f ɚ/ə ⁵⁵	1318	
 3340	GX	fly	1318	pfu55	pfu55	p f u ⁵⁵	1318	
-3341	EQ	fly	1318	fE24	fE24	f ᴇ ²⁴	1318	
+3341	EQ	fly	1318	fE24	fE24	f ᴇ/ɛ ²⁴	1318	
 3342	EG	fly	1318	xuɛ55	xuɛ55	x u/w ɛ ⁵⁵	1318	
 3343	JM	fly	1318	fi55	fi55	f i ⁵⁵	1318	
 3344	JX	fly	1318	fv55	fv55	f v ⁵⁵	1318	
@@ -1457,7 +1457,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 692	MZL	friend	201	tɕʰa42	tɕʰa42	tɕʰ a ⁴²	201	
 1027	PB	frog	349	oŋ1	oŋ1	o ŋ ¹	349	
 1028	TL	frog	349	oŋ55(ma55)	oŋ55	o ŋ ⁵⁵	349	
-1029	GX	frog	349	õ12(mæ12)	õ12	õ ¹² +	349	
+1029	GX	frog	349	õ12(mæ12)	õ12	õ ¹²	349	
 1030	EQ	frog	349	u21(mæ24)	u21	u ²¹	349	
 1031	EG	frog	349	(dʑia42)õ21	õ21	õ ²¹	349	
 1032	JM	frog	349	õ21(mo55)	õ21	õ ²¹	349	
@@ -1486,7 +1486,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1664	PB	garden (plot)	522	suaŋ21	suaŋ21	s u/w a ŋ ²¹	522	
 1665	TL	garden (plot)	522	suaŋ55	suaŋ55	s u/w a ŋ ⁵⁵	522	
 1666	GX	garden (plot)	522	ɕyen55	ɕyen55	ɕ y/ɥ e n ⁵⁵	522	
-1667	EQ	garden (plot)	522	ɕyE24	ɕyE24	ɕ y ᴇ ²⁴	522	
+1667	EQ	garden (plot)	522	ɕyE24	ɕyE24	ɕ y/ɥ ᴇ/ɛ ²⁴	522	
 1668	EG	garden (plot)	522	sua55(lu21)	sua55	s u/w a ⁵⁵	522	
 1669	JM	garden (plot)	522	sõ55(lu21)	sõ55	s õ ⁵⁵	522	
 1670	JX	garden (plot)	522	suɑ̃55	suɑ̃55	s u/w ɑ̃ ⁵⁵	522	
@@ -1496,7 +1496,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1380	PB	garlic	424	sʰuaŋ3	sʰuaŋ3	sʰ u/w a ŋ ³	424	
 1381	TL	garlic	424	soŋ21	soŋ21	s o ŋ ²¹	424	
 1382	GX	garlic	424	suaŋ42	suaŋ42	s u/w a ŋ ⁴²	424	
-1383	EQ	garlic	424	ɕyE42	ɕyE42	ɕ y ᴇ ⁴²	424	
+1383	EQ	garlic	424	ɕyE42	ɕyE42	ɕ y/ɥ ᴇ/ɛ ⁴²	424	
 1384	EG	garlic	424	sua42	sua42	s u/w a ⁴²	424	
 1385	JM	garlic	424	suã42	suã42	s u ã ⁴²	424	
 1386	JX	garlic	424	suɑ31	suɑ31	s u ɑ ³¹	424	
@@ -1564,7 +1564,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 281	MZL	gold	51	tɕen55	tɕen55	tɕ e n ⁵⁵	51	
 2791	PB	good	1052	dræn1	dræn1	d r æ n ¹	1052	
 2792	TL	good	1052	diaŋ35	diaŋ35	d i/j a ŋ ³⁵	1052	
-2793	GX	good	1052	dzan12	dzan12	dz a n ¹² +	1052	
+2793	GX	good	1052	dzan12	dzan12	dz a n ¹²	1052	
 2794	EQ	good	1052	diæ21	diæ21	d i æ ²¹	1052	
 2795	EG	good	1052	xo55	xo55	x o ⁵⁵	1052	
 2796	JM	good	1052	xo22	xo22	x o ²²	1052	
@@ -1575,7 +1575,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 735	PB	grandson	224	sʰuaŋ1	sʰuaŋ1	sʰ u/w a ŋ ¹	224	
 736	TL	grandson	224	suaŋ55	suaŋ55	s u/w a ŋ ⁵⁵	224	
 737	GX	grandson	224	suaŋ55	suaŋ55	s u/w a ŋ ⁵⁵	224	
-738	EQ	grandson	224	ɕyE24	ɕyE24	ɕ y ᴇ ²⁴	224	
+738	EQ	grandson	224	ɕyE24	ɕyE24	ɕ y/ɥ ᴇ/ɛ ²⁴	224	
 739	EG	grandson	224	sua55	sua55	s u/w a ⁵⁵	224	
 740	JM	grandson	224	sõ55	sõ55	s õ ⁵⁵	224	
 741	JX	grandson	224	suɑ̃55	suɑ̃55	s u/w ɑ̃ ⁵⁵	224	
@@ -1595,7 +1595,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3782	PB	grind (flour)	1527	tʰre4	tʰre4	tʰ r e ⁴	1527	
 3783	TL	grind (flour)	1527	tʰi42	tʰi42	tʰ i ⁴²	1527	
 3784	GX	grind (flour)	1527	tʰi24	tʰi24	tʰ i ²⁴	1527	
-3785	EQ	grind (flour)	1527	(uE43uE43)	uE43uE43	u ᴇ ⁴ + ³ + u ᴇ ⁴ + ³	2353	
+3785	EQ	grind (flour)	1527	(uE43uE43)	uE43uE43	u ᴇ/ɛ ⁴ + ³ + u ᴇ/ɛ ⁴ + ³	2353	
 3786	EG	grind (flour)	1527	(ji42)	ji42	j i ⁴²	2354	
 3787	JM	grind (flour)	1527	(ji42)	ji42	j i ⁴²	2355	
 3788	JX	grind (flour)	1527	tsʰe44	tsʰe44	tsʰ e ⁴⁴	1527	
@@ -1614,8 +1614,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 702	MZL	guest	213	kʰɚ44	kʰɚ44	kʰ ɚ/ə ⁴⁴	213	
 352	PB	hair	75	ɕa	ɕa	ɕ a	75	
 353	TL	hair	75	[diɯ35me55]	diɯ35me55	d i/j ɯ ³⁵ + m e ⁵⁵	2142	1
-354	GX	hair	75	[di24miɛ12]	di24miɛ12	d i ²⁴ + m i/j ɛ ¹² +	2143	1
-355	EQ	hair	75	[tiɯ21miE24]	tiɯ21miE24	t i/j ɯ ²¹ + m i ᴇ ²⁴	2144	1
+354	GX	hair	75	[di24miɛ12]	di24miɛ12	d i ²⁴ + m i/j ɛ ¹²	2143	1
+355	EQ	hair	75	[tiɯ21miE24]	tiɯ21miE24	t i/j ɯ ²¹ + m i ᴇ/ɛ ²⁴	2144	1
 356	EG	hair	75	[ti21mi55]	ti21mi55	t i ²¹ + m i ⁵⁵	2145	1
 357	JM	hair	75	[ʈe21me55]	ʈe21me55	ʈ e ²¹ + m e ⁵⁵	2146	1
 358	JX	hair	75	ɕɔ44	ɕɔ44	ɕ ɔ ⁴⁴	75	
@@ -1685,14 +1685,14 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3918	PB	heat up (cold rice)	1587	ʔuen1	ʔuen1	ʔ u/w e n ¹	1587	
 3919	TL	heat up (cold rice)	1587	uen55	uen55	u e n ⁵⁵	1587	
 3920	GX	heat up (cold rice)	1587	uen22	uen22	u e n ²²	1587	
-3921	EQ	heat up (cold rice)	1587	ʔuE24	ʔuE24	ʔ u ᴇ ²⁴	1587	
+3921	EQ	heat up (cold rice)	1587	ʔuE24	ʔuE24	ʔ u ᴇ/ɛ ²⁴	1587	
 3922	EG	heat up (cold rice)	1587	ʔuɛ̃55	ʔuɛ̃55	ʔ u/w ɛ̃ ⁵⁵	1587	
 3923	JM	heat up (cold rice)	1587	uẽ55	uẽ55	u ẽ ⁵⁵	1587	
 3924	JX	heat up (cold rice)	1587	ʔuen55	ʔuen55	ʔ u/w e n ⁵⁵	1587	
 3925	DS	heat up (cold rice)	1587	wen35	wen35	w e n ³⁵	1587	
 3926	ZC	heat up (cold rice)	1587	uɛ35	uɛ35	u ɛ ³⁵	1587	
 3927	MZL	heat up (cold rice)	1587	ŋuɛ55	ŋuɛ55	ŋ u/w ɛ ⁵⁵	1587	
-2656	PB	heavy	1014	dzruŋ2	dzruŋ2	dzr u ŋ ²	1014	
+2656	PB	heavy	1014	dzruŋ2	dzruŋ2	ɖʐ u ŋ ²	1014	
 2657	TL	heavy	1014	ʐvŋ33	ʐvŋ33	ʐ v ŋ ³³	1014	
 2658	GX	heavy	1014	dzoŋ22	dzoŋ22	dz o ŋ ²²	1014	
 2659	EQ	heavy	1014	dʐo22	dʐo22	ɖʐ o ²²	1014	
@@ -1704,7 +1704,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2665	MZL	heavy	1014	tsõ21	tsõ21	ts õ ²¹	1014	
 957	PB	hedgehog	319	ɢæ1	ɢæ1	ɣ æ ¹	319	
 958	TL	hedgehog	319	ʁɔ⁰	ʁɔ⁰	ʁ ɔ ⁰	319	
-959	GX	hedgehog	319	ɢa12	ɢa12	ɣ a ¹² +	319	
+959	GX	hedgehog	319	ɢa12	ɢa12	ɣ a ¹²	319	
 960	EQ	hedgehog	319	qa21	qa21	q a ²¹	319	
 961	JM	hedgehog	319	qa21	qa21	q a ²¹	319	
 962	ZC	hedgehog	319	ka21	ka21	k a ²¹	319	
@@ -1718,7 +1718,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1358	MZL	hemp	419	si33	si33	s i ³³	419	
 3100	PB	hide	1169	dzoŋ1	dzoŋ1	dz o ŋ ¹	1169	
 3101	TL	hide	1169	zoŋ35	zoŋ35	z o ŋ ³⁵	1169	
-3102	GX	hide	1169	dzoŋ12	dzoŋ12	dz o ŋ ¹² +	1169	
+3102	GX	hide	1169	dzoŋ12	dzoŋ12	dz o ŋ ¹²	1169	
 3103	EQ	hide	1169	tso21	tso21	ts o ²¹	1169	
 3104	EG	hide	1169	tsu21	tsu21	ts u ²¹	1169	
 3105	JM	hide	1169	tsõ42	tsõ42	ts õ ⁴²	1169	
@@ -1746,9 +1746,9 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 158	DS	hillside; mountain slope	24	bau33	bau33	b a u ³³	24	
 159	ZC	hillside; mountain slope	24	bo33	bo33	b o ³³	24	
 160	MZL	hillside; mountain slope	24	pio44	pio44	p i/j o ⁴⁴	24	
-1854	PB	hoe (large)	617	dzruŋ1	dzruŋ1	dzr u ŋ ¹	617	
+1854	PB	hoe (large)	617	dzruŋ1	dzruŋ1	ɖʐ u ŋ ¹	617	
 1855	TL	hoe (large)	617	ʐvŋ35	ʐvŋ35	ʐ v ŋ ³⁵	617	
-1856	GX	hoe (large)	617	dzao12	dzao12	dz ao ¹² +	617	
+1856	GX	hoe (large)	617	dzao12	dzao12	dz ao ¹²	617	
 1857	EQ	hoe (large)	617	tɕo21	tɕo21	tɕ o ²¹	617	
 1858	EG	hoe (large)	617	tɕu21	tɕu21	tɕ u ²¹	617	
 1859	JM	hoe (large)	617	tɕu21	tɕu21	tɕ u ²¹	617	
@@ -1758,7 +1758,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1863	MZL	hoe (large)	617	dzu21	dzu21	dz u ²¹	617	
 817	PB	hoof	264	bã1	bã1	b ã ¹	264	
 818	TL	hoof	264	bo35	bo35	b o ³⁵	264	
-819	GX	hoof	264	bao12	bao12	b ao ¹² +	264	
+819	GX	hoof	264	bao12	bao12	b ao ¹²	264	
 820	EQ	hoof	264	po21	po21	p o ²¹	264	
 821	EG	hoof	264	pu21	pu21	p u ²¹	264	
 822	JM	hoof	264	põ21	põ21	p õ ²¹	264	
@@ -1838,7 +1838,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 100	MZL	ice	17	ɕyɛ44pʰien33	ɕyɛ44pʰien33	ɕ y/ɥ ɛ ⁴⁴ + pʰ i/j e n ³³	17	
 1747	PB	interest	576	bɯ1	bɯ1	b ɯ ¹	576	
 1748	TL	interest	576	bɯ35	bɯ35	b ɯ ³⁵	576	
-1749	GX	interest	576	bu12	bu12	b u ¹² +	576	
+1749	GX	interest	576	bu12	bu12	b u ¹²	576	
 1750	EQ	interest	576	bɯ21	bɯ21	b ɯ ²¹	576	
 1751	EG	interest	576	pu21	pu21	p u ²¹	576	
 1752	JM	interest	576	pɯ21	pɯ21	p ɯ ²¹	576	
@@ -1866,7 +1866,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 311	ZC	iron	54	tʰɛ33	tʰɛ33	tʰ ɛ ³³	54	
 312	MZL	iron	54	tʰɛ44	tʰɛ44	tʰ ɛ ⁴⁴	54	
 4366	PB	jar	1858	ŋuen1b	ŋuen1b	ŋ u/w e n 1b/¹	1858	
-4367	GX	jar	1858	uen12	uen12	u e n ¹² +	1858	
+4367	GX	jar	1858	uen12	uen12	u e n ¹²	1858	
 4368	EQ	jar	1858	ŋui21	ŋui21	ŋ u i ²¹	1858	
 4369	EG	jar	1858	ŋuɛ21	ŋuɛ21	ŋ u/w ɛ ²¹	1858	
 4370	JM	jar	1858	uẽ21	uẽ21	u ẽ ²¹	1858	
@@ -1875,7 +1875,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1730	PB	kettle; pot	559	bjɛ4	bjɛ4	b j ɛ ⁴	559	
 1731	TL	kettle; pot	559	vɚ42	vɚ42	v ɚ/ə ⁴²	559	
 1732	GX	kettle; pot	559	bvu21	bvu21	b v u ²¹	559	
-1733	EQ	kettle; pot	559	(la24)fE21	fE21	f ᴇ ²¹	559	
+1733	EQ	kettle; pot	559	(la24)fE21	fE21	f ᴇ/ɛ ²¹	559	
 1734	EG	kettle; pot	559	(li55ui42qʰo22)	li55ui42qʰo22	l i ⁵⁵ + u i ⁴² + qʰ o ²²	2214	
 1735	JM	kettle; pot	559	(lo55)ue21	ue21	u e ²¹	559	
 1736	JX	kettle; pot	559	vu42	vu42	v u ⁴²	559	
@@ -1913,18 +1913,18 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1719	MZL	ladle	551	(mi55)tsʰo42	tsʰo42	tsʰ o ⁴²	551	
 175	PB	lake	31	ɢɔ1	ɢɔ1	ɣ ɔ ¹	31	
 176	TL	lake	31	ʁɔ35	ʁɔ35	ʁ ɔ ³⁵	31	
-177	GX	lake	31	qao12	qao12	q ao ¹² +	31	
+177	GX	lake	31	qao12	qao12	q ao ¹²	31	
 178	EQ	lake	31	qo21	qo21	q o ²¹	31	
 179	EG	lake	31	(li21bɯ22)	li21bɯ22	l i ²¹ + b ɯ ²²	2128	
 180	JM	lake	31	(lu21bɯ̃22)	lu21bɯ̃22	l u ²¹ + b ɯ̃ ²²	2129	
 181	JX	lake	31	kou21	kou21	k ou ²¹	31	
 182	DS	lake	31	(xu42)	xu42	x u ⁴²	2130	
 183	ZC	lake	31	(pɛ21)	pɛ21	p ɛ ²¹	2131	
-184	MZL	lake	31	(ɕu33tu33/pen33)	pen33)	p e n ³³ +	31	
+184	MZL	lake	31	(ɕu33tu33/pen33)	pen33)	p e n ³³	31	
 2686	PB	late	1019	mɛ2	mɛ2	m ɛ ²	1019	
 2687	TL	late	1019	mɛ33	mɛ33	m ɛ ³³	1019	
 2688	GX	late	1019	men22	men22	m e n ²²	1019	
-2689	EQ	late	1019	mE22	mE22	m ᴇ ²²	1019	
+2689	EQ	late	1019	mE22	mE22	m ᴇ/ɛ ²²	1019	
 2690	EG	late	1019	mɛ22	mɛ22	m ɛ ²²	1019	
 2691	JM	late	1019	me22	me22	m e ²²	1019	
 2692	JX	late	1019	me33	me33	m e ³³	1019	
@@ -1944,7 +1944,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4143	PB	lay (eggs)	1718	sen5	sen5	s e n ⁵	1718	
 4144	TL	lay (eggs)	1718	sen21	sen21	s e n ²¹	1718	
 4145	GX	lay (eggs)	1718	sen42	sen42	s e n ⁴²	1718	
-4146	EQ	lay (eggs)	1718	sE43	sE43	s ᴇ ⁴ + ³	1718	
+4146	EQ	lay (eggs)	1718	sE43	sE43	s ᴇ/ɛ ⁴ + ³	1718	
 4147	EG	lay (eggs)	1718	sɛ42	sɛ42	s ɛ ⁴²	1718	
 4148	JM	lay (eggs)	1718	sɚ̃42	sɚ̃42	s ɚ/ə̃ ⁴²	1718	
 4149	JX	lay (eggs)	1718	sen42	sen42	s e n ⁴²	1718	
@@ -1972,7 +1972,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2026	PB	left	710	pri1	pri1	p r i ¹	710	
 2027	TL	left	710	tɕy55	tɕy55	tɕ y ⁵⁵	710	
 2028	GX	left	710	tjen55	tjen55	t j e n ⁵⁵	710	
-2029	EQ	left	710	tsuE24	tsuE24	ts u ᴇ ²⁴	710	
+2029	EQ	left	710	tsuE24	tsuE24	ts u ᴇ/ɛ ²⁴	710	
 2030	EG	left	710	(la55tɕo44tɕo44pʰo55)	la55tɕo44tɕo44pʰo55	l a ⁵⁵ + tɕ o ⁴⁴ + tɕ o ⁴⁴ + pʰ o ⁵⁵	2240	
 2031	JM	left	710	(lo55tɕyẽ55)	lo55tɕyẽ55	l o ⁵⁵ + tɕ y ẽ ⁵⁵	2241	
 2032	JX	left	710	pi55	pi55	p i ⁵⁵	710	
@@ -2000,7 +2000,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 936	DS	leopard; panther	310	pã42	pã42	p ã ⁴²	310	
 937	ZC	leopard; panther	310	pa53	pa53	p a ⁵ + ³	310	
 938	MZL	leopard; panther	310	paŋ42	paŋ42	p a ŋ ⁴²	310	
-4082	PB	lick, lap	1674	dzri2	dzri2	dzr i ²	1674	
+4082	PB	lick, lap	1674	dzri2	dzri2	ɖʐ i ²	1674	
 4083	TL	lick, lap	1674	ʐi33	ʐi33	ʐ i ³³	1674	
 4084	GX	lick, lap	1674	dʐi22	dʐi22	ɖʐ i ²²	1674	
 4085	EQ	lick, lap	1674	dzɿ22	dzɿ22	dz ɿ ²²	1674	
@@ -2062,7 +2062,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4051	MZL	lock (the door)	1656	tsʰo55	tsʰo55	tsʰ o ⁵⁵	1656	
 2461	PB	long	972	droŋ1	droŋ1	d r o ŋ ¹	972	
 2462	TL	long	972	dv35	dv35	d v ³⁵	972	
-2463	GX	long	972	dʑou12	dʑou12	d ʑ ou ¹² +	972	
+2463	GX	long	972	dʑou12	dʑou12	d ʑ ou ¹²	972	
 2464	EQ	long	972	tjo21	tjo21	t j o ²¹	972	
 2465	EG	long	972	tɕu21	tɕu21	tɕ u ²¹	972	
 2466	JM	long	972	ʈõ21	ʈõ21	ʈ õ ²¹	972	
@@ -2072,7 +2072,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2470	MZL	long	972	tsoŋ21	tsoŋ21	ts o ŋ ²¹	972	
 3972	PB	lose (a game)	1635	tsʰreŋ1	tsʰreŋ1	tsʰ r e ŋ ¹	1635	
 3973	TL	lose (a game)	1635	tʂʰɚ̃55[//ʂv55]	tʂʰɚ̃55	ʈʂʰ ɚ/ə̃ ⁵⁵	1635	
-3974	TL	lose (a game)	1635	tʂʰɚ̃55[//ʂv55]	ʂv55]	ʂ v ⁵⁵ +	1635	
+3974	TL	lose (a game)	1635	tʂʰɚ̃55[//ʂv55]	ʂv55]	ʂ v ⁵⁵	1635	
 3975	GX	lose (a game)	1635	tʂi22	tʂi22	ʈʂ i ²²	1635	
 3976	EQ	lose (a game)	1635	tsʰɿ24	tsʰɿ24	tsʰ ɿ ²⁴	1635	
 3977	EG	lose (a game)	1635	(a42ɣo21)	a42ɣo21	a ⁴² + ɣ o ²¹	2378	
@@ -2083,8 +2083,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3982	MZL	lose (a game)	1635	[ɕy55]	ɕy55	ɕ y ⁵⁵	2380	1
 2939	PB	loud	1094	mæ1b	mæ1b	m æ 1b/¹	1094	
 2940	TL	loud	1094	ma35	ma35	m a ³⁵	1094	
-2941	GX	loud	1094	mæ12	mæ12	m æ ¹² +	1094	
-2942	EQ	loud	1094	mæ12	mæ12	m æ ¹² +	1094	
+2941	GX	loud	1094	mæ12	mæ12	m æ ¹²	1094	
+2942	EQ	loud	1094	mæ12	mæ12	m æ ¹²	1094	
 2943	EG	loud	1094	(do42)	do42	d o ⁴²	2282	
 2944	JM	loud	1094	ma21	ma21	m a ²¹	1094	
 2945	JX	loud	1094	man21	man21	m a n ²¹	1094	
@@ -2102,7 +2102,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1075	MZL	louse	356	ɕi44	ɕi44	ɕ i ⁴⁴	356	
 2958	PB	love; like	1126	gɔ1	gɔ1	g ɔ ¹	1126	
 2959	TL	love; like	1126	gɔ35	gɔ35	g ɔ ³⁵	1126	
-2960	GX	love; like	1126	gao112	gao112	g ao ¹ + ¹² +	1126	
+2960	GX	love; like	1126	gao112	gao112	g ao ¹ + ¹²	1126	
 2961	EQ	love; like	1126	ko21	ko21	k o ²¹	1126	
 2962	EG	love; like	1126	ko21	ko21	k o ²¹	1126	
 2963	JM	love; like	1126	ko21	ko21	k o ²¹	1126	
@@ -2113,7 +2113,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2451	PB	low; short	969	bri2	bri2	b r i ²	969	
 2452	TL	low; short	969	ʑyi33	ʑyi33	ʑ y i ³³	969	
 2453	GX	low; short	969	dʑy22	dʑy22	d ʑ y ²²	969	
-2454	EQ	low; short	969	dzyE22	dzyE22	dz y ᴇ ²²	969	
+2454	EQ	low; short	969	dzyE22	dzyE22	dz y/ɥ ᴇ/ɛ ²²	969	
 2455	EG	low; short	969	dʑyi22	dʑyi22	d ʑ y i ²²	969	
 2456	JM	low; short	969	dʑyẽ22	dʑyẽ22	d ʑ y ẽ ²²	969	
 2457	JX	low; short	969	pi33	pi33	p i ³³	969	
@@ -2123,7 +2123,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2842	PB	lukewarm	1064	ʔuen1	ʔuen1	ʔ u/w e n ¹	1064	
 2843	TL	lukewarm	1064	uen55	uen55	u e n ⁵⁵	1064	
 2844	GX	lukewarm	1064	uen22	uen22	u e n ²²	1064	
-2845	EQ	lukewarm	1064	ʔuE24	ʔuE24	ʔ u ᴇ ²⁴	1064	
+2845	EQ	lukewarm	1064	ʔuE24	ʔuE24	ʔ u ᴇ/ɛ ²⁴	1064	
 2846	EG	lukewarm	1064	ʔuɛ̃55	ʔuɛ̃55	ʔ u/w ɛ̃ ⁵⁵	1064	
 2847	JM	lukewarm	1064	uẽ22	uẽ22	u ẽ ²²	1064	
 2848	JX	lukewarm	1064	ʔuen55	ʔuen55	ʔ u/w e n ⁵⁵	1064	
@@ -2140,9 +2140,9 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 516	DS	lung	143	[fi44]	fi44	f i ⁴⁴	2155	1
 517	ZC	lung	143	pʰia44	pʰia44	pʰ i/j a ⁴⁴	143	
 518	MZL	lung	143	pʰio44	pʰio44	pʰ i/j o ⁴⁴	143	
-1076	PB	maggot	259	dzro1	dzro1	dzr o ¹	259	
+1076	PB	maggot	259	dzro1	dzro1	ɖʐ o ¹	259	
 1077	TL	maggot	259	ʐy35	ʐy35	ʐ y ³⁵	259	
-1078	GX	maggot	259	dzao12	dzao12	dz ao ¹² +	259	
+1078	GX	maggot	259	dzao12	dzao12	dz ao ¹²	259	
 1079	EQ	maggot	259	tɕio21	tɕio21	tɕ i/j o ²¹	259	
 1080	EG	maggot	259	tɕiu21	tɕiu21	tɕ i u ²¹	259	
 1081	JM	maggot	259	tɕiu21	tɕiu21	tɕ i u ²¹	259	
@@ -2173,7 +2173,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 836	PB	mare	271	horse+mother	mæ2+mø2	m æ ² + m ø ²	271	
 837	TL	mare	271	ma33mo33	ma33mo33	m a ³³ + m o ³³	271	
 838	GX	mare	271	mæ22mu22	mæ22mu22	m æ ²² + m u ²²	271	
-839	EQ	mare	271	mE22mo22	mE22mo22	m ᴇ ²² + m o ²²	271	
+839	EQ	mare	271	mE22mo22	mE22mo22	m ᴇ/ɛ ²² + m o ²²	271	
 840	JM	mare	271	mo22mo22	mo22mo22	m o ²² + m o ²²	271	
 841	JX	mare	271	man33mõ33	man33mõ33	m a n ³³ + m õ ³³	271	
 842	DS	mare	271	mɚ33mõ33	mɚ33mõ33	m ɚ/ə ³³ + m õ ³³	271	
@@ -2187,7 +2187,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 850	ZC	mare	271	[mɛ33tsou35]	mɛ33tsou35	m ɛ ³³ + ts ou ³⁵	2176	1
 1430	PB	meat	443	ɢæ1	ɢæ1	ɣ æ ¹	443	
 1431	TL	meat	443	ʁa35	ʁa35	ʁ a ³⁵	443	
-1432	GX	meat	443	ɢæ12	ɢæ12	ɣ æ ¹² +	443	
+1432	GX	meat	443	ɢæ12	ɢæ12	ɣ æ ¹²	443	
 1433	EQ	meat	443	qæ21	qæ21	q æ ²¹	443	
 1434	EG	meat	443	qa21	qa21	q a ²¹	443	
 1435	JM	meat	443	qa21	qa21	q a ²¹	443	
@@ -2208,7 +2208,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 921	PB	monkey	308	suaŋ1	suaŋ1	s u/w a ŋ ¹	308	
 922	TL	monkey	308	(ŋe35)sɔŋ55	sɔŋ55	s ɔ ŋ ⁵⁵	308	
 923	GX	monkey	308	(ʁaŋ12)ɕyen55	ɕyen55	ɕ y/ɥ e n ⁵⁵	308	
-924	EQ	monkey	308	(u21)ɕyE24	ɕyE24	ɕ y ᴇ ²⁴	308	
+924	EQ	monkey	308	(u21)ɕyE24	ɕyE24	ɕ y/ɥ ᴇ/ɛ ²⁴	308	
 925	EG	monkey	308	(ŋõ21)sua55	sua55	s u/w a ⁵⁵	308	
 926	JM	monkey	308	(õ21)sõ55	sõ55	s õ ⁵⁵	308	
 927	JX	monkey	308	(ɣou21)suɑ̃55	suɑ̃55	s u/w ɑ̃ ⁵⁵	308	
@@ -2227,7 +2227,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 21	PB	moon	4	mji1a-ŋua4	mji1a-ŋua4	m j i 1a/¹ + + ŋ u/w a ⁴	4	
 22	TL	moon	4	jien55uo42	jien55uo42	j i/j e n ⁵⁵ + u o ⁴²	4	
 23	GX	moon	4	ɲi24uaŋ55	ɲi24uaŋ55	ɲ i ²⁴ + u/w a ŋ ⁵⁵	4	
-24	EQ	moon	4	miE24ua55	miE24ua55	m i ᴇ ²⁴ + u/w a ⁵⁵	4	
+24	EQ	moon	4	miE24ua55	miE24ua55	m i ᴇ/ɛ ²⁴ + u/w a ⁵⁵	4	
 25	EG	moon	4	ɲia55ŋua44	ɲia55ŋua44	ɲ i/j a ⁵⁵ + ŋ u/w a ⁴⁴	4	
 26	JM	moon	4	ɲio55ŋõ55	ɲio55ŋõ55	ɲ i/j o ⁵⁵ + ŋ õ ⁵⁵	4	
 27	JX	moon	4	mi55uɑ̃55	mi55uɑ̃55	m i ⁵⁵ + u/w ɑ̃ ⁵⁵	4	
@@ -2258,7 +2258,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 141	TL	mountain	23	ɕien55	ɕien55	ɕ i/j e n ⁵⁵	23	
 142	GX	mountain	23	sao42	sao42	s ao ⁴²	23	
 143	EQ	mountain	23	ɕio43 (general)/ɕiE24 (snow mountain)	ɕio43	ɕ i/j o ⁴ + ³	23	
-144	EQ	mountain	23	ɕio43 (general)/ɕiE24 (snow mountain)	ɕiE24	ɕ i ᴇ ²⁴	23	
+144	EQ	mountain	23	ɕio43 (general)/ɕiE24 (snow mountain)	ɕiE24	ɕ i ᴇ/ɛ ²⁴	23	
 145	EG	mountain	23	sɛ55	sɛ55	s ɛ ⁵⁵	23	
 146	JM	mountain	23	ʂɚ̃55	ʂɚ̃55	ʂ ɚ/ə̃ ⁵⁵	23	
 147	JX	mountain	23	sṽ42	sṽ42	s ṽ ⁴²	23	
@@ -2278,14 +2278,14 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 242	PB	mud	46	nɛ1b	nɛ1b	n ɛ 1b/¹	46	
 243	TL	mud	46	nɛ35	nɛ35	n ɛ ³⁵	46	
 244	GX	mud	46	nɛ24	nɛ24	n ɛ ²⁴	46	
-245	EQ	mud	46	nE21	nE21	n ᴇ ²¹	46	
+245	EQ	mud	46	nE21	nE21	n ᴇ/ɛ ²¹	46	
 246	EG	mud	46	nɛ21	nɛ21	n ɛ ²¹	46	
 247	JM	mud	46	ne21	ne21	n e ²¹	46	
 248	JX	mud	46	ni31	ni31	n i ³¹	46	
 249	DS	mud	46	ne42	ne42	n e ⁴²	46	
 250	ZC	mud	46	ne21	ne21	n e ²¹	46	
 251	MZL	mud	46	ne42	ne42	n e ⁴²	46	
-2706	PB	muddy; turbid	1023	dzruŋ4	dzruŋ4	dzr u ŋ ⁴	1023	
+2706	PB	muddy; turbid	1023	dzruŋ4	dzruŋ4	ɖʐ u ŋ ⁴	1023	
 2707	TL	muddy; turbid	1023	ʐv42	ʐv42	ʐ v ⁴²	1023	
 2708	GX	muddy; turbid	1023	dzao21	dzao21	dz ao ²¹	1023	
 2709	EQ	muddy; turbid	1023	tɕio21	tɕio21	tɕ i/j o ²¹	1023	
@@ -2363,12 +2363,12 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2507	DS	narrow	977	tʂɚ33	tʂɚ33	ʈʂ ɚ/ə ³³	977	
 2508	ZC	narrow	977	tsɛ44	tsɛ44	ts ɛ ⁴⁴	977	
 2509	MZL	narrow	977	tsɚ44	tsɚ44	ts ɚ/ə ⁴⁴	977	
-2481	PB	near	975	dzren2	dzren2	dzr e n ²	975	
+2481	PB	near	975	dzren2	dzren2	ɖʐ e n ²	975	
 2482	TL	near	975	jen33	jen33	j e n ³³	975	
 2483	GX	near	975	dʑien22	dʑien22	d ʑ i/j e n ²²	975	
 2484	EQ	near	975	tɕi22	tɕi22	tɕ i ²²	975	
 2485	EG	near	975	(tsʰo55)	tsʰo55	tsʰ o ⁵⁵	2264	
-2486	JM	near	975	tsʰo55)	tsʰo55)	tsʰ o ⁵⁵ +	975	
+2486	JM	near	975	tsʰo55)	tsʰo55)	tsʰ o ⁵⁵	975	
 2487	DS	near	975	tɕien33	tɕien33	tɕ i/j e n ³³	975	
 2488	ZC	near	975	tɕie33	tɕie33	tɕ i/j e ³³	975	
 2489	MZL	near	975	tɕen33	tɕen33	tɕ e n ³³	975	
@@ -2456,7 +2456,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1375	JX	onion, scallion	423	tsʰṽ55	tsʰṽ55	tsʰ ṽ ⁵⁵	423	
 1376	DS	onion, scallion	423	tsʰõ55	tsʰõ55	tsʰ õ ⁵⁵	423	
 1377	ZC	onion, scallion	423	tsʰi55[/fi31tsʰu31]	tsʰi55	tsʰ i ⁵⁵	423	
-1378	ZC	onion, scallion	423	tsʰi55[/fi31tsʰu31]	fi31tsʰu31]	f i ³¹ + tsʰ u ³¹ +	423	
+1378	ZC	onion, scallion	423	tsʰi55[/fi31tsʰu31]	fi31tsʰu31]	f i ³¹ + tsʰ u ³¹	423	
 1379	MZL	onion, scallion	423	tsʰoŋ55	tsʰoŋ55	tsʰ o ŋ ⁵⁵	423	
 3615	PB	open	1461	qʰɯ̃1	qʰɯ̃1	qʰ ɯ̃ ¹	1461	
 3616	TL	open	1461	qʰɚ̃55	qʰɚ̃55	qʰ ɚ/ə̃ ⁵⁵	1461	
@@ -2517,11 +2517,11 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1943	MZL	paper	647	tsi33	tsi33	ts i ³³	647	
 4171	PB	pare/peel with a knife	1733	ɕo4	ɕo4	ɕ o ⁴	1733	
 4172	TL	pare/peel with a knife	1733	ɕu42	ɕu42	ɕ u ⁴²	1733	
-4173	GX	pare/peel with a knife	1733	(bi12)	bi12	b i ¹² +	2401	
+4173	GX	pare/peel with a knife	1733	(bi12)	bi12	b i ¹²	2401	
 4174	EQ	pare/peel with a knife	1733	ɕo55	ɕo55	ɕ o ⁵⁵	1733	
 4175	EG	pare/peel with a knife	1733	ɕu44	ɕu44	ɕ u ⁴⁴	1733	
 4176	JM	pare/peel with a knife	1733	(la55)	la55	l a ⁵⁵	2402	
-4177	JX	pare/peel with a knife	1733	ɕou44)	ɕou44)	ɕ ou ⁴⁴ +	1733	
+4177	JX	pare/peel with a knife	1733	ɕou44)	ɕou44)	ɕ ou ⁴⁴	1733	
 4178	DS	pare/peel with a knife	1733	ɕʰou44	ɕʰou44	ɕʰ ou ⁴⁴	1733	
 4179	ZC	pare/peel with a knife	1733	(pe21)	pe21	p e ²¹	2403	
 4180	MZL	pare/peel with a knife	1733	[ɕo55]	ɕo55	ɕ o ⁵⁵	2404	1
@@ -2566,7 +2566,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1409	MZL	pea; bean	430	tɯ31dǝɯ21	tɯ31dǝɯ21	t ɯ ³¹ + d ə ɯ ²¹	430	
 1221	PB	peach	392	dɔ1	dɔ1	d ɔ ¹	392	
 1222	TL	peach	392	dɔ35	dɔ35	d ɔ ³⁵	392	
-1223	GX	peach	392	dao12	dao12	d ao ¹² +	392	
+1223	GX	peach	392	dao12	dao12	d ao ¹²	392	
 1224	EQ	peach	392	to21	to21	t o ²¹	392	
 1225	EG	peach	392	to21	to21	t o ²¹	392	
 1226	JM	peach	392	to21	to21	t o ²¹	392	
@@ -2594,7 +2594,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1240	MZL	persimmon	395	tʰɛ42(tsi33)	tʰɛ42	tʰ ɛ ⁴²	395	
 631	PB	person	167	njen1b	njen1b	n j e n 1b/¹	167	
 632	TL	person	167	jen35	jen35	j e n ³⁵	167	
-633	GX	person	167	ɲi12	ɲi12	ɲ i ¹² +	167	
+633	GX	person	167	ɲi12	ɲi12	ɲ i ¹²	167	
 634	EQ	person	167	ɲi21	ɲi21	ɲ i ²¹	167	
 635	EG	person	167	ɲi21	ɲi21	ɲ i ²¹	167	
 636	JM	person	167	ɲi21	ɲi21	ɲ i ²¹	167	
@@ -2610,8 +2610,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 999	JX	pheasant	340	tɕiɯ33(ki55)	tɕiɯ33	tɕ i/j ɯ ³³	340	
 1000	DS	pheasant	340	tɕi33	tɕi33	tɕ i ³³	340	
 1001	ZC	pheasant	340	(je21ke35)	je21ke35	j e ²¹ + k e ³⁵	2178	
-1002	MZL	pheasant	340	(koŋ42ke55/tien33)	tien33)	t i/j e n ³³ +	340	
-3503	PB	pick up	1414	dzri4	dzri4	dzr i ⁴	1414	
+1002	MZL	pheasant	340	(koŋ42ke55/tien33)	tien33)	t i/j e n ³³	340	
+3503	PB	pick up	1414	dzri4	dzri4	ɖʐ i ⁴	1414	
 3504	TL	pick up	1414	ʐɚ42	ʐɚ42	ʐ ɚ/ə ⁴²	1414	
 3505	GX	pick up	1414	dʐi21	dʐi21	ɖʐ i ²¹	1414	
 3506	EQ	pick up	1414	tsɿ21	tsɿ21	ts ɿ ²¹	1414	
@@ -2636,7 +2636,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3485	GX	pick up (food with chopstick) [fasten the belt]	1412	qʰao55	qʰao55	qʰ ao ⁵⁵	1412	
 3486	EQ	pick up (food with chopstick) [fasten the belt]	1412	kʰo24	kʰo24	kʰ o ²⁴	1412	
 3487	EG	pick up (food with chopstick) [fasten the belt]	1412	(tɕʰi55)	tɕʰi55	tɕʰ i ⁵⁵	2334	
-3488	JM	pick up (food with chopstick) [fasten the belt]	1412	ʈʰɯ55)	ʈʰɯ55)	ʈʰ ɯ ⁵⁵ +	1412	
+3488	JM	pick up (food with chopstick) [fasten the belt]	1412	ʈʰɯ55)	ʈʰɯ55)	ʈʰ ɯ ⁵⁵	1412	
 3489	JX	pick up (food with chopstick) [fasten the belt]	1412	kʰõ55	kʰõ55	kʰ õ ⁵⁵	1412	
 3490	DS	pick up (food with chopstick) [fasten the belt]	1412	kʰoŋ55	kʰoŋ55	kʰ o ŋ ⁵⁵	1412	
 3491	ZC	pick up (food with chopstick) [fasten the belt]	1412	(tsʰɯ55)	tsʰɯ55	tsʰ ɯ ⁵⁵	2335	
@@ -2644,7 +2644,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 861	PB	pig	284	dɛ4	dɛ4	d ɛ ⁴	284	
 862	TL	pig	284	dɛ42	dɛ42	d ɛ ⁴²	284	
 863	GX	pig	284	dɛ21	dɛ21	d ɛ ²¹	284	
-864	EQ	pig	284	tE21	tE21	t ᴇ ²¹	284	
+864	EQ	pig	284	tE21	tE21	t ᴇ/ɛ ²¹	284	
 865	EG	pig	284	tɛ42	tɛ42	t ɛ ⁴²	284	
 866	JM	pig	284	te42	te42	t e ⁴²	284	
 867	JX	pig	284	te42	te42	t e ⁴²	284	
@@ -2673,7 +2673,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1598	MZL	pillow	490	tsen33(tǝɯ21)	tsen33	ts e n ³³	490	
 1165	PB	pine	385	zroŋ1	zroŋ1	z r o ŋ ¹	385	
 1166	TL	pine	385	ʐvŋ35	ʐvŋ35	ʐ v ŋ ³⁵	385	
-1167	GX	pine	385	zoŋ12	zoŋ12	z o ŋ ¹² +	385	
+1167	GX	pine	385	zoŋ12	zoŋ12	z o ŋ ¹²	385	
 1168	EQ	pine	385	ju21	ju21	j u ²¹	385	
 1169	EG	pine	385	ju21	ju21	j u ²¹	385	
 1170	JM	pine	385	v21	v21	v ²¹	385	
@@ -2684,7 +2684,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1185	PB	pine torches	388	mɛ1a	mɛ1a	m ɛ 1a/¹	388	
 1186	TL	pine torches	388	mɛ55(tʂi55)	mɛ55	m ɛ ⁵⁵	388	
 1187	GX	pine torches	388	men555	men555	m e n ⁵⁵ + ⁵	388	
-1188	EQ	pine torches	388	mE24	mE24	m ᴇ ²⁴	388	
+1188	EQ	pine torches	388	mE24	mE24	m ᴇ/ɛ ²⁴	388	
 1189	EG	pine torches	388	(ɕy55ɣo21)	ɕy55ɣo21	ɕ y ⁵⁵ + ɣ o ²¹	2189	
 1190	JM	pine torches	388	(u22ne21)	u22ne21	u ²² + n e ²¹	2190	
 1191	JX	pine torches	388	me55	me55	m e ⁵⁵	388	
@@ -2730,7 +2730,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2972	EG	press (with palm of finger)	1129	o44	o44	o ⁴⁴	1129	
 2973	JM	press (with palm of finger)	1129	(a55)	a55	a ⁵⁵	2284	
 2974	JX	press (with palm of finger)	1129	jo44(/ɑ̃44)	jo44	j o ⁴⁴	1129	
-2975	JX	press (with palm of finger)	1129	jo44(/ɑ̃44)	ɑ̃44)	ɑ̃ ⁴⁴ +	1129	
+2975	JX	press (with palm of finger)	1129	jo44(/ɑ̃44)	ɑ̃44)	ɑ̃ ⁴⁴	1129	
 2976	DS	press (with palm of finger)	1129	ja44	ja44	j a ⁴⁴	1129	
 2977	ZC	press (with palm of finger)	1129	ja44	ja44	j a ⁴⁴	1129	
 2978	MZL	press (with palm of finger)	1129	ja44	ja44	j a ⁴⁴	1129	
@@ -2771,14 +2771,14 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2983	EG	pull up (weeds)	1131	tɕia44	tɕia44	tɕ i/j a ⁴⁴	1131	
 2984	JM	pull up (weeds)	1131	tɕiõ55	tɕiõ55	tɕ i õ ⁵⁵	1131	
 2985	JX	pull up (weeds)	1131	pio42(/mɑ̃21)	pio42	p i/j o ⁴²	1131	
-2986	JX	pull up (weeds)	1131	pio42(/mɑ̃21)	mɑ̃21)	m ɑ̃ ²¹ +	1131	
+2986	JX	pull up (weeds)	1131	pio42(/mɑ̃21)	mɑ̃21)	m ɑ̃ ²¹	1131	
 2987	DS	pull up (weeds)	1131	(ma21)	ma21	m a ²¹	2285	
 2988	ZC	pull up (weeds)	1131	ma(21)	ma	m a	1131	
 2989	MZL	pull up (weeds)	1131	[tsʰɛ42]	tsʰɛ42	tsʰ ɛ ⁴²	2286	1
 3880	PB	pull/lead (a cow) along	1568	qʰen1	qʰen1	qʰ e n ¹	1568	
 3881	TL	pull/lead (a cow) along	1568	qʰan55	qʰan55	qʰ a n ⁵⁵	1568	
 3882	GX	pull/lead (a cow) along	1568	qʰ55	qʰ55	qʰ ⁵⁵	1568	
-3883	EQ	pull/lead (a cow) along	1568	qʰE24	qʰE24	qʰ ᴇ ²⁴	1568	
+3883	EQ	pull/lead (a cow) along	1568	qʰE24	qʰE24	qʰ ᴇ/ɛ ²⁴	1568	
 3884	EG	pull/lead (a cow) along	1568	qʰɛ55	qʰɛ55	qʰ ɛ ⁵⁵	1568	
 3885	JM	pull/lead (a cow) along	1568	qʰe55	qʰe55	qʰ e ⁵⁵	1568	
 3886	JX	pull/lead (a cow) along	1568	kʰẽ55	kʰẽ55	kʰ ẽ ⁵⁵	1568	
@@ -2789,14 +2789,14 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3672	TL	pull; tug	1487	ʑi33	ʑi33	ʑ i ³³	1487	
 3673	GX	pull; tug	1487	dʑi22	dʑi22	d ʑ i ²²	1487	
 3674	EQ	pull; tug	1487	dʑi22	dʑi22	d ʑ i ²²	1487	
-3675	EG	pull; tug	1487	(kʰɛ22/tɕʰio55)	tɕʰio55)	tɕʰ i/j o ⁵⁵ +	1487	
+3675	EG	pull; tug	1487	(kʰɛ22/tɕʰio55)	tɕʰio55)	tɕʰ i/j o ⁵⁵	1487	
 3676	JX	pull; tug	1487	tɕi33	tɕi33	tɕ i ³³	1487	
 3677	DS	pull; tug	1487	tɕi33	tɕi33	tɕ i ³³	1487	
 3678	ZC	pull; tug	1487	tɕi33	tɕi33	tɕ i ³³	1487	
 3679	MZL	pull; tug	1487	(kʰen55)	kʰen55	kʰ e n ⁵⁵	2350	
 596	PB	pus	159	nioŋ1b	nioŋ1b	n i/j o ŋ 1b/¹	159	
 597	TL	pus	159	nen35	nen35	n e n ³⁵	159	
-598	GX	pus	159	nõ12	nõ12	n õ ¹² +	159	
+598	GX	pus	159	nõ12	nõ12	n õ ¹²	159	
 599	EQ	pus	159	ɲiu21	ɲiu21	ɲ i u ²¹	159	
 600	EG	pus	159	nu21	nu21	n u ²¹	159	
 601	JM	pus	159	nu21	nu21	n u ²¹	159	
@@ -2826,7 +2826,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3327	MZL	read	1287	[tʰou42]	tʰou42	tʰ ou ⁴²	2320	1
 2754	PB	real	1047	tsreŋ1	tsreŋ1	ts r e ŋ ¹	1047	
 2755	TL	real	1047	tʂɚ̃55	tʂɚ̃55	ʈʂ ɚ/ə̃ ⁵⁵	1047	
-2756	GX	real	1047	tʂẽ12	tʂẽ12	ʈʂ ẽ ¹² +	1047	
+2756	GX	real	1047	tʂẽ12	tʂẽ12	ʈʂ ẽ ¹²	1047	
 2757	EQ	real	1047	tsɿ24	tsɿ24	ts ɿ ²⁴	1047	
 2758	EG	real	1047	tsɛ55	tsɛ55	ts ɛ ⁵⁵	1047	
 2759	JM	real	1047	tʂɚ̃55	tʂɚ̃55	ʈʂ ɚ/ə̃ ⁵⁵	1047	
@@ -2847,7 +2847,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1175	PB	resin, colophony	387	mɛ1a	mɛ1a	m ɛ 1a/¹	387	
 1176	TL	resin, colophony	387	mɛ55(tʂi55)	mɛ55	m ɛ ⁵⁵	387	
 1177	GX	resin, colophony	387	(ʐoŋ21tɕi22)	ʐoŋ21tɕi22	ʐ o ŋ ²¹ + tɕ i ²²	2187	
-1178	EQ	resin, colophony	387	mE24(tsɿ24)	mE24	m ᴇ ²⁴	387	
+1178	EQ	resin, colophony	387	mE24(tsɿ24)	mE24	m ᴇ/ɛ ²⁴	387	
 1179	EG	resin, colophony	387	mɛ̃55(tse44)	mɛ̃55	m ɛ̃ ⁵⁵	387	
 1180	JM	resin, colophony	387	me55(tʂi55)	me55	m e ⁵⁵	387	
 1181	JX	resin, colophony	387	mɛ55(tsi33tsi33)	mɛ55	m ɛ ⁵⁵	387	
@@ -2886,7 +2886,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1312	MZL	rice straw	408	ma44	ma44	m a ⁴⁴	408	
 2920	PB	rich	1083	gɔ1	gɔ1	g ɔ ¹	1083	
 2921	TL	rich	1083	gɔ35	gɔ35	g ɔ ³⁵	1083	
-2922	GX	rich	1083	gao12	gao12	g ao ¹² +	1083	
+2922	GX	rich	1083	gao12	gao12	g ao ¹²	1083	
 2923	EQ	rich	1083	ko21	ko21	k o ²¹	1083	
 2924	EG	rich	1083	ko21	ko21	k o ²¹	1083	
 2925	JM	rich	1083	ko21	ko21	k o ²¹	1083	
@@ -2895,7 +2895,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2928	MZL	rich	1083	ko21	ko21	k o ²¹	1083	
 3870	PB	ride	1566	gɯ1	gɯ1	g ɯ ¹	1566	
 3871	TL	ride	1566	gɯ35	gɯ35	g ɯ ³⁵	1566	
-3872	GX	ride	1566	gɯ12	gɯ12	g ɯ ¹² +	1566	
+3872	GX	ride	1566	gɯ12	gɯ12	g ɯ ¹²	1566	
 3873	EQ	ride	1566	kɯ21	kɯ21	k ɯ ²¹	1566	
 3874	EG	ride	1566	kɯ21	kɯ21	k ɯ ²¹	1566	
 3875	JM	ride	1566	kɯ22	kɯ22	k ɯ ²²	1566	
@@ -2926,7 +2926,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3640	MZL	roast in fire	1474	kõ21	kõ21	k õ ²¹	1474	
 1135	PB	root	375	tɛ4	tɛ4	t ɛ ⁴	375	
 1136	GX	root	375	te24	te24	t e ²⁴	375	
-1137	EQ	root	375	tE55	tE55	t ᴇ ⁵⁵	375	
+1137	EQ	root	375	tE55	tE55	t ᴇ/ɛ ⁵⁵	375	
 1138	EG	root	375	tɛ42	tɛ42	t ɛ ⁴²	375	
 1139	JM	root	375	te42	te42	t e ⁴²	375	
 1140	JX	root	375	te44	te44	t e ⁴⁴	375	
@@ -2934,7 +2934,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1142	MZL	root	375	(tso33)	tso33	ts o ³³	2182	
 1143	PB	root	375	mi1a	mi1a	m i 1a/¹	375	
 1144	TL	root	375	mɛ21	mɛ21	m ɛ ²¹	375	
-1145	EQ	root	375	mE43	mE43	m ᴇ ⁴ + ³	375	
+1145	EQ	root	375	mE43	mE43	m ᴇ/ɛ ⁴ + ³	375	
 1146	EG	root	375	mɛ42	mɛ42	m ɛ ⁴²	375	
 1147	JM	root	375	me42	me42	m e ⁴²	375	
 1148	DS	root	375	mi44	mi44	m i ⁴⁴	375	
@@ -2951,8 +2951,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1873	MZL	rope	619	so44	so44	s o ⁴⁴	619	
 2548	PB	round	990	ʁuen1b	ʁuen1b	ʁ u/w e n 1b/¹	990	
 2549	TL	round	990	ueŋ35	ueŋ35	u e ŋ ³⁵	990	
-2550	GX	round	990	uen12	uen12	u e n ¹² +	990	
-2551	EQ	round	990	ʁuE21	ʁuE21	ʁ u ᴇ ²¹	990	
+2550	GX	round	990	uen12	uen12	u e n ¹²	990	
+2551	EQ	round	990	ʁuE21	ʁuE21	ʁ u ᴇ/ɛ ²¹	990	
 2552	EG	round	990	kʰuɛ44	kʰuɛ44	kʰ u/w ɛ ⁴⁴	990	
 2553	JM	round	990	ŋue21	ŋue21	ŋ u/w e ²¹	990	
 2554	JX	round	990	uẽ21	uẽ21	u ẽ ²¹	990	
@@ -2962,7 +2962,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 313	PB	salt	61	pren1	pren1	p r e n ¹	61	
 314	TL	salt	61	tɕyen55	tɕyen55	tɕ y/ɥ e n ⁵⁵	61	
 315	GX	salt	61	tɕyen55	tɕyen55	tɕ y/ɥ e n ⁵⁵	61	
-316	EQ	salt	61	tsuE24	tsuE24	ts u ᴇ ²⁴	61	
+316	EQ	salt	61	tsuE24	tsuE24	ts u ᴇ/ɛ ²⁴	61	
 317	EG	salt	61	tsuɛ55	tsuɛ55	ts u/w ɛ ⁵⁵	61	
 318	JM	salt	61	tsuẽ55	tsuẽ55	ts u ẽ ⁵⁵	61	
 319	JX	salt	61	pien55	pien55	p i/j e n ⁵⁵	61	
@@ -3052,7 +3052,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4227	MZL	scoop up (water); ladle out	1754	kǝ55	kǝ55	k ə ⁵⁵	1754	
 185	PB	sea	32	ɢɔ1	ɢɔ1	ɣ ɔ ¹	32	
 186	TL	sea	32	ʁɔ35	ʁɔ35	ʁ ɔ ³⁵	32	
-187	GX	sea	32	qao12	qao12	q ao ¹² +	32	
+187	GX	sea	32	qao12	qao12	q ao ¹²	32	
 188	EG	sea	32	(li21bɯ22)	li21bɯ22	l i ²¹ + b ɯ ²²	2132	
 189	JM	sea	32	(lu21bɯ̃22)	lu21bɯ̃22	l u ²¹ + b ɯ̃ ²²	2133	
 190	JX	sea	32	kou21	kou21	k ou ²¹	32	
@@ -3091,7 +3091,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3955	MZL	seep [sweep]	1601	[sǝɯ33]	sǝɯ33	s ə ɯ ³³	2376	1
 3738	PB	sell	1517	ɢɯ1	ɢɯ1	ɣ ɯ ¹	1517	
 3739	TL	sell	1517	ʁɚ35	ʁɚ35	ʁ ɚ/ə ³⁵	1517	
-3740	GX	sell	1517	ɢe12	ɢe12	ɣ e ¹² +	1517	
+3740	GX	sell	1517	ɢe12	ɢe12	ɣ e ¹²	1517	
 3741	EQ	sell	1517	qɯ21	qɯ21	q ɯ ²¹	1517	
 3742	EG	sell	1517	qɯ21	qɯ21	q ɯ ²¹	1517	
 3743	JM	sell	1517	qɯ21	qɯ21	q ɯ ²¹	1517	
@@ -3132,7 +3132,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4072	PB	shave (the head)	1668	dʑæn3	dʑæn3	d ʑ æ n ³	1668	
 4073	TL	shave (the head)	1668	ʐaŋ21	ʐaŋ21	ʐ a ŋ ²¹	1668	
 4074	GX	shave (the head)	1668	dzan42	dzan42	dz a n ⁴²	1668	
-4075	EQ	shave (the head)	1668	dzE43	dzE43	dz ᴇ ⁴ + ³	1668	
+4075	EQ	shave (the head)	1668	dzE43	dzE43	dz ᴇ/ɛ ⁴ + ³	1668	
 4076	EG	shave (the head)	1668	(ɕia44)	ɕia44	ɕ i/j a ⁴⁴	2393	
 4077	JM	shave (the head)	1668	(ɕiu44)	ɕiu44	ɕ i u ⁴⁴	2394	
 4078	JX	shave (the head)	1668	tɕian31	tɕian31	tɕ i/j a n ³¹	1668	
@@ -3141,7 +3141,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4081	MZL	shave (the head)	1668	tɕiɚ̃21	tɕiɚ̃21	tɕ i/j ɚ̃/ə̃ ²¹	1668	
 851	PB	sheep (general)	274	njo1	njo1	n j o ¹	274	
 852	TL	sheep (general)	274	joŋ35	joŋ35	j o ŋ ³⁵	274	
-853	GX	sheep (general)	274	joŋ12	joŋ12	j o ŋ ¹² +	274	
+853	GX	sheep (general)	274	joŋ12	joŋ12	j o ŋ ¹²	274	
 854	EQ	sheep (general)	274	ɲio21	ɲio21	ɲ i/j o ²¹	274	
 855	EG	sheep (general)	274	ɲiõ21	ɲiõ21	ɲ i õ ²¹	274	
 856	JM	sheep (general)	274	ɲiõ21	ɲiõ21	ɲ i õ ²¹	274	
@@ -3151,7 +3151,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 860	MZL	sheep (general)	274	joŋ21	joŋ21	j o ŋ ²¹	274	
 1560	PB	shoe	479	ʁɛ1	ʁɛ1	ʁ ɛ ¹	479	
 1561	TL	shoe	479	(jen35)	jen35	j e n ³⁵	2207	
-1562	GX	shoe	479	ʁɛ12	ʁɛ12	ʁ ɛ ¹² +	479	
+1562	GX	shoe	479	ʁɛ12	ʁɛ12	ʁ ɛ ¹²	479	
 1563	EQ	shoe	479	(ɲ21)	ɲ21	ɲ ²¹	2208	
 1564	EG	shoe	479	ŋa21	ŋa21	ŋ a ²¹	479	
 1565	JM	shoe	479	o21tse44	o21tse44	o ²¹ + ts e ⁴⁴	479	
@@ -3160,7 +3160,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1568	MZL	shoe	479	ɣɛ21	ɣɛ21	ɣ ɛ ²¹	479	
 1884	PB	sickle	624	jen1b	jen1b	j e n 1b/¹	624	
 1885	TL	sickle	624	jen35	jen35	j e n ³⁵	624	
-1886	GX	sickle	624	jen12	jen12	j e n ¹² +	624	
+1886	GX	sickle	624	jen12	jen12	j e n ¹²	624	
 1887	EQ	sickle	624	ɲia21	ɲia21	ɲ i/j a ²¹	624	
 1888	EG	sickle	624	ɲia21	ɲia21	ɲ i/j a ²¹	624	
 1889	JM	sickle	624	na21	na21	n a ²¹	624	
@@ -3170,7 +3170,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1893	MZL	sickle	624	[li55to55]	li55to55	l i ⁵⁵ + t o ⁵⁵	2227	1
 1904	PB	sieve; sifter	629	lɔ1b	lɔ1b	l ɔ 1b/¹	629	
 1905	TL	sieve; sifter	629	lɔ35	lɔ35	l ɔ ³⁵	629	
-1906	GX	sieve; sifter	629	lao12	lao12	l ao ¹² +	629	
+1906	GX	sieve; sifter	629	lao12	lao12	l ao ¹²	629	
 1907	EQ	sieve; sifter	629	lo21	lo21	l o ²¹	629	
 1908	EG	sieve; sifter	629	lo21	lo21	l o ²¹	629	
 1909	JM	sieve; sifter	629	lo21	lo21	l o ²¹	629	
@@ -3210,7 +3210,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2184	MZL	six	802	fv44	fv44	f v ⁴⁴	802	
 441	PB	skin	120	be1	be1	b e ¹	120	
 442	TL	skin	120	bi25	bi25	b i ² + ⁵	120	
-443	GX	skin	120	bi12	bi12	b i ¹² +	120	
+443	GX	skin	120	bi12	bi12	b i ¹²	120	
 444	EQ	skin	120	pi21	pi21	p i ²¹	120	
 445	EG	skin	120	tɕyi21qa55	tɕyi21qa55	tɕ y i ²¹ + q a ⁵⁵	120	
 446	JM	skin	120	tɕyi21	tɕyi21	tɕ y i ²¹	120	
@@ -3221,7 +3221,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1	PB	sky	1	xen1	xen1	x e n ¹	1	
 2	TL	sky	1	xen55	xen55	x e n ⁵⁵	1	
 3	GX	sky	1	hen55	hen55	h e n ⁵⁵	1	
-4	EQ	sky	1	xE24	xE24	x ᴇ ²⁴	1	
+4	EQ	sky	1	xE24	xE24	x ᴇ/ɛ ²⁴	1	
 5	EG	sky	1	xɛ̃55	xɛ̃55	x ɛ̃ ⁵⁵	1	
 6	JM	sky	1	xɛ̃55	xɛ̃55	x ɛ̃ ⁵⁵	1	
 7	JX	sky	1	xen55	xen55	x e n ⁵⁵	1	
@@ -3249,8 +3249,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 120	MZL	smoke	19	fi33ɕen55	fi33ɕen55	f i ³³ + ɕ e n ⁵⁵	19	
 2558	PB	smooth	994	bæŋ1	bæŋ1	b æ ŋ ¹	994	
 2559	TL	smooth	994	baŋ35	baŋ35	b a ŋ ³⁵	994	
-2560	GX	smooth	994	bæ12	bæ12	b æ ¹² +	994	
-2561	EQ	smooth	994	bE21	bE21	b ᴇ ²¹	994	
+2560	GX	smooth	994	bæ12	bæ12	b æ ¹²	994	
+2561	EQ	smooth	994	bE21	bE21	b ᴇ/ɛ ²¹	994	
 2562	EG	smooth	994	pa21	pa21	p a ²¹	994	
 2563	JM	smooth	994	pã21	pã21	p ã ²¹	994	
 2564	JX	smooth	994	pan21	pan21	p a n ²¹	994	
@@ -3277,7 +3277,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 71	PB	snow	12	sʰuɛ4	sʰuɛ4	sʰ u/w ɛ ⁴	12	
 72	TL	snow	12	sue42	sue42	s u/w e ⁴²	12	
 73	GX	snow	12	suɛ42	suɛ42	s u/w ɛ ⁴²	12	
-74	EQ	snow	12	suE55	suE55	s u ᴇ ⁵⁵	12	
+74	EQ	snow	12	suE55	suE55	s u ᴇ/ɛ ⁵⁵	12	
 75	EG	snow	12	suɛ44	suɛ44	s u/w ɛ ⁴⁴	12	
 76	JM	snow	12	sue55	sue55	s u/w e ⁵⁵	12	
 77	JX	snow	12	sui44	sui44	s u i ⁴⁴	12	
@@ -3286,7 +3286,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 80	MZL	snow	12	ɕyɛ44	ɕyɛ44	ɕ y/ɥ ɛ ⁴⁴	12	
 3588	PB	soak; steep	1444	dzi1	dzi1	dz i ¹	1444	
 3589	TL	soak; steep	1444	zi35	zi35	z i ³⁵	1444	
-3590	GX	soak; steep	1444	dzi12	dzi12	dz i ¹² +	1444	
+3590	GX	soak; steep	1444	dzi12	dzi12	dz i ¹²	1444	
 3591	EQ	soak; steep	1444	tsi21	tsi21	ts i ²¹	1444	
 3592	EG	soak; steep	1444	(ɲya55)	ɲya55	ɲ y a ⁵⁵	2343	
 3593	JM	soak; steep	1444	(ɲiua55)	ɲiua55	ɲ i u/w a ⁵⁵	2344	
@@ -3308,7 +3308,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 205	PB	soil; earth	40	nɛ1b	nɛ1b	n ɛ 1b/¹	40	
 206	TL	soil; earth	40	tʰoŋ33	tʰoŋ33	tʰ o ŋ ³³	40	
 207	GX	soil; earth	40	tʰy22	tʰy22	tʰ y ²²	40	
-208	EQ	soil; earth	40	nE21	nE21	n ᴇ ²¹	40	
+208	EQ	soil; earth	40	nE21	nE21	n ᴇ/ɛ ²¹	40	
 209	EG	soil; earth	40	nɛ215	nɛ215	n ɛ ²¹ + ⁵	40	
 210	JM	soil; earth	40	ne21	ne21	n e ²¹	40	
 211	JX	soil; earth	40	tʰu33	tʰu33	tʰ u ³³	40	
@@ -3356,7 +3356,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2880	PB	sour	1072	sʰuaŋ1	sʰuaŋ1	sʰ u/w a ŋ ¹	1072	
 2881	TL	sour	1072	soŋ55	soŋ55	s o ŋ ⁵⁵	1072	
 2882	GX	sour	1072	suaŋ55	suaŋ55	s u/w a ŋ ⁵⁵	1072	
-2883	EQ	sour	1072	ɕyE24	ɕyE24	ɕ y ᴇ ²⁴	1072	
+2883	EQ	sour	1072	ɕyE24	ɕyE24	ɕ y/ɥ ᴇ/ɛ ²⁴	1072	
 2884	EG	sour	1072	sua55	sua55	s u/w a ⁵⁵	1072	
 2885	JM	sour	1072	tɕã55	tɕã55	tɕ ã ⁵⁵	1072	
 2886	JX	sour	1072	suɑ̃55	suɑ̃55	s u/w ɑ̃ ⁵⁵	1072	
@@ -3365,7 +3365,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2889	MZL	sour	1072	suaŋ55	suaŋ55	s u/w a ŋ ⁵⁵	1072	
 1944	PB	speech; words; language	651	doŋ1	doŋ1	d o ŋ ¹	651	
 1945	TL	speech; words; language	651	doŋ35	doŋ35	d o ŋ ³⁵	651	
-1946	GX	speech; words; language	651	doŋ12	doŋ12	d o ŋ ¹² +	651	
+1946	GX	speech; words; language	651	doŋ12	doŋ12	d o ŋ ¹²	651	
 1947	EQ	speech; words; language	651	do21	do21	d o ²¹	651	
 1948	EG	speech; words; language	651	(tɕa55)	tɕa55	tɕ a ⁵⁵	2230	
 1949	JM	speech; words; language	651	(la22kue55)	la22kue55	l a ²² + k u/w e ⁵⁵	2231	
@@ -3373,9 +3373,9 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1951	MZL	speech; words; language	651	(ɣo21)	ɣo21	ɣ o ²¹	2232	
 4102	PB	spit (noun or verb?)	1688	tsʰri1	tsʰri1	tsʰ r i ¹	1688	
 4103	TL	spit (noun or verb?)	1688	tɕʰi42(/fɚ55tʰɔ21)	tɕʰi42	tɕʰ i ⁴²	1688	
-4104	TL	spit (noun or verb?)	1688	tɕʰi42(/fɚ55tʰɔ21)	fɚ55tʰɔ21)	f ɚ/ə ⁵⁵ + tʰ ɔ ²¹ +	1688	
+4104	TL	spit (noun or verb?)	1688	tɕʰi42(/fɚ55tʰɔ21)	fɚ55tʰɔ21)	f ɚ/ə ⁵⁵ + tʰ ɔ ²¹	1688	
 4105	GX	spit (noun or verb?)	1688	(pfu12tʰua42)	pfu12tʰua42	p f u ¹² + tʰ u/w a ⁴²	2395	
-4106	EQ	spit (noun or verb?)	1688	(fE24tʰo43)	fE24tʰo43	f ᴇ ²⁴ + tʰ o ⁴ + ³	2396	
+4106	EQ	spit (noun or verb?)	1688	(fE24tʰo43)	fE24tʰo43	f ᴇ/ɛ ²⁴ + tʰ o ⁴ + ³	2396	
 4107	EG	spit (noun or verb?)	1688	(fɛ55tʰo42)	fɛ55tʰo42	f ɛ ⁵⁵ + tʰ o ⁴²	2397	
 4108	JM	spit (noun or verb?)	1688	(fe55)	fe55	f e ⁵⁵	2398	
 4109	JX	spit (noun or verb?)	1688	tsʰi55(tsʰi55tʰou31)	tsʰi55	tsʰ i ⁵⁵	1688	
@@ -3385,7 +3385,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3473	PB	squeeze (for milk)	1405	tsuɛ4	tsuɛ4	ts u/w ɛ ⁴	1405	
 3474	TL	squeeze (for milk)	1405	tsue42	tsue42	ts u/w e ⁴²	1405	
 3475	GX	squeeze (for milk)	1405	tsuɛ24	tsuɛ24	ts u/w ɛ ²⁴	1405	
-3476	EQ	squeeze (for milk)	1405	tsuE55	tsuE55	ts u ᴇ ⁵⁵	1405	
+3476	EQ	squeeze (for milk)	1405	tsuE55	tsuE55	ts u ᴇ/ɛ ⁵⁵	1405	
 3477	EG	squeeze (for milk)	1405	(nɛ55)	nɛ55	n ɛ ⁵⁵	2330	
 3478	JM	squeeze (for milk)	1405	(le55)	le55	l e ⁵⁵	2331	
 3479	JX	squeeze (for milk)	1405	tsui44	tsui44	ts u i ⁴⁴	1405	
@@ -3404,7 +3404,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 40	MZL	star	5	ɕɚ̃55	ɕɚ̃55	ɕ ɚ/ə̃ ⁵⁵	5	
 4258	PB	steam	1797	drɯ̃1	drɯ̃1	d r ɯ̃ ¹	1797	
 4259	TL	steam	1797	dĩ55	dĩ55	d ĩ ⁵⁵	1797	
-4260	GX	steam	1797	dzẽ12	dzẽ12	dz ẽ ¹² +	1797	
+4260	GX	steam	1797	dzẽ12	dzẽ12	dz ẽ ¹²	1797	
 4261	EQ	steam	1797	diɯ24	diɯ24	d i/j ɯ ²⁴	1797	
 4262	EG	steam	1797	tɕi55	tɕi55	tɕ i ⁵⁵	1797	
 4263	JM	steam	1797	ʈɯ̃55	ʈɯ̃55	ʈ ɯ̃ ⁵⁵	1797	
@@ -3426,7 +3426,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3090	TL	step on; tread	1168	(uen21)	uen21	u e n ²¹	2292	
 3091	GX	step on; tread	1168	da21	da21	d a ²¹	1168	
 3092	EQ	step on; tread	1168	ta21(/tsʰuE43)	ta21	t a ²¹	1168	
-3093	EQ	step on; tread	1168	ta21(/tsʰuE43)	tsʰuE43)	tsʰ u ᴇ ⁴ + ³ +	1168	
+3093	EQ	step on; tread	1168	ta21(/tsʰuE43)	tsʰuE43)	tsʰ u ᴇ/ɛ ⁴³	1168	
 3094	EG	step on; tread	1168	ta42	ta42	t a ⁴²	1168	
 3095	JM	step on; tread	1168	ta42	ta42	t a ⁴²	1168	
 3096	JX	step on; tread	1168	tɑ42	tɑ42	t ɑ ⁴²	1168	
@@ -3484,8 +3484,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 543	EG	stomach	148	zɛ22	zɛ22	z ɛ ²²	148	
 544	JM	stomach	148	ʐɚ42	ʐɚ42	ʐ ɚ/ə ⁴²	148	
 545	JX	stomach	148	v42 [/uei55]	v42	v ⁴²	148	
-546	JX	stomach	148	v42 [/uei55]	uei55]	u e i ⁵⁵ +	148	
-547	DS	stomach	148	[uei55]]	uei55]	u e i ⁵⁵ +	2156	1
+546	JX	stomach	148	v42 [/uei55]	uei55]	u e i ⁵⁵	148	
+547	DS	stomach	148	[uei55]]	uei55]	u e i ⁵⁵	2156	1
 548	ZC	stomach	148	v42	v42	v ⁴²	148	
 549	MZL	stomach	148	ju42	ju42	j u ⁴²	148	
 4411	PB	stomach [bird crop]	2109	tsʰu3	tsʰu3	tsʰ u ³	2109	
@@ -3508,7 +3508,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2587	PB	straight	1003	tuen1	tuen1	t u/w e n ¹	1003	
 2588	TL	straight	1003	tue55	tue55	t u/w e ⁵⁵	1003	
 2589	GX	straight	1003	tuen55	tuen55	t u/w e n ⁵⁵	1003	
-2590	EQ	straight	1003	tyE24	tyE24	t y ᴇ ²⁴	1003	
+2590	EQ	straight	1003	tyE24	tyE24	t y/ɥ ᴇ/ɛ ²⁴	1003	
 2591	EG	straight	1003	ti55	ti55	t i ⁵⁵	1003	
 2592	JM	straight	1003	tyi55	tyi55	t y i ⁵⁵	1003	
 2593	JX	straight	1003	tuen55	tuen55	t u/w e n ⁵⁵	1003	
@@ -3545,7 +3545,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3771	MZL	stroke; touch	1525	mo44	mo44	m o ⁴⁴	1525	
 4009	PB	suck	1648	tsji4	tsji4	ts j i ⁴	1648	
 4010	TL	suck	1648	tɕi42	tɕi42	tɕ i ⁴²	1648	
-4011	GX	suck	1648	tɕi12	tɕi12	tɕ i ¹² +	1648	
+4011	GX	suck	1648	tɕi12	tɕi12	tɕ i ¹²	1648	
 4012	EQ	suck	1648	tsi55	tsi55	ts i ⁵⁵	1648	
 4013	JX	suck	1648	tɕi44	tɕi44	tɕ i ⁴⁴	1648	
 4014	DS	suck	1648	tɕi44	tɕi44	tɕ i ⁴⁴	1648	
@@ -3563,7 +3563,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 20	MZL	sun	2	ɲiɛ44	ɲiɛ44	ɲ i/j ɛ ⁴⁴	2	
 586	PB	sweat	154	ʁaŋ1b	ʁaŋ1b	ʁ a ŋ 1b/¹	154	
 587	TL	sweat	154	ŋɔ35	ŋɔ35	ŋ ɔ ³⁵	154	
-588	GX	sweat	154	ʁaŋ12	ʁaŋ12	ʁ a ŋ ¹² +	154	
+588	GX	sweat	154	ʁaŋ12	ʁaŋ12	ʁ a ŋ ¹²	154	
 589	EQ	sweat	154	ʁa21	ʁa21	ʁ a ²¹	154	
 590	EG	sweat	154	ŋa21	ŋa21	ŋ a ²¹	154	
 591	JM	sweat	154	ã21	ã21	ã ²¹	154	
@@ -3583,7 +3583,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4287	MZL	swell	1802	tsʰen55	tsʰen55	tsʰ e n ⁵⁵	1802	
 1500	PB	tea	454	drɔ1	drɔ1	d r ɔ ¹	454	
 1501	TL	tea	454	djɔ35	djɔ35	d j ɔ ³⁵	454	
-1502	GX	tea	454	dzao12	dzao12	dz ao ¹² +	454	
+1502	GX	tea	454	dzao12	dzao12	dz ao ¹²	454	
 1503	EQ	tea	454	tjo21	tjo21	t j o ²¹	454	
 1504	EG	tea	454	tɕo21	tɕo21	tɕ o ²¹	454	
 1505	JM	tea	454	ʈo21	ʈo21	ʈ o ²¹	454	
@@ -3610,7 +3610,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4029	DS	tear up, rip	1650	pʰe55	pʰe55	pʰ e ⁵⁵	1650	
 4030	ZC	tear up, rip	1650	pʰe55	pʰe55	pʰ e ⁵⁵	1650	
 4031	MZL	tear up, rip	1650	pʰɛ55	pʰɛ55	pʰ ɛ ⁵⁵	1650	
-2215	PB	ten	806	dzri4	dzri4	dzr i ⁴	806	
+2215	PB	ten	806	dzri4	dzri4	ɖʐ i ⁴	806	
 2216	TL	ten	806	ʐɚ42	ʐɚ42	ʐ ɚ/ə ⁴²	806	
 2217	GX	ten	806	dʐi21	dʐi21	ɖʐ i ²¹	806	
 2218	EQ	ten	806	tsɿ21	tsɿ21	ts ɿ ²¹	806	
@@ -3622,7 +3622,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2224	MZL	ten	806	tsʰi42	tsʰi42	tsʰ i ⁴²	806	
 2810	PB	tender young (plant)	1057	njeŋ1b	njeŋ1b	n j e ŋ 1b/¹	1057	
 2811	TL	tender young (plant)	1057	jẽ35	jẽ35	j ẽ ³⁵	1057	
-2812	GX	tender young (plant)	1057	ɲe12	ɲe12	ɲ e ¹² +	1057	
+2812	GX	tender young (plant)	1057	ɲe12	ɲe12	ɲ e ¹²	1057	
 2813	EQ	tender young (plant)	1057	ɲiǝ21	ɲiǝ21	ɲ i ə ²¹	1057	
 2814	EG	tender young (plant)	1057	ɲi21	ɲi21	ɲ i ²¹	1057	
 2815	JM	tender young (plant)	1057	ɲi21	ɲi21	ɲ i ²¹	1057	
@@ -3640,7 +3640,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 476	DS	tendon; sinew	130	tɕien35	tɕien35	tɕ i/j e n ³⁵	130	
 477	ZC	tendon; sinew	130	tɕe35	tɕe35	tɕ e ³⁵	130	
 478	MZL	tendon; sinew	130	tɕĩ55	tɕĩ55	tɕ ĩ ⁵⁵	130	
-2096	PB	the 12 animals representing the 12 years	767	dzro4	dzro4	dzr o ⁴	767	
+2096	PB	the 12 animals representing the 12 years	767	dzro4	dzro4	ɖʐ o ⁴	767	
 2097	TL	the 12 animals representing the 12 years	767	ʐy42	ʐy42	ʐ y ⁴²	767	
 2098	GX	the 12 animals representing the 12 years	767	dzao21	dzao21	dz ao ²¹	767	
 2099	EQ	the 12 animals representing the 12 years	767	tɕio21	tɕio21	tɕ i/j o ²¹	767	
@@ -3682,7 +3682,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4162	PB	think	1726	mi2	mi2	m i ²	1726	
 4163	TL	think	1726	mi33	mi33	m i ³³	1726	
 4164	EG	think	1726	mi22(/suɛ42)	mi22	m i ²²	1726	
-4165	EG	think	1726	mi22(/suɛ42)	suɛ42)	s u/w ɛ ⁴² +	1726	
+4165	EG	think	1726	mi22(/suɛ42)	suɛ42)	s u/w ɛ ⁴²	1726	
 4166	JM	think	1726	mi22	mi22	m i ²²	1726	
 4167	JX	think	1726	mi33	mi33	m i ³³	1726	
 4168	DS	think	1726	mi33	mi33	m i ³³	1726	
@@ -3696,7 +3696,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1218	DS	thorn; splinter	391	tɕʰi31	tɕʰi31	tɕʰ i ³¹	391	
 1219	ZC	thorn; splinter	391	tɕʰi31	tɕʰi31	tɕʰ i ³¹	391	
 1220	MZL	thorn; splinter	391	tɕʰi21	tɕʰi21	tɕʰ i ²¹	391	
-2244	PB	thousand	826	tsjʰen1	tsjʰen1	� e n ¹	826	
+2244	PB	thousand	826	tsjʰen1	tsjʰen1	e n ¹	826	
 2245	TL	thousand	826	tɕʰien55	tɕʰien55	tɕʰ i/j e n ⁵⁵	826	
 2246	GX	thousand	826	tɕʰian55	tɕʰian55	tɕʰ i/j a n ⁵⁵	826	
 2247	EQ	thousand	826	tsʰi24	tsʰi24	tsʰ i ²⁴	826	
@@ -3718,8 +3718,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2154	MZL	three	799	saŋ55	saŋ55	s a ŋ ⁵⁵	799	
 51	PB	thunder	8	sky+cry	xen1+cry	x e n ¹ + c r y	8	
 52	TL	thunder	8	xen55ma35	xen55ma35	x e n ⁵⁵ + m a ³⁵	8	
-53	GX	thunder	8	hen55mæ12	hen55mæ12	h e n ⁵⁵ + m æ ¹² +	8	
-54	EQ	thunder	8	xE24mæ21	xE24mæ21	x ᴇ ²⁴ + m æ ²¹	8	
+53	GX	thunder	8	hen55mæ12	hen55mæ12	h e n ⁵⁵ + m æ ¹²	8	
+54	EQ	thunder	8	xE24mæ21	xE24mæ21	x ᴇ/ɛ ²⁴ + m æ ²¹	8	
 55	EG	thunder	8	xẽ55ma21	xẽ55ma21	x ẽ ⁵⁵ + m a ²¹	8	
 56	JM	thunder	8	xẽ55ma21	xẽ55ma21	x ẽ ⁵⁵ + m a ²¹	8	
 57	JX	thunder	8	xen55man21	xen55man21	x e n ⁵⁵ + m a n ²¹	8	
@@ -3736,7 +3736,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4008	MZL	tie (a cow) to	1645	pʰɯ42	pʰɯ42	pʰ ɯ ⁴²	1645	
 901	PB	tiger	304	lɔ1b	lɔ1b	l ɔ 1b/¹	304	
 902	TL	tiger	304	lɔ35	lɔ35	l ɔ ³⁵	304	
-903	GX	tiger	304	lao12	lao12	l ao ¹² +	304	
+903	GX	tiger	304	lao12	lao12	l ao ¹²	304	
 904	EQ	tiger	304	lo21	lo21	l o ²¹	304	
 905	EG	tiger	304	lo21	lo21	l o ²¹	304	
 906	JM	tiger	304	lo21	lo21	l o ²¹	304	
@@ -3765,7 +3765,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3558	MZL	to bark	1438	pʰia42	pʰia42	pʰ i/j a ⁴²	1438	
 3559	PB	to bark	1438	la1a	la1a	l a 1a/¹	1438	
 3560	TL	to bark	1438	lɔ55	lɔ55	l ɔ ⁵⁵	1438	
-3561	GX	to bark	1438	lao12	lao12	l ao ¹² +	1438	
+3561	GX	to bark	1438	lao12	lao12	l ao ¹²	1438	
 3562	EQ	to bark	1438	lo24	lo24	l o ²⁴	1438	
 3563	EG	to bark	1438	lo55	lo55	l o ⁵⁵	1438	
 3564	JM	to bark	1438	lo55	lo55	l o ⁵⁵	1438	
@@ -3794,7 +3794,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3257	PB	to block (the wind)	1256	be2	be2	b e ²	1256	
 3258	TL	to block (the wind)	1256	bi33	bi33	b i ³³	1256	
 3259	GX	to block (the wind)	1256	bi22	bi22	b i ²²	1256	
-3260	EQ	to block (the wind)	1256	(ta22tsuE24)	ta22tsuE24	t a ²² + ts u ᴇ ²⁴	2310	
+3260	EQ	to block (the wind)	1256	(ta22tsuE24)	ta22tsuE24	t a ²² + ts u ᴇ/ɛ ²⁴	2310	
 3261	EG	to block (the wind)	1256	dʑyi22	dʑyi22	d ʑ y i ²²	1256	
 3262	JM	to block (the wind)	1256	dʑyẽ22	dʑyẽ22	d ʑ y ẽ ²²	1256	
 3263	JX	to block (the wind)	1256	(tɑ̃31)	tɑ̃31	t ɑ̃ ³¹	2311	
@@ -3902,7 +3902,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3890	PB	to owe (monez)	1569	bjɛ2	bjɛ2	b j ɛ ²	1569	
 3891	TL	to owe (monez)	1569	vɚ33	vɚ33	v ɚ/ə ³³	1569	
 3892	GX	to owe (monez)	1569	bvu22	bvu22	b v u ²²	1569	
-3893	EQ	to owe (monez)	1569	vE22	vE22	v ᴇ ²²	1569	
+3893	EQ	to owe (monez)	1569	vE22	vE22	v ᴇ/ɛ ²²	1569	
 3894	EG	to owe (monez)	1569	vɛ22	vɛ22	v ɛ ²²	1569	
 3895	JM	to owe (monez)	1569	(tɕĩ21)	tɕĩ21	tɕ ĩ ²¹	2370	
 3896	JX	to owe (monez)	1569	v33	v33	v ³³	1569	
@@ -3922,7 +3922,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3049	PB	to plait	1156	pren1	pren1	p r e n ¹	1156	
 3050	TL	to plait	1156	tɕyen55	tɕyen55	tɕ y/ɥ e n ⁵⁵	1156	
 3051	GX	to plait	1156	tɕyen55	tɕyen55	tɕ y/ɥ e n ⁵⁵	1156	
-3052	EQ	to plait	1156	tsuE24	tsuE24	ts u ᴇ ²⁴	1156	
+3052	EQ	to plait	1156	tsuE24	tsuE24	ts u ᴇ/ɛ ²⁴	1156	
 3053	EG	to plait	1156	tɕyi55	tɕyi55	tɕ y i ⁵⁵	1156	
 3054	JM	to plait	1156	tɕyẽ55	tɕyẽ55	tɕ y ẽ ⁵⁵	1156	
 3055	JX	to plait	1156	pien55	pien55	p i/j e n ⁵⁵	1156	
@@ -3941,7 +3941,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3119	MZL	to poke; insert	1171	pʰɛ42	pʰɛ42	pʰ ɛ ⁴²	1171	
 2990	PB	to rake (the fields)	1132	bæ1	bæ1	b æ ¹	1132	
 2991	TL	to rake (the fields)	1132	ba35	ba35	b a ³⁵	1132	
-2992	GX	to rake (the fields)	1132	bæ12	bæ12	b æ ¹² +	1132	
+2992	GX	to rake (the fields)	1132	bæ12	bæ12	b æ ¹²	1132	
 2993	EQ	to rake (the fields)	1132	pæ21	pæ21	p æ ²¹	1132	
 2994	EG	to rake (the fields)	1132	[to42ɕyi22]	to42ɕyi22	t o ⁴² + ɕ y i ²²	2287	1
 2995	JX	to rake (the fields)	1132	pɑ44	pɑ44	p ɑ ⁴⁴	1132	
@@ -3967,8 +3967,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4122	MZL	to smell	1707	tsʰu55	tsʰu55	tsʰ u ⁵⁵	1707	
 3228	PB	to thunder	1248	sky+cry	xen1+cry	x e n ¹ + c r y	1248	
 3229	TL	to thunder	1248	xen55ma35	xen55ma35	x e n ⁵⁵ + m a ³⁵	1248	
-3230	GX	to thunder	1248	hen55mæ12	hen55mæ12	h e n ⁵⁵ + m æ ¹² +	1248	
-3231	EQ	to thunder	1248	xE24mæ21	xE24mæ21	x ᴇ ²⁴ + m æ ²¹	1248	
+3230	GX	to thunder	1248	hen55mæ12	hen55mæ12	h e n ⁵⁵ + m æ ¹²	1248	
+3231	EQ	to thunder	1248	xE24mæ21	xE24mæ21	x ᴇ/ɛ ²⁴ + m æ ²¹	1248	
 3232	EG	to thunder	1248	xẽ55ma21	xẽ55ma21	x ẽ ⁵⁵ + m a ²¹	1248	
 3233	JM	to thunder	1248	xẽ55ma21	xẽ55ma21	x ẽ ⁵⁵ + m a ²¹	1248	
 3234	JX	to thunder	1248	xen55man21	xen55man21	x e n ⁵⁵ + m a n ²¹	1248	
@@ -3980,7 +3980,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3530	GX	to water/sprinkle/irrigate	1422	(læ24)	læ24	l æ ²⁴	2336	
 3531	EQ	to water/sprinkle/irrigate	1422	u55	u55	u ⁵⁵	1422	
 3532	EG	to water/sprinkle/irrigate	1422	o55(/xuɛ55)	o55	o ⁵⁵	1422	
-3533	EG	to water/sprinkle/irrigate	1422	o55(/xuɛ55)	xuɛ55)	x u/w ɛ ⁵⁵ +	1422	
+3533	EG	to water/sprinkle/irrigate	1422	o55(/xuɛ55)	xuɛ55)	x u/w ɛ ⁵⁵	1422	
 3534	JM	to water/sprinkle/irrigate	1422	u55	u55	u ⁵⁵	1422	
 3535	JX	to water/sprinkle/irrigate	1422	ou44	ou44	o u ⁴⁴	1422	
 3536	DS	to water/sprinkle/irrigate	1422	ou44	ou44	o u ⁴⁴	1422	
@@ -3999,7 +3999,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 499	PB	tongue	139	drɛ4	drɛ4	d r ɛ ⁴	139	
 500	TL	tongue	139	de42	de42	d e ⁴²	139	
 501	GX	tongue	139	djɛ21	djɛ21	d j ɛ ²¹	139	
-502	EQ	tongue	139	tjE21	tjE21	t j ᴇ ²¹	139	
+502	EQ	tongue	139	tjE21	tjE21	t j ᴇ/ɛ ²¹	139	
 503	EG	tongue	139	ti21	ti21	t i ²¹	139	
 504	JM	tongue	139	ʈɚ42	ʈɚ42	ʈ ɚ/ə ⁴²	139	
 505	JX	tongue	139	tse42	tse42	ts e ⁴²	139	
@@ -4018,7 +4018,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3120	PB	transplant (rice seedling); insert	1172	pʰjen1	pʰjen1	pʰ j e n ¹	1172	
 3121	TL	transplant (rice seedling); insert	1172	fɚ55	fɚ55	f ɚ/ə ⁵⁵	1172	
 3122	GX	transplant (rice seedling); insert	1172	pfu55	pfu55	p f u ⁵⁵	1172	
-3123	EQ	transplant (rice seedling); insert	1172	fE24	fE24	f ᴇ ²⁴	1172	
+3123	EQ	transplant (rice seedling); insert	1172	fE24	fE24	f ᴇ/ɛ ²⁴	1172	
 3124	EG	transplant (rice seedling); insert	1172	(xue55)	xue55	x u/w e ⁵⁵	2297	
 3125	JM	transplant (rice seedling); insert	1172	(tɕiõ42)	tɕiõ42	tɕ i õ ⁴²	2298	
 3126	JX	transplant (rice seedling); insert	1172	fv55	fv55	f v ⁵⁵	1172	
@@ -4048,7 +4048,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4307	PB	turn around	1806	dʐuen5?	dʐuen5?	ɖʐ u/w e n ?/⁵	1806	
 4308	TL	turn around	1806	ʐyen21	ʐyen21	ʐ y/ɥ e n ²¹	1806	
 4309	GX	turn around	1806	zyen42	zyen42	z y/ɥ e n ⁴²	1806	
-4310	EQ	turn around	1806	tɕyE43	tɕyE43	tɕ y ᴇ ⁴ + ³	1806	
+4310	EQ	turn around	1806	tɕyE43	tɕyE43	tɕ y/ɥ ᴇ/ɛ ⁴ + ³	1806	
 4311	EG	turn around	1806	zyɛ42	zyɛ42	z y/ɥ ɛ ⁴²	1806	
 4312	JM	turn around	1806	zye42	zye42	z y/ɥ e ⁴²	1806	
 4313	JX	turn around	1806	tsuen42	tsuen42	ts u/w e n ⁴²	1806	
@@ -4057,15 +4057,15 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 4316	MZL	turn around	1806	tsuan42	tsuan42	ts u/w a n ⁴²	1806	
 1003	PB	turtledove	342	tɕu1kɯ1	tɕu1kɯ1	tɕ u ¹ + k ɯ ¹	342	
 1004	TL	turtledove	342	tɕɯ55kɯ̄̄	tɕɯ55kɯ̄̄	tɕ ɯ ⁵⁵ + k ɯ̃ ⁰	342	
-1005	GX	turtledove	342	tɕi22kɯ12	tɕi22kɯ12	tɕ i ²² + k ɯ ¹² +	342	
+1005	GX	turtledove	342	tɕi22kɯ12	tɕi22kɯ12	tɕ i ²² + k ɯ ¹²	342	
 1006	EQ	turtledove	342	tɕi24kɯ24	tɕi24kɯ24	tɕ i ²⁴ + k ɯ ²⁴	342	
 1007	JM	turtledove	342	tɕi55kɯ55	tɕi55kɯ55	tɕ i ⁵⁵ + k ɯ ⁵⁵	342	
 1008	ZC	turtledove	342	(ku31ku55ku33)	ku31ku55ku33	k u ³¹ + k u ⁵⁵ + k u ³³	2179	
 1009	MZL	turtledove	342	tɕi55kǝɯ55	tɕi55kǝɯ55	tɕ i ⁵⁵ + k ə ɯ ⁵⁵	342	
-2225	PB	twelve	808	ten+ne4	dzri4+ne4	dzr i ⁴ + n e ⁴	808	
+2225	PB	twelve	808	ten+ne4	dzri4+ne4	ɖʐ i ⁴ + n e ⁴	808	
 2226	TL	twelve	808	ʐɚ42ne42	ʐɚ42ne42	ʐ ɚ/ə ⁴² + n e ⁴²	808	
 2227	GX	twelve	808	dʐi21nɛ55	dʐi21nɛ55	ɖʐ i ²¹ + n ɛ ⁵⁵	808	
-2228	EQ	twelve	808	tsɿ21nE55	tsɿ21nE55	ts ɿ ²¹ + n ᴇ ⁵⁵	808	
+2228	EQ	twelve	808	tsɿ21nE55	tsɿ21nE55	ts ɿ ²¹ + n ᴇ/ɛ ⁵⁵	808	
 2229	EG	twelve	808	tsɛ42(kv22)	tsɛ42	ts ɛ ⁴²	808	
 2230	JX	twelve	808	tsa42ne44	tsa42ne44	ts a ⁴² + n e ⁴⁴	808	
 2231	DS	twelve	808	tʂi42ne44	tʂi42ne44	ʈʂ i ⁴² + n e ⁴⁴	808	
@@ -4074,8 +4074,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3792	PB	twist (a tower)	1533	tsuɛ4	tsuɛ4	ts u/w ɛ ⁴	1533	
 3793	TL	twist (a tower)	1533	(ji42)	ji42	j i ⁴²	2358	
 3794	GX	twist (a tower)	1533	(ji21)	ji21	j i ²¹	2359	
-3795	EQ	twist (a tower)	1533	tsuE55(/ji21)	tsuE55	ts u ᴇ ⁵⁵	1533	
-3796	EQ	twist (a tower)	1533	tsuE55(/ji21)	ji21)	j i ²¹ +	1533	
+3795	EQ	twist (a tower)	1533	tsuE55(/ji21)	tsuE55	ts u ᴇ/ɛ ⁵⁵	1533	
+3796	EQ	twist (a tower)	1533	tsuE55(/ji21)	ji21)	j i ²¹	1533	
 3797	EG	twist (a tower)	1533	(ji42)	ji42	j i ⁴²	2360	
 3798	JM	twist (a tower)	1533	(ji42)	ji42	j i ⁴²	2361	
 3799	JX	twist (a tower)	1533	tsui44	tsui44	ts u i ⁴⁴	1533	
@@ -4123,7 +4123,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3139	MZL	unseam (clothing)	1174	tsʰu33	tsʰu33	tsʰ u ³³	1174	
 4288	PB	use or lean on (a walking stick)	1803	trɯ2	trɯ2	t r ɯ ²	1803	
 4289	TL	use or lean on (a walking stick)	1803	tiɯ33	tiɯ33	t i/j ɯ ³³	1803	
-4290	GX	use or lean on (a walking stick)	1803	nɛ12	nɛ12	n ɛ ¹² +	1803	
+4290	GX	use or lean on (a walking stick)	1803	nɛ12	nɛ12	n ɛ ¹²	1803	
 4291	EQ	use or lean on (a walking stick)	1803	tiɯ22	tiɯ22	t i/j ɯ ²²	1803	
 4292	EG	use or lean on (a walking stick)	1803	pa21	pa21	p a ²¹	1803	
 4293	JM	use or lean on (a walking stick)	1803	ʈɯ22	ʈɯ22	ʈ ɯ ²²	1803	
@@ -4158,7 +4158,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1368	MZL	vegetable	420	tsʰǝɯ21	tsʰǝɯ21	tsʰ ə ɯ ²¹	420	
 1450	PB	vegetable oil	446	jɯ1b	jɯ1b	j ɯ 1b/¹	446	
 1451	TL	vegetable oil	446	jɯ35	jɯ35	j ɯ ³⁵	446	
-1452	GX	vegetable oil	446	ji12	ji12	j i ¹² +	446	
+1452	GX	vegetable oil	446	ji12	ji12	j i ¹²	446	
 1453	EQ	vegetable oil	446	jɯ21	jɯ21	j ɯ ²¹	446	
 1454	EG	vegetable oil	446	ji21	ji21	j i ²¹	446	
 1455	JM	vegetable oil	446	(tʂɚ55)	tʂɚ55	ʈʂ ɚ/ə ⁵⁵	2198	
@@ -4169,7 +4169,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 2577	PB	vertical, be standing	1002	tuen1	tuen1	t u/w e n ¹	1002	
 2578	TL	vertical, be standing	1002	tue55	tue55	t u/w e ⁵⁵	1002	
 2579	GX	vertical, be standing	1002	tyen55	tyen55	t y/ɥ e n ⁵⁵	1002	
-2580	EQ	vertical, be standing	1002	tyE24	tyE24	t y ᴇ ²⁴	1002	
+2580	EQ	vertical, be standing	1002	tyE24	tyE24	t y/ɥ ᴇ/ɛ ²⁴	1002	
 2581	EG	vertical, be standing	1002	to55tɕi22	to55tɕi22	t o ⁵⁵ + tɕ i ²²	1002	
 2582	JM	vertical, be standing	1002	tyi55	tyi55	t y i ⁵⁵	1002	
 2583	JX	vertical, be standing	1002	tuen55	tuen55	t u/w e n ⁵⁵	1002	
@@ -4189,7 +4189,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3803	PB	vomit/throw up	1535	kʰuɛ2	kʰuɛ2	kʰ u/w ɛ ²	1535	
 3804	TL	vomit/throw up	1535	kʰuɛ33	kʰuɛ33	kʰ u/w ɛ ³³	1535	
 3805	GX	vomit/throw up	1535	qʰuɛ22	qʰuɛ22	qʰ u/w ɛ ²²	1535	
-3806	EQ	vomit/throw up	1535	qʰuE22	qʰuE22	qʰ u ᴇ ²²	1535	
+3806	EQ	vomit/throw up	1535	qʰuE22	qʰuE22	qʰ u ᴇ/ɛ ²²	1535	
 3807	EG	vomit/throw up	1535	(tɕʰa44)	tɕʰa44	tɕʰ a ⁴⁴	2363	
 3808	JM	vomit/throw up	1535	(tɕʰa44)	tɕʰa44	tɕʰ a ⁴⁴	2364	
 3809	JX	vomit/throw up	1535	(tɕʰia44)	tɕʰia44	tɕʰ i/j a ⁴⁴	2365	
@@ -4274,7 +4274,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 3150	PB	weigh (food)	1188	tsʰuen1	tsʰuen1	tsʰ u/w e n ¹	1188	
 3151	TL	weigh (food)	1188	tɕien55	tɕien55	tɕ i/j e n ⁵⁵	1188	
 3152	GX	weigh (food)	1188	tɕʰyen55	tɕʰyen55	tɕʰ y/ɥ e n ⁵⁵	1188	
-3153	EQ	weigh (food)	1188	tsʰuE24	tsʰuE24	tsʰ u ᴇ ²⁴	1188	
+3153	EQ	weigh (food)	1188	tsʰuE24	tsʰuE24	tsʰ u ᴇ/ɛ ²⁴	1188	
 3154	EG	weigh (food)	1188	tsʰuɛ55bɛ22	tsʰuɛ55bɛ22	tsʰ u/w ɛ ⁵⁵ + b ɛ ²²	1188	
 3155	JM	weigh (food)	1188	tsʰuẽ55	tsʰuẽ55	tsʰ u ẽ ⁵⁵	1188	
 3156	JX	weigh (food)	1188	tɕʰyẽ55	tɕʰyẽ55	tɕʰ y ẽ ⁵⁵	1188	
@@ -4302,7 +4302,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1351	MZL	wheat straw	414	kua44	kua44	k u/w a ⁴⁴	414	
 3772	PB	whet (a knife)	1526	mɔ1b	mɔ1b	m ɔ 1b/¹	1526	
 3773	TL	whet (a knife)	1526	mɔ35	mɔ35	m ɔ ³⁵	1526	
-3774	GX	whet (a knife)	1526	ma12	ma12	m a ¹² +	1526	
+3774	GX	whet (a knife)	1526	ma12	ma12	m a ¹²	1526	
 3775	EQ	whet (a knife)	1526	mo21	mo21	m o ²¹	1526	
 3776	EG	whet (a knife)	1526	mu21	mu21	m u ²¹	1526	
 3777	JM	whet (a knife)	1526	mo21	mo21	m o ²¹	1526	
@@ -4350,7 +4350,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 61	PB	wind	9	pren1	pren1	p r e n ¹	9	
 62	TL	wind	9	tɕyen55	tɕyen55	tɕ y/ɥ e n ⁵⁵	9	
 63	GX	wind	9	tɕyen55	tɕyen55	tɕ y/ɥ e n ⁵⁵	9	
-64	EQ	wind	9	tsuE24	tsuE24	ts u ᴇ ²⁴	9	
+64	EQ	wind	9	tsuE24	tsuE24	ts u ᴇ/ɛ ²⁴	9	
 65	EG	wind	9	tɕyi55	tɕyi55	tɕ y i ⁵⁵	9	
 66	JM	wind	9	tɕyi55	tɕyi55	tɕ y i ⁵⁵	9	
 67	JX	wind	9	pi55	pi55	p i ⁵⁵	9	
@@ -4375,9 +4375,9 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 662	DS	woman	174	jũ33	jũ33	j ũ ³³	174	
 663	ZC	woman	174	ɲv33	ɲv33	ɲ v ³³	174	
 664	MZL	woman	174	ɲõ33	ɲõ33	ɲ õ ³³	174	
-1056	PB	worm	353	dzruŋ1	dzruŋ1	dzr u ŋ ¹	353	
+1056	PB	worm	353	dzruŋ1	dzruŋ1	ɖʐ u ŋ ¹	353	
 1057	TL	worm	353	ʐv35	ʐv35	ʐ v ³⁵	353	
-1058	GX	worm	353	dzao12	dzao12	dz ao ¹² +	353	
+1058	GX	worm	353	dzao12	dzao12	dz ao ¹²	353	
 1059	EQ	worm	353	tɕio21	tɕio21	tɕ i/j o ²¹	353	
 1060	EG	worm	353	tɕiu21	tɕiu21	tɕ i u ²¹	353	
 1061	JM	worm	353	tɕiu21	tɕiu21	tɕ i u ²¹	353	
@@ -4387,7 +4387,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	VALUE	FORM	TOKENS	COGID	BORROWING
 1065	MZL	worm	353	dzõ21	dzõ21	dz õ ²¹	353	
 2637	PB	yellow	1008	ʁoŋ1b	ʁoŋ1b	ʁ o ŋ 1b/¹	1008	
 2638	TL	yellow	1008	ŋoŋ35	ŋoŋ35	ŋ o ŋ ³⁵	1008	
-2639	GX	yellow	1008	ʁaŋ12	ʁaŋ12	ʁ a ŋ ¹² +	1008	
+2639	GX	yellow	1008	ʁaŋ12	ʁaŋ12	ʁ a ŋ ¹²	1008	
 2640	EQ	yellow	1008	ʁo21	ʁo21	ʁ o ²¹	1008	
 2641	EG	yellow	1008	ŋõ21	ŋõ21	ŋ õ ²¹	1008	
 2642	JM	yellow	1008	õ21	õ21	õ ²¹	1008	
