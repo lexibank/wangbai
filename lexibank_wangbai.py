@@ -44,14 +44,14 @@ class Dataset(BaseDataset):
 
         wl = Wordlist(self.dir.joinpath('raw', 'wang-wordlist.tsv').as_posix())
         with self.cldf as ds:
-            for concept in self.concepts:#tlist.concepts.values():
+            for concept in self.conceptlist.concepts.values():
                 ds.add_concept(
-                        ID=concept['NUMBER'],
-                        Name=concept['ENGLISH'],
-                        Page=concept['PAGE'],
-                        Chinese_Gloss=concept['CHINESE'], #.attributes['chinese'],
-                        Concepticon_ID=concept['CONCEPTICON_ID'], #.concepticon_id,
-                        Concepticon_Gloss=concept['CONCEPTICON_GLOSS'] #.concepticon_gloss
+                        ID=concept.number,
+                        Name=concept.english,
+                        Page=concept.attributes['page'],
+                        Chinese_Gloss=concept.attributes['chinese'],
+                        Concepticon_ID=concept.concepticon_id,
+                        Concepticon_Gloss=concept.concepticon_gloss
                         )
             ds.add_languages()
             langs = {language['Source_ID']: language['ID'] for language in
@@ -67,7 +67,7 @@ class Dataset(BaseDataset):
                        Value=wl[idx, 'value'],
                        Form=wl[idx, 'form'],
                        Segments=wl[idx, 'tokens'],
-                       Source=['Wang2004'],
+                       Source=['Wang2004b'],
                        #Loan=wl[idx, 'borrowing']
                        )
                 except:

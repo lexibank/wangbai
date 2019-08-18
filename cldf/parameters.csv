@@ -14,7 +14,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
 20,air; breath,27,AIR,气,242
 22,earth,1228,EARTH (SOIL),土地,242
 23,mountain,639,MOUNTAIN,山,242
-24,hillside; mountain slope,,,山坡,242
+24,hillside; mountain slope,3297,PRECIPICE OR SLOPE,山坡,242
 30,river,666,RIVER,河,242
 31,lake,624,LAKE,湖,242
 32,sea,1474,SEA,海,242
@@ -83,7 +83,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
 238,uncle (mother's brother),2692,MATERNAL UNCLE (MOTHER'S BROTHER),舅父,244
 249,stepmother,236,STEPMOTHER,继母,244
 254,cattle,1153,CATTLE,牛,244
-259,maggot,2640,LARVA,虫+且,245
+259,maggot,2640,LARVA,蛆,245
 263,horn,1393,HORN (ANATOMY),角,244
 264,hoof,152,HOOF,蹄,244
 268,horse,615,HORSE,马,244
@@ -149,10 +149,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
 443,meat,634,MEAT,肉,246
 445,"grease, fat",323,FAT (ORGANIC SUBSTANCE),脂肪,246
 446,vegetable oil,2555,OIL (FROM PLANTS),清油,246
-448,seed of Chinese prickly ash,3395,SICHUAN PEPPER,花？,246
+448,seed of Chinese prickly ash,3395,SICHUAN PEPPER,花椒,246
 450,egg,744,EGG,蛋,246
 451,soup,1547,SOUP,汤,246
-452,alcoholic beverage,2050,ALCOHOL (DRINK),酒,246
+452,alcoholic beverage,404,ALCOHOL (FERMENTED DRINK),酒,246
 454,tea,1373,TEA,茶,246
 456,medicine,1372,MEDICINE,药,246
 457,chaff; bran,2363,CHAFF (HUSK),糠,246
@@ -162,7 +162,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
 481,comb,1475,COMB,梳子,246
 484,earrings,770,EARRING,耳环,246
 490,pillow,1044,PILLOW,枕头,246
-493,straw or palm-bark rain cape,,,蓑衣,246
+493,straw or palm-bark rain cape,1662,CAPE,蓑衣,246
 494,house,1252,HOUSE,房子,246
 509,tile,3404,TILE,瓦,246
 511,[wood],,WOOD,木头,246
@@ -172,12 +172,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
 522,garden (plot),586,GARDEN,园子,246
 526,bed,1663,BED,床,246
 534,firewood,10,FIREWOOD,柴,246
-544,cooking stove; kitchen range,,STOVE,火+土,246
-548,bamboo food steamer,,RICE STEAMER,蒸笼,246
+544,cooking stove; kitchen range,859,STOVE,灶,246
+548,bamboo food steamer,3431,RICE STEAMER,蒸笼,246
 551,ladle,2657,LADLE,勺子,246
 555,chopsticks,1987,CHOPSTICKS,筷子,246
 559,kettle; pot,854,KETTLE,壶,246
-560,vat; jar,270,,缸,246
+560,vat; jar,270,JUG,缸,246
 576,interest,2062,INTEREST,利斯,246
 578,needle,1382,NEEDLE (FOR SEWING),针,246
 580,nail; tack,502,NAIL (TOOL),钉子,246
@@ -231,26 +231,26 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
 826,thousand,1843,THOUSAND,千,248
 832,a half,816,HALF,一半,248
 839,classifier [sheet of paper],,SHEET (CLASSIFIER),张（纸）,248
-842,classifier [birds],,,只（鸟）,248
-845,classifier [grain],,GRAIN (CLASSIFIER),厘（米）,248
-848,classifier [tree],,TREE (CLASSIFIER),棵（树）,248
-852,classifier [handfull],,,把（菜）,248
-864,classifier [clothes],,CLOTHING (CLASSIFIER),件（衣服）,248
+842,classifier [birds],2081,CHICKEN (CLASSIFIER),只（鸟）,248
+845,classifier [grain],2086,GRAIN (CLASSIFIER),厘（米）,248
+848,classifier [tree],2721,TREE (CLASSIFIER),棵（树）,248
+852,classifier [handfull],1966,BUNCH,把（菜）,248
+864,classifier [clothes],2088,CLOTHING (CLASSIFIER),件（衣服）,248
 876,classifier [back of firewood],,,背（柴）,248
-881,classifier [???],,,戴（米）,248
+881,classifier [sack of rice],,,袋（米）,248
 889,classifier [room],,,间（房）,248
 894,classifier [weight unit],,,两,248
-899,classifier [length unit],,,庹,248
+899,classifier [length unit],81,FATHOM,庹,248
 910,day,1260,DAY (24 HOURS),天,248
-914,a year old,,,岁,248
+914,a year old,1789,AGE,岁,248
 916,step,1158,STEP,步,248
 928,I,1209,I,我,248
 931,you,1215,THOU,你,248
 934,he,2642,HE OR SHE,他,248
 964,big,1202,BIG,大,248
-966,wide,1243,WIDE,粗,248
-968,high,1265,HIGH,高,248
-969,low; short,2191,LOW (HEIGHT),低（矮）,248
+966,wide,1244,THICK,粗,248
+968,high,2790,HIGH OR TALL,高,248
+969,low; short,2484,SMALL (NOT TALL),低（矮）,248
 972,long,1203,LONG,长,248
 974,far,1406,FAR,远,248
 975,near,1942,NEAR,近,248
@@ -281,8 +281,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
 1031,watery/thin (porridge),207,SPARSE,稀（粥）,249
 1035,soft,1856,SOFT,软,249
 1045,correct; right,1725,CORRECT (RIGHT),对,249
-1047,real,,,真,249
-1048,fraud,,,假,249
+1047,real,1657,TRUE,真,249
+1048,fraud,3069,FALSE,假,249
 1050,new,1231,NEW,新,249
 1051,"used, old",2113,OLD (USED),旧,249
 1052,good,1035,GOOD,好,249
@@ -307,18 +307,18 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
 1131,pull up (weeds),2066,PULL UP (RICE SEEDLINGS),拔（草）,249
 1132,to rake (the fields),3127,RAKE (SOMETHING),耙（田）,249
 1141,bind; tie up,2891,TIE UP (TETHER),绑,249
-1148,have eaten one's fill,,,饱,249
+1148,have eaten one's fill,106,SATIATED,饱,249
 1149,hug,928,EMBRACE,抱,249
-1151,carry (a child on the back),,,背,249
+1151,carry (a child on the back),465,CARRY ON BACK,背,249
 1155,close (the mouth),2063,CLOSE (EYES),闭（口）,250
 1156,to plait,3295,BRAID (VERB),编（辫子）,250
 1158,change,2857,CHANGE (BECOME DIFFERENT),变化,250
 1160,to be ill,1847,SICK,病,250
-1161,patch (clothing),2243,REPAIR,不（依附）,250
+1161,patch (clothing),2243,REPAIR,补（依附）,250
 1168,step on; tread,575,TREAD,踩,250
-1169,hide,2486,HIDE,藏（东西),250
+1169,hide,602,HIDE (CONCEAL),藏（东西),250
 1171,to poke; insert,3071,INSERT,播（牌子）,250
-1172,transplant (rice seedling); insert,,,播（种）,250
+1172,transplant (rice seedling); insert,2064,SCATTER (SEEDS),播（种）,250
 1174,unseam (clothing),,,拆衣服,250
 1186,stir-fry; stir,2162,STIR FRY,炒,250
 1188,weigh (food),1098,WEIGH,称（粮食）,250
@@ -331,7 +331,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
 1240,to bet,,,打赌,250
 1248,to thunder,2378,THUNDER (VERB),打雷,250
 1252,wear (a hat),3428,WEAR (ON HEAD),戴（帽子）,250
-1254,wear (a bracelet),976,WEAR,戴（手？）,250
+1254,wear (a bracelet),,,戴（手镯 ）,250
 1256,to block (the wind),2762,BLOCK (THE WAY),挡（风）,250
 1263,get; acquire,694,GET,得到,250
 1264,wait,1590,WAIT (FOR),等待,250
@@ -342,7 +342,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
 1298,be hungry,1533,BE HUNGRY,饿,250
 1318,fly,1441,FLY (MOVE THROUGH AIR),飞,250
 1319,divide; share (things),1119,DIVIDE,分（东西）,250
-1332,pull (a quilt over oneself),1455,PULL,盖（被）,250
+1332,pull (a quilt over oneself),,,盖（被）,250
 1339,cut (meat),2156,CUT (WITH KNIFE),割（肉）,250
 1343,be on the other side of (a river),,,隔（河）,250
 1345,give,1447,GIVE,给,250
@@ -374,8 +374,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
 1477,to cough,879,COUGH,咳？,251
 1478,be thirsty,847,THIRSTY,渴,251
 1485,"cry (verb or noun?, should be made clear later on)",1839,CRY,哭,251
-1487,pull; tug,,TUG,拉,251
-1489,peppery,,,辣,251
+1487,pull; tug,1455,PULL,拉,251
+1489,peppery,544,SPICY,辣,251
 1493,old,1229,OLD,老的,251
 1502,(water flow),,,流水,251
 1506,to leak,2253,DRIP (EMIT LIQUID),漏（水）,251
@@ -397,13 +397,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
 1562,pave; lay,2071,LAY (VERB),铺,252
 1566,ride,367,RIDE,骑,252
 1568,pull/lead (a cow) along,43,LEAD (GUIDE),牵（牛）,252
-1569,to owe (monez),369,OWE,欠（钱）,252
-1574,cut up (vegetable),,,切（菜）,252
-1580,fully recover (from an illness),,,痊愈（病）,252
+1569,to owe (money),369,OWE,欠（钱）,252
+1574,cut up (vegetable),2149,CHOP (INTO PIECES),切（菜）,252
+1580,fully recover (from an illness),1978,RECOVER,痊愈（病）,252
 1587,heat up (cold rice),1341,HEAT UP,热（饭）,252
 1596,piss; pee,592,PISS,撒（尿）,252
 1597,scatter (seeds),2064,SCATTER (SEEDS),撒（种）,252
-1601,seep [sweep],,SWEEP,扫,252
+1601,seep [sweep],230,SWEEP,扫,252
 1613,stretch out (the arm),214,STRETCH,伸,252
 1634,to comb,2070,COMB (VERB),梳,252
 1635,lose (a game),1660,LOSE,输,252
@@ -414,7 +414,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
 1649,say,1458,SAY,说,252
 1650,"tear up, rip",1735,TEAR (SHRED),撕,252
 1651,die,1494,DIE,死,252
-1656,lock (the door),1596,LOCK,锁（门）,252
+1656,lock (the door),,,锁（门）,252
 1663,escape; run away,956,FLEE,逃跑,252
 1666,(head) ache,1815,ACHE,痛（头痛）,252
 1668,shave (the head),231,SHAVE,剃头,252
@@ -429,7 +429,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
 1726,think,2271,THINK,想,253
 1733,pare/peel with a knife,,PEEL,削,253
 1735,laugh,1355,LAUGH,笑,253
-1745,"press, push down",,PUSH,压,253
+1745,"press, push down",1913,PRESS,压,253
 1746,[castrate (chicken)],,,阉（鸡）,253
 1749,to itch/tickle,148,ITCH,痒,253
 1754,scoop up (water); ladle out,2788,LADLE (WATER),舀（水）,253
@@ -452,8 +452,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
 2073,[cow louse],,,牛虱,253
 2075,[ethanol],,,酒精,253
 2086,bamboo piece,,,蔑,253
-2105,paint,,PAINT (PIGMENTS),漆,253
+2105,paint,647,PAINT (PIGMENTS),漆,253
 2109,stomach [bird crop],,,嗉子,253
 2118,eagle fern,,,蕨菜,253
 2121,[pull up weeds],,,蒿草,253
-2124,(xx language) ,,,语言,253
+2124,(xx language) ,1307,LANGUAGE,语言,253

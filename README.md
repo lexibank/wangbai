@@ -6,12 +6,15 @@ Cite the source dataset as
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
+Conceptlists in Concepticon:
+- [Wang-2004-471](http://concepticon.clld.org/contributions/Wang-2004-471)
+
 ## Statistics
 
 
 
 ![Glottolog: 50%](https://img.shields.io/badge/Glottolog-50%25-red.svg "Glottolog: 50%")
-![Concepticon: 86%](https://img.shields.io/badge/Concepticon-86%25-yellowgreen.svg "Concepticon: 86%")
+![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-green.svg "Concepticon: 90%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
@@ -22,6 +25,6 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 - **Sources:** 1
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 16,557
-- **Segments:** 125 (0 BIPA errors, 0 CTLS sound class errors, 125 CLTS modified)
-- **Inventory size (avg):** 66.10
+- **Tokens:** 16,356
+- **Segments:** 139 (0 BIPA errors, 0 CTLS sound class errors, 139 CLTS modified)
+- **Inventory size (avg):** 67.30

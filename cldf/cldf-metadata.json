@@ -4,6 +4,9 @@
     "dc:bibliographicCitation": "Wang, Feng (2004): Language contact and language comparison. The case of Bai. PhD thesis. Hong Kong: City University of Hong Kong.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": null,
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Wang-2004-471"
+    ],
     "dc:identifier": null,
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
@@ -21,7 +24,7 @@
             "dc:title": "environment",
             "properties": {
                 "glottolog_version": "v4.0",
-                "concepticon_version": "v2.1.0"
+                "concepticon_version": "v2.1.0-47-g4730b7c"
             }
         }
     ],
