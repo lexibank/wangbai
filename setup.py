@@ -18,7 +18,11 @@ setup(
     entry_points={
         'lexibank.dataset': [
             'wangbai=lexibank_wangbai:Dataset',
-        ]
+        ],
+        'cldfbench.commands': [
+            'wangbai=wangbaicommands',
+        ],
+
     },
     install_requires=[
         'pylexibank>=1.1.1',
