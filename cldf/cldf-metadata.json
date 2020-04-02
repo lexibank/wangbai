@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/wangbai",
-            "dc:created": "6efa182"
+            "dc:created": "551b829"
         },
         {
             "rdf:type": "prov:Entity",
@@ -29,7 +29,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-11-g327397e"
+            "dc:created": "v2.3.0-39-g43f0f34"
         },
         {
             "rdf:type": "prov:Entity",
@@ -56,7 +56,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 4435,
+            "dc:extent": 4429,
             "tableSchema": {
                 "columns": [
                     {

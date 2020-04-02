@@ -1,459 +1,459 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Page
-1,sky,1732,SKY,天,242
-2,sun,1343,SUN,太阳,242
-4,moon,1313,MOON,月亮,242
-5,star,1430,STAR,星星,242
-7,cloud,1489,CLOUD,云,242
-8,thunder,1150,THUNDER,雷,242
-9,wind,960,WIND,风,242
-12,snow,784,SNOW,雪,242
-14,frost,2034,FROST,霜,242
-17,ice,617,ICE,冰,242
-18,fire,221,FIRE,火,242
-19,smoke,778,SMOKE (EXHAUST),烟,242
-20,air; breath,27,AIR,气,242
-22,earth,1228,EARTH (SOIL),土地,242
-23,mountain,639,MOUNTAIN,山,242
-24,hillside; mountain slope,3076,SLOPE,山坡,242
-30,river,3311,FLOWING BODY OF WATER,河,242
-31,lake,624,LAKE,湖,242
-32,sea,1474,SEA,海,242
-38,path; road,2457,PATH OR ROAD,路,242
-40,soil; earth,1228,EARTH (SOIL),土,242
-42,paddy fields,140,PADDY FIELD,水田,242
-43,stone,857,STONE,石头,242
-44,sand,671,SAND,沙子,242
-46,mud,640,MUD,泥巴,242
-47,water,948,WATER,水,242
-50,forest,420,FOREST,森林,242
-51,gold,1369,GOLD,金子,243
-52,silver,759,SILVER,银子,243
-53,"copper, bronze",3192,BRONZE OR COPPER,铜,243
-54,iron,621,IRON,铁,243
-61,salt,1274,SALT,盐,243
-66,village,930,VILLAGE,村子,243
-70,bridge,1011,BRIDGE,桥,243
-74,head,1256,HEAD,头,243
-75,hair,2648,HAIR (HEAD),头发,243
-79,eye,1248,EYE,眼睛,243
-94,breasts,1402,BREAST,乳房,243
-96,belly,1251,BELLY,肚子,243
-103,foot,1301,FOOT,脚,243
-107,hand,1277,HAND,手,243
-109,finger,1303,FINGER,手指,243
-113,nail,1258,FINGERNAIL,指甲,243
-118,female genitals,,VAGINA,女生殖器,243
-120,skin,763,SKIN,皮肤,243
-125,scar,497,SCAR,疤,243
-129,blood,946,BLOOD,血,243
-130,tendon; sinew,1137,TENDON,筋,243
-132,brains,1583,BRAIN,脑髓,243
-133,bone,1394,BONE,骨头,243
-139,tongue,1205,TONGUE,舌头,243
-143,lung,688,LUNG,肺,243
-144,heart,1223,HEART,心脏,243
-145,liver,1224,LIVER,肝,243
-148,stomach,819,STOMACH,胃,243
-149,intestine; guts,1991,INTESTINES,肠子,243
-150,bladder,1746,BLADDER,膀胱,243
-151,excrement,675,FAECES (EXCREMENT),屎,243
-153,fart,1159,FART,屁,243
-154,sweat,125,SWEAT (SUBSTANCE),汗,243
-159,pus,1808,PUS,脓,243
-161,sound,1811,SOUND OR NOISE,声音,243
-162,corpse,767,CORPSE,尸体,243
-165,Han Chinese,3373,HAN CHINESE,汉族,243
-167,person,683,PERSON,人,243
-172,old lady,907,OLD WOMAN,老太太,243
-173,man,1554,MAN,男人,243
-174,woman,962,WOMAN,妇女,243
-179,soldier,1941,SOLDIER,士兵,243
-194,thief,1160,THIEF,贼,243
-201,friend,1325,FRIEND,朋友,244
-213,guest,1782,GUEST,客人,244
-218,father,1217,FATHER,父亲,244
-219,mother,1216,MOTHER,母亲,244
-220,son,1620,SON,儿子,244
-222,daughter,1357,DAUGHTER,女儿,244
-224,grandson,1618,GRANDSON,孙子,244
-228,younger brother,1760,YOUNGER BROTHER,弟弟,244
-229,younger sister,1761,YOUNGER SISTER,妹妹,244
-234,nephew,1063,NEPHEW,侄子,244
-235,brothers,1262,BROTHER,兄弟,244
-238,uncle (mother's brother),2692,MATERNAL UNCLE (MOTHER'S BROTHER),舅父,244
-249,stepmother,236,STEPMOTHER,继母,244
-254,cattle,1153,CATTLE,牛,244
-259,maggot,2640,LARVA,蛆,245
-263,horn,1393,HORN (ANATOMY),角,244
-264,hoof,152,HOOF,蹄,244
-268,horse,615,HORSE,马,244
-271,horse mane,3546,HORSE MANE,马鬃,244
-274,sheep (general),2684,CAPRINE (GOAT OR SHEEP),羊,244
-284,pig,1337,PIG,猪,244
-289,dog,2009,DOG,狗,244
-291,cat,1208,CAT,猫,244
-293,chicken,1318,CHICKEN,鸡,244
-304,tiger,846,TIGER,老虎,244
-306,dragon,2038,DRAGON,龙,244
-308,monkey,1350,MONKEY,猴子,244
-310,leopard; panther,1139,LEOPARD,豹子,244
-314,muntjac; barking deer,3152,MUNTJACS,麂子,244
-316,musk,,,麝香,244
-319,hedgehog,1797,HEDGEHOG,刺猬,244
-320,mouse,2139,MUROID (MOUSE OR RAT),老鼠,244
-326,bird,937,BIRD,鸟,244
-327,bird's nest,539,NEST,鸟窝,244
-340,pheasant,3060,PHEASANT,野鸡,244
-342,turtledove,1853,DOVE,斑鸠,244
-347,cuckoo,2934,CUCKOO,布谷鸟,244
-349,frog,503,FROG,青蛙,245
-351,fish,227,FISH,鱼,245
-352,scale,266,SCALE,鳞,245
-353,worm,1219,WORM,虫,245
-356,louse,1392,LOUSE,虱子,245
-360,mosquito,1509,MOSQUITO,蚊子,245
-364,leech,949,WATER LEECH,蚂蟥,245
-365,ant,587,ANT,蚂蚁,245
-367,bee,665,BEE,蜂蜜,245
-372,tree,906,TREE,树,245
-375,root,670,ROOT,根,245
-376,leaf,628,LEAF,叶子,245
-382,willow,818,WILLOW,柳树,245
-385,pine,1740,PINE,松树,245
-387,"resin, colophony",664,RESIN,松香,245
-388,pine torches,,,松明,245
-389,bamboo,1927,BAMBOO,竹子,245
-390,"cane, vine",343,VINE,藤子,245
-391,thorn; splinter,124,THORN,刺儿,245
-392,peach,2043,PEACH,桃子,245
-395,persimmon,2044,PERSIMMON,柿子,245
-397,Chinese chestnut,,,板栗,245
-403,paddy rice,2026,RICE PLANT,水稻,245
-404,glutinous rice,2750,GLUTINOUS RICE,糯米,245
-405,seed,714,SEED,种子,245
-406,(rice) seedling,3050,SEEDLING,种,245
-407,ear; spike,3244,EAR (OF GRAIN),穗,245
-408,rice straw,3391,RICE STRAW,稻草,245
-410,wheat,1077,WHEAT,小麦,245
-411,barley,932,BARLEY,大麦,245
-413,buckwheat,2040,BUCKWHEAT,荞麦,245
-414,wheat straw,,,麦秸,245
-419,hemp,,HEMP,麻,245
-420,vegetable,924,VEGETABLES,蔬菜,245
-423,"onion, scallion",2366,ONION,葱,245
-424,garlic,2368,GARLIC,蒜,245
-425,ginger,2500,GINGER,姜,245
-430,pea; bean,2574,BEAN OR PEA,豆,245
-437,mushroom,641,MUSHROOM,蘑菇,246
-439,rice,926,RICE,米,246
-443,meat,634,MEAT,肉,246
-445,"grease, fat",323,FAT (ORGANIC SUBSTANCE),脂肪,246
-446,vegetable oil,2555,OIL (FROM PLANTS),清油,246
-448,seed of Chinese prickly ash,3395,SICHUAN PEPPER,花椒,246
-450,egg,744,EGG,蛋,246
-451,soup,1547,SOUP,汤,246
-452,alcoholic beverage,404,ALCOHOL (FERMENTED DRINK),酒,246
-454,tea,1373,TEA,茶,246
-456,medicine,1372,MEDICINE,药,246
-457,chaff; bran,2363,CHAFF (HUSK),糠,246
-461,thread,1161,THREAD,线,246
-462,cloth,1616,CLOTH,布,246
-479,shoe,1381,SHOE,鞋,246
-481,comb,1475,COMB,梳子,246
-484,earrings,770,EARRING,耳环,246
-490,pillow,1044,PILLOW,枕头,246
-493,straw or palm-bark rain cape,1662,CAPE,蓑衣,246
-494,house,1252,HOUSE,房子,246
-509,tile,3404,TILE,瓦,246
-511,[wood],,WOOD,木头,246
-512,plank; board,1227,BOARD,木板,246
-513,pillar,2045,COLUMN,柱子,246
-514,door,1567,DOOR,门,246
-522,garden (plot),586,GARDEN,园子,246
-526,bed,1663,BED,床,246
-534,firewood,10,FIREWOOD,柴,246
-544,cooking stove; kitchen range,859,STOVE,灶,246
-548,bamboo food steamer,3431,RICE STEAMER,蒸笼,246
-551,ladle,2657,LADLE,勺子,246
-555,chopsticks,1987,CHOPSTICKS,筷子,246
-559,kettle; pot,854,KETTLE,壶,246
-560,vat; jar,270,JUG,缸,246
-576,interest,2062,INTEREST,利息,246
-578,needle,1382,NEEDLE (FOR SEWING),针,246
-580,nail; tack,502,NAIL (TOOL),钉子,246
-585,key,1472,KEY,钥匙,246
-586,stick,1295,STICK,棍子,246
-602,boat; ship,1844,BOAT,船,246
-605,axe,677,AXE,斧头,246
-607,chisel,1979,CHISEL,凿子,247
-608,saw,3543,SAW (SOMETHING),锯子,247
-615,plougshare,,,铧,247
-617,hoe (large),284,HOE,锄头,247
-619,rope,1218,ROPE,绳子,247
-623,fertilizer; manure,2057,DUNG (ANIMAL FAECES),肥料,247
-624,sickle,341,SICKLE,镰刀,247
-626,trip-hammer for hulling rice,,,碓（水碓）,247
-629,sieve; sifter,3353,SIEVE (TOOL),筛子,247
-630,winnowing fan,2051,DUSTPAN,簸箕,247
-637,arrow,977,ARROW,箭,247
-647,paper,648,PAPER,纸,247
-651,speech; words; language,2799,LANGUAGE OR WORD,话,247
-659,drum,908,DRUM,鼓,247
-669,"ghost, spirit",1175,GHOST,鬼,247
-673,(soul); spirit,53,SPIRIT,灵魂,247
-687,name,1405,NAME,名字,247
-695,trace; track,,,痕迹,247
-698,shadow,1388,SHADE,影子,247
-699,dream,2374,DREAM,梦,247
-703,direction; orientation,3427,DIRECTION,方向,247
-710,left,244,LEFT,左边,247
-713,"back, behind",1686,BEHIND,后边,247
-714,outside,762,OUTSIDE,外边,247
-722,the upper part; up reaches; above,1753,TOP,上方（地势，河流）,247
-738,today,1283,TODAY,今天,247
-739,yesterday,1174,YESTERDAY,昨天,247
-752,at night; in the evening,,EVENING,晚上,247
-767,the 12 animals representing the 12 years,,,属相,247
-771,month,1370,MONTH,月,247
-781,next year,515,NEXT YEAR,明年,247
-797,one,1493,ONE,一,247
-798,two,1498,TWO,二,247
-799,three,492,THREE,三,247
-800,four,1500,FOUR,四,247
-801,five,493,FIVE,五,247
-802,six,1703,SIX,六,247
-803,seven,1704,SEVEN,七,248
-804,eight,1705,EIGHT,八,248
-805,nine,1483,NINE,九,248
-806,ten,1515,TEN,十,248
-808,twelve,1707,TWELVE,十二,248
-824,hundred,1634,HUNDRED,百,248
-826,thousand,1843,THOUSAND,千,248
-832,a half,816,HALF,一半,248
-839,classifier [sheet of paper],,SHEET (CLASSIFIER),张（纸）,248
-842,classifier [birds],2081,CHICKEN (CLASSIFIER),只（鸟）,248
-845,classifier [grain],2086,GRAIN (CLASSIFIER),粒（米）,248
-848,classifier [tree],2721,TREE (CLASSIFIER),棵（树）,248
-852,classifier [handfull],,,把（菜）,248
-864,classifier [clothes],2088,CLOTHING (CLASSIFIER),件（衣服）,248
-876,classifier [back of firewood],,,背（柴）,248
-881,classifier [sack of rice],,,袋（米）,248
-889,classifier [room],,,间（房）,248
-894,classifier [weight unit],,,两,248
-899,classifier [length unit],,,庹,248
-910,day,1260,DAY (24 HOURS),天,248
-914,a year old,,,岁,248
-916,step,1158,STEP,步,248
-928,I,1209,I,我,248
-931,you,1215,THOU,你,248
-934,he,2642,HE OR SHE,他,248
-964,big,1202,BIG,大,248
-966,wide,1244,THICK,粗,248
-968,high,2790,HIGH OR TALL,高,248
-969,low; short,2484,SMALL (NOT TALL),低（矮）,248
-972,long,1203,LONG,长,248
-974,far,1406,FAR,远,248
-975,near,1942,NEAR,近,248
-976,wide,1243,WIDE,宽,248
-977,narrow,1267,NARROW,窄,248
-980,thick,1244,THICK,厚,248
-982,deep,1593,DEEP,深,248
-985,empty,1624,EMPTY,空,248
-987,many,1198,MANY,多,248
-990,round,1395,ROUND,圆,248
-994,smooth,1234,SMOOTH,平,248
-999,slanting; learning,3075,SLANTED,偏,248
-1002,"vertical, be standing",2375,VERTICAL,竖,248
-1003,straight,1404,STRAIGHT,直,248
-1004,curved; crooked; bent,1698,CURVED,弯,248
-1005,black,163,BLACK,黑,248
-1006,white,1335,WHITE,白,248
-1007,red,156,RED,红,248
-1008,yellow,1424,YELLOW,黄,249
-1013,dark,706,DARK,暗,249
-1014,heavy,1210,HEAVY,重,249
-1015,light,1052,LIGHT (WEIGHT),轻,249
-1018,early,672,EARLY,早,249
-1019,late,477,LATE,迟；晚了,249
-1020,sharp,1396,SHARP,尖；锋利,249
-1023,muddy; turbid,537,TURBID,浑浊,249
-1028,dry,1398,DRY,干,249
-1031,watery/thin (porridge),207,SPARSE,稀（粥）,249
-1035,soft,1856,SOFT,软,249
-1045,correct; right,1725,CORRECT (RIGHT),对,249
-1047,real,1657,TRUE,真,249
-1048,fraud,3069,FALSE,假,249
-1050,new,1231,NEW,新,249
-1051,"used, old",2113,OLD (USED),旧,249
-1052,good,1035,GOOD,好,249
-1053,bad (things),1292,BAD,坏,249
-1057,tender young (plant),,,嫩（植物）,249
-1062,hot,1286,HOT,热,249
-1063,cold,1287,COLD,冷,249
-1064,lukewarm,,,温（水）,249
-1068,easy,686,EASY,容易,249
-1069,fragrant (smell),376,FRAGRANT,香,249
-1070,stinking; smelly,42,STINKING,臭,249
-1072,sour,1906,SOUR,酸,249
-1074,bitter,887,BITTER,苦,249
-1076,salty,1091,SALTY,咸,249
-1078,astringent; like unripe,,,涩,249
-1083,rich,712,RICH,富,249
-1089,dead,1625,DEAD,死,249
-1094,loud,377,LOUD,响,249
-1124,cliffy; precipitous,2717,STEEP,陡峭,249
-1126,love; like,1117,LIKE,爱,249
-1129,press (with palm of finger),1913,PRESS,按,249
-1131,pull up (weeds),3548,PULL UP WEEDS,拔（草）,249
-1132,to rake (the fields),3127,RAKE (SOMETHING),耙（田）,249
-1141,bind; tie up,1917,TIE,绑,249
-1148,have eaten one's fill,106,SATIATED,饱,249
-1149,hug,928,EMBRACE,抱,249
-1151,carry (a child on the back),465,CARRY ON BACK,背,249
-1155,close (the mouth),3547,CLOSE (MOUTH),闭（口）,250
-1156,to plait,3295,BRAID (VERB),编（辫子）,250
-1158,change,2857,CHANGE (BECOME DIFFERENT),变化,250
-1160,to be ill,1847,SICK,病,250
-1161,patch (clothing),2243,REPAIR,补（衣服）,250
-1168,step on; tread,575,TREAD,踩,250
-1169,hide,602,HIDE (CONCEAL),藏（东西),250
-1171,to poke; insert,3071,INSERT,插（牌子）,250
-1172,transplant (rice seedling); insert,2064,SCATTER (SEEDS),插（秧）,250
-1174,unseam (clothing),,,拆（衣服）,250
-1186,stir-fry; stir,2162,STIR FRY,炒,250
-1188,weigh (food),1098,WEIGH,称（粮食）,250
-1194,fill (a bowl with rice),2006,FILL,盛（饭）,250
-1198,eat,1336,EAT,吃,250
-1212,put on (the shoes),158,PUT ON,穿（鞋）,250
-1218,blow (the trumpet),176,BLOW (WITH MOUTH),吹（喇叭）,250
-1225,twist (hemp fivers),3236,TWIST (TOGETHER),搓（绳）,250
-1234,fight,1423,FIGHT,打架,250
-1240,to bet,,,打赌,250
-1248,to thunder,2378,THUNDER (VERB),打雷,250
-1252,wear (a hat),3428,WEAR (ON HEAD),戴（帽子）,250
-1254,wear (a bracelet),,,戴（手镯 ）,250
-1256,to block (the wind),2762,BLOCK (THE WAY),挡（风）,250
-1263,get; acquire,694,GET,得到,250
-1264,wait,1590,WAIT (FOR),等待,250
-1265,earth quake,6,EARTHQUAKE,地震,250
-1269,to burn,2102,BURN,燃烧,250
-1274,to drop,750,DROP,掉（下),250
-1287,read,724,READ,读,250
-1298,be hungry,1533,BE HUNGRY,饿,250
-1318,fly,1441,FLY (MOVE THROUGH AIR),飞,250
-1319,divide; share (things),1119,DIVIDE,分（东西）,250
-1332,pull (a quilt over oneself),,,盖（被）,250
-1339,cut (meat),2156,CUT (WITH KNIFE),割（肉）,250
-1343,be on the other side of (a river),,,隔（河）,250
-1345,give,1447,GIVE,给,250
-1347,plough; till,1921,PLOUGH,耕,250
-1348,to hook,,,钩,251
-1357,to pen in (sheep),,,关（羊）,251
-1360,kneel,66,KNEEL,跪,251
-1370,drink,1401,DRINK,喝,251
-1383,to change,,,换,251
-1384,wave; wield,3544,WAVE (VERB),挥动,251
-1385,return,581,COME BACK,回,251
-1405,squeeze (for milk),93,DRAW MILK,挤（奶）,251
-1412,pick up (food with chopstick) [fasten the belt],1094,FASTEN,系（腰带）,251
-1413,pick up (food with chopstick),371,PICK UP,夹（菜）,251
-1414,pick up,,GATHER,捡,251
-1416,scissor,2155,CUT (WITH SCISSORS),剪,251
-1419,exchange,2509,EXCHANGE,交换,251
-1422,to water/sprinkle/irrigate,3078,IRRIGATE,浇（水）,251
-1425,teach,709,TEACH,教,251
-1438,lift (the lid),501,LIFT,揭（盖子）,251
-1442,to borrow (money),,,借（钱）,251
-1443,to borrow (tools),1823,BORROW,借（工具）,251
-1444,soak; steep,2069,SOAK (VERB),浸泡,251
-1452,live; reside,363,"DWELL (LIVE, RESIDE)",居住,251
-1454,to saw,1948,SAW,锯,251
-1461,open,1156,OPEN,开（门）,251
-1462,(water) be boiling,792,BOIL (OF LIQUID),开（水）,251
-1474,roast in fire,,ROAST (SOMETHING),烤（火）,251
-1477,to cough,879,COUGH,咳嗽,251
-1478,be thirsty,847,THIRSTY,渴,251
-1485,"cry (verb or noun?, should be made clear later on)",1839,CRY,哭,251
-1487,pull; tug,1455,PULL,拉,251
-1489,peppery,544,SPICY,辣,251
-1493,old,1229,OLD,老的,251
-1502,(water flow),,,流水,251
-1506,to leak,2253,DRIP (EMIT LIQUID),漏（水）,251
-1513,be numb,2216,BECOME NUMB,麻木,251
-1516,buy,1869,BUY,买,251
-1517,sell,1571,SELL,卖,251
-1521,(birds)cry/chirp,,,鸣（鸟）,251
-1523,close (the mouth) lightly,,,抿着（嘴）,251
-1525,stroke; touch,1892,TOUCH,摸,251
-1526,whet (a knife),251,SHARPEN (SOMETHING),磨（刀）,251
-1527,grind (flour),1033,GRIND,磨（面）,252
-1533,twist (a tower),3199,TWIST (AROUND),拧（毛巾）,252
-1535,vomit/throw up,1278,VOMIT,呕吐,252
-1536,(people) crawl,96,CRAWL,爬（人）,252
-1546,compensate,,,赔偿,252
-1552,chop (firewood),3151,CUT (WITH AXE),劈（柴）,252
-1553,float,1574,FLOAT,漂浮,252
-1561,cut/rip open,,,剖,252
-1562,pave; lay,2071,LAY (VERB),铺,252
-1566,ride,367,RIDE,骑,252
-1568,pull/lead (a cow) along,43,LEAD (GUIDE),牵（牛）,252
-1569,to owe (money),369,OWE,欠（钱）,252
-1574,cut up (vegetable),2149,CHOP (INTO PIECES),切（菜）,252
-1580,fully recover (from an illness),1978,RECOVER,痊愈（病）,252
-1587,heat up (cold rice),1341,HEAT UP,热（饭）,252
-1596,piss; pee,592,PISS,撒（尿）,252
-1597,scatter (seeds),2064,SCATTER (SEEDS),撒（种）,252
-1601,seep [sweep],230,SWEEP,扫,252
-1613,stretch out (the arm),214,STRETCH,伸,252
-1634,to comb,2070,COMB (VERB),梳,252
-1635,lose (a game),1660,LOSE,输,252
-1638,(fruit) be ripe,178,RIPE,熟（果子）,252
-1643,fling; toss,1456,THROW,甩,252
-1645,tie (a cow) to,2891,TIE UP (TETHER),栓（牛）,252
-1648,suck,1421,SUCK,吮,252
-1649,say,1458,SAY,说,252
-1650,"tear up, rip",1735,TEAR (SHRED),撕,252
-1651,die,1494,DIE,死,252
-1656,lock (the door),,,锁（门）,252
-1663,escape; run away,2142,RUN AWAY,逃跑,252
-1666,(head) ache,1815,ACHE,痛（头痛）,252
-1668,shave (the head),231,SHAVE,剃（头）,252
-1674,"lick, lap",319,LICK,舔,252
-1681,listen,1608,LISTEN,听,252
-1688,spit (noun or verb?),1440,SPIT,吐（痰）,252
-1707,to smell,1586,SMELL (PERCEIVE),闻（嗅）,252
-1708,ask; question,1309,ASK (INQUIRE),问,252
-1715,be blind,1653,BLIND,瞎,252
-1718,lay (eggs),2464,LAY EGGS,下（蛋）,252
-1719,(rain) fall,2234,FALL (OF SNOW AND RAIN),下（雨）,253
-1726,think,2271,THINK,想,253
-1733,pare/peel with a knife,,PEEL,削,253
-1735,laugh,1355,LAUGH,笑,253
-1745,"press, push down",1913,PRESS,压,253
-1746,[castrate (chicken)],,,阉（鸡）,253
-1749,to itch/tickle,149,ITCHY,痒,253
-1754,scoop up (water); ladle out,2788,LADLE (WATER),舀（水）,253
-1755,want; need,1784,WANT,要,253
-1764,have (you),773,HAVE,有（钱）,253
-1793,(wasps) sting,571,STING,蜇（马蜂）,253
-1797,steam,1193,STEAM,蒸,253
-1799,weave; knit,2905,KNIT,织,253
-1802,swell,1573,SWELL,肿,253
-1803,use or lean on (a walking stick),,,拄,253
-1804,cook; boil,1100,COOK (SOMETHING),煮,253
-1806,turn around,1444,TURN AROUND,转（身）,253
-1813,catch; capture,702,CATCH,捉,253
-1819,sit,1416,SIT,坐,253
-1823,[loach],,,泥鳅,253
-1829,leg,1297,LEG,腿,253
-1852,bark,1204,BARK,树皮,253
-1858,jar,,,甄子,253
-1863,price,657,PRICE,价,253
-2073,[cow louse],,,牛虱,253
-2075,[Distillers grains],,,酒糟,253
-2086,bamboo piece,,,篾,253
-2105,paint,647,PAINT (PIGMENTS),漆,253
-2109,stomach [bird crop],,,嗉子,253
-2118,eagle fern,,,蕨菜,253
-2121,[pull up weeds],,,薅草,253
-2124,(xx language) ,1307,LANGUAGE,语言,253
+1_sky,sky,1732,SKY,天,242
+2_sun,sun,1343,SUN,太阳,242
+4_moon,moon,1313,MOON,月亮,242
+5_star,star,1430,STAR,星星,242
+7_cloud,cloud,1489,CLOUD,云,242
+8_thunder,thunder,1150,THUNDER,雷,242
+9_wind,wind,960,WIND,风,242
+12_snow,snow,784,SNOW,雪,242
+14_frost,frost,2034,FROST,霜,242
+17_ice,ice,617,ICE,冰,242
+18_fire,fire,221,FIRE,火,242
+19_smoke,smoke,778,SMOKE (EXHAUST),烟,242
+20_airbreath,air; breath,27,AIR,气,242
+22_earth,earth,1228,EARTH (SOIL),土地,242
+23_mountain,mountain,639,MOUNTAIN,山,242
+24_hillsidemountainslope,hillside; mountain slope,3076,SLOPE,山坡,242
+30_river,river,3311,FLOWING BODY OF WATER,河,242
+31_lake,lake,624,LAKE,湖,242
+32_sea,sea,1474,SEA,海,242
+38_pathroad,path; road,2457,PATH OR ROAD,路,242
+40_soilearth,soil; earth,1228,EARTH (SOIL),土,242
+42_paddyfields,paddy fields,140,PADDY FIELD,水田,242
+43_stone,stone,857,STONE,石头,242
+44_sand,sand,671,SAND,沙子,242
+46_mud,mud,640,MUD,泥巴,242
+47_water,water,948,WATER,水,242
+50_forest,forest,420,FOREST,森林,242
+51_gold,gold,1369,GOLD,金子,243
+52_silver,silver,759,SILVER,银子,243
+53_copperbronze,"copper, bronze",3192,BRONZE OR COPPER,铜,243
+54_iron,iron,621,IRON,铁,243
+61_salt,salt,1274,SALT,盐,243
+66_village,village,930,VILLAGE,村子,243
+70_bridge,bridge,1011,BRIDGE,桥,243
+74_head,head,1256,HEAD,头,243
+75_hair,hair,2648,HAIR (HEAD),头发,243
+79_eye,eye,1248,EYE,眼睛,243
+94_breasts,breasts,1402,BREAST,乳房,243
+96_belly,belly,1251,BELLY,肚子,243
+103_foot,foot,1301,FOOT,脚,243
+107_hand,hand,1277,HAND,手,243
+109_finger,finger,1303,FINGER,手指,243
+113_nail,nail,1258,FINGERNAIL,指甲,243
+118_femalegenitals,female genitals,,VAGINA,女生殖器,243
+120_skin,skin,763,SKIN,皮肤,243
+125_scar,scar,497,SCAR,疤,243
+129_blood,blood,946,BLOOD,血,243
+130_tendonsinew,tendon; sinew,1137,TENDON,筋,243
+132_brains,brains,1583,BRAIN,脑髓,243
+133_bone,bone,1394,BONE,骨头,243
+139_tongue,tongue,1205,TONGUE,舌头,243
+143_lung,lung,688,LUNG,肺,243
+144_heart,heart,1223,HEART,心脏,243
+145_liver,liver,1224,LIVER,肝,243
+148_stomach,stomach,819,STOMACH,胃,243
+149_intestineguts,intestine; guts,1991,INTESTINES,肠子,243
+150_bladder,bladder,1746,BLADDER,膀胱,243
+151_excrement,excrement,675,FAECES (EXCREMENT),屎,243
+153_fart,fart,1159,FART,屁,243
+154_sweat,sweat,125,SWEAT (SUBSTANCE),汗,243
+159_pus,pus,1808,PUS,脓,243
+161_sound,sound,1811,SOUND OR NOISE,声音,243
+162_corpse,corpse,767,CORPSE,尸体,243
+165_hanchinese,Han Chinese,3373,HAN CHINESE,汉族,243
+167_person,person,683,PERSON,人,243
+172_oldlady,old lady,907,OLD WOMAN,老太太,243
+173_man,man,1554,MAN,男人,243
+174_woman,woman,962,WOMAN,妇女,243
+179_soldier,soldier,1941,SOLDIER,士兵,243
+194_thief,thief,1160,THIEF,贼,243
+201_friend,friend,1325,FRIEND,朋友,244
+213_guest,guest,1782,GUEST,客人,244
+218_father,father,1217,FATHER,父亲,244
+219_mother,mother,1216,MOTHER,母亲,244
+220_son,son,1620,SON,儿子,244
+222_daughter,daughter,1357,DAUGHTER,女儿,244
+224_grandson,grandson,1618,GRANDSON,孙子,244
+228_youngerbrother,younger brother,1760,YOUNGER BROTHER,弟弟,244
+229_youngersister,younger sister,1761,YOUNGER SISTER,妹妹,244
+234_nephew,nephew,1063,NEPHEW,侄子,244
+235_brothers,brothers,1262,BROTHER,兄弟,244
+238_unclemothersbrother,uncle (mother's brother),2692,MATERNAL UNCLE (MOTHER'S BROTHER),舅父,244
+249_stepmother,stepmother,236,STEPMOTHER,继母,244
+254_cattle,cattle,1153,CATTLE,牛,244
+259_maggot,maggot,2640,LARVA,蛆,245
+263_horn,horn,1393,HORN (ANATOMY),角,244
+264_hoof,hoof,152,HOOF,蹄,244
+268_horse,horse,615,HORSE,马,244
+271_mare,mare,938,MARE,母马,244
+274_sheepgeneral,sheep (general),2684,CAPRINE (GOAT OR SHEEP),羊,244
+284_pig,pig,1337,PIG,猪,244
+289_dog,dog,2009,DOG,狗,244
+291_cat,cat,1208,CAT,猫,244
+293_chicken,chicken,1318,CHICKEN,鸡,244
+304_tiger,tiger,846,TIGER,老虎,244
+306_dragon,dragon,2038,DRAGON,龙,244
+308_monkey,monkey,1350,MONKEY,猴子,244
+310_leopardpanther,leopard; panther,1139,LEOPARD,豹子,244
+314_muntjacbarkingdeer,muntjac; barking deer,3152,MUNTJACS,麂子,244
+316_musk,musk,,,麝香,244
+319_hedgehog,hedgehog,1797,HEDGEHOG,刺猬,244
+320_mouse,mouse,2139,MUROID (MOUSE OR RAT),老鼠,244
+326_bird,bird,937,BIRD,鸟,244
+327_birdsnest,bird's nest,539,NEST,鸟窝,244
+340_pheasant,pheasant,3060,PHEASANT,野鸡,244
+342_turtledove,turtledove,1853,DOVE,斑鸠,244
+347_snake,snake,730,SNAKE,蛇,244
+349_frog,frog,503,FROG,青蛙,245
+351_fish,fish,227,FISH,鱼,245
+352_scale,scale,266,SCALE,鳞,245
+353_worm,worm,1219,WORM,虫,245
+356_louse,louse,1392,LOUSE,虱子,245
+360_mosquito,mosquito,1509,MOSQUITO,蚊子,245
+364_leech,leech,949,WATER LEECH,蚂蟥,245
+365_ant,ant,587,ANT,蚂蚁,245
+367_bee,bee,665,BEE,蜂蜜,245
+372_tree,tree,906,TREE,树,245
+375_root,root,670,ROOT,根,245
+376_leaf,leaf,628,LEAF,叶子,245
+382_willow,willow,818,WILLOW,柳树,245
+385_pine,pine,1740,PINE,松树,245
+387_resincolophony,"resin, colophony",664,RESIN,松香,245
+388_pinetorches,pine torches,,,松明,245
+389_bamboo,bamboo,1927,BAMBOO,竹子,245
+390_canevine,"cane, vine",343,VINE,藤子,245
+391_thornsplinter,thorn; splinter,124,THORN,刺儿,245
+392_peach,peach,2043,PEACH,桃子,245
+395_persimmon,persimmon,2044,PERSIMMON,柿子,245
+397_chinesechestnut,Chinese chestnut,,,板栗,245
+403_paddyrice,paddy rice,2026,RICE PLANT,水稻,245
+404_glutinousrice,glutinous rice,2750,GLUTINOUS RICE,糯米,245
+405_seed,seed,714,SEED,种子,245
+406_riceseedling,(rice) seedling,3050,SEEDLING,种,245
+407_earspike,ear; spike,3244,EAR (OF GRAIN),穗,245
+408_ricestraw,rice straw,3391,RICE STRAW,稻草,245
+410_wheat,wheat,1077,WHEAT,小麦,245
+411_barley,barley,932,BARLEY,大麦,245
+413_buckwheat,buckwheat,2040,BUCKWHEAT,荞麦,245
+414_wheatstraw,wheat straw,,,麦秸,245
+419_hemp,hemp,,HEMP,麻,245
+420_vegetable,vegetable,924,VEGETABLES,蔬菜,245
+423_onionscallion,"onion, scallion",2366,ONION,葱,245
+424_garlic,garlic,2368,GARLIC,蒜,245
+425_ginger,ginger,2500,GINGER,姜,245
+430_peabean,pea; bean,2574,BEAN OR PEA,豆,245
+437_mushroom,mushroom,641,MUSHROOM,蘑菇,246
+439_rice,rice,926,RICE,米,246
+443_meat,meat,634,MEAT,肉,246
+445_greasefat,"grease, fat",323,FAT (ORGANIC SUBSTANCE),脂肪,246
+446_vegetableoil,vegetable oil,2555,OIL (FROM PLANTS),清油,246
+448_seedofchinesepricklyash,seed of Chinese prickly ash,3395,SICHUAN PEPPER,花椒,246
+450_egg,egg,744,EGG,蛋,246
+451_soup,soup,1547,SOUP,汤,246
+452_alcoholicbeverage,alcoholic beverage,404,ALCOHOL (FERMENTED DRINK),酒,246
+454_tea,tea,1373,TEA,茶,246
+456_medicine,medicine,1372,MEDICINE,药,246
+457_chaffbran,chaff; bran,2363,CHAFF (HUSK),糠,246
+461_thread,thread,1161,THREAD,线,246
+462_cloth,cloth,1616,CLOTH,布,246
+479_shoe,shoe,1381,SHOE,鞋,246
+481_comb,comb,1475,COMB,梳子,246
+484_earrings,earrings,770,EARRING,耳环,246
+490_pillow,pillow,1044,PILLOW,枕头,246
+493_straworpalmbarkraincape,straw or palm-bark rain cape,1662,CAPE,蓑衣,246
+494_house,house,1252,HOUSE,房子,246
+509_tile,tile,3404,TILE,瓦,246
+511_wood,[wood],,WOOD,木头,246
+512_plankboard,plank; board,1227,BOARD,木板,246
+513_pillar,pillar,2045,COLUMN,柱子,246
+514_door,door,1567,DOOR,门,246
+522_gardenplot,garden (plot),586,GARDEN,园子,246
+526_bed,bed,1663,BED,床,246
+534_firewood,firewood,10,FIREWOOD,柴,246
+544_cookingstovekitchenrange,cooking stove; kitchen range,859,STOVE,灶,246
+548_bamboofoodsteamer,bamboo food steamer,3431,RICE STEAMER,蒸笼,246
+551_ladle,ladle,2657,LADLE,勺子,246
+555_chopsticks,chopsticks,1987,CHOPSTICKS,筷子,246
+559_kettlepot,kettle; pot,854,KETTLE,壶,246
+560_vatjar,vat; jar,270,JUG,缸,246
+576_interest,interest,2062,INTEREST,利息,246
+578_needle,needle,1382,NEEDLE (FOR SEWING),针,246
+580_nailtack,nail; tack,502,NAIL (TOOL),钉子,246
+585_key,key,1472,KEY,钥匙,246
+586_stick,stick,1295,STICK,棍子,246
+602_boatship,boat; ship,1844,BOAT,船,246
+605_axe,axe,677,AXE,斧头,246
+607_chisel,chisel,1979,CHISEL,凿子,247
+608_saw,saw,3543,SAW (SOMETHING),锯子,247
+615_plougshare,plougshare,,,铧,247
+617_hoelarge,hoe (large),284,HOE,锄头,247
+619_rope,rope,1218,ROPE,绳子,247
+623_fertilizermanure,fertilizer; manure,2057,DUNG (ANIMAL FAECES),肥料,247
+624_sickle,sickle,341,SICKLE,镰刀,247
+626_triphammerforhullingrice,trip-hammer for hulling rice,,,碓（水碓）,247
+629_sievesifter,sieve; sifter,3353,SIEVE (TOOL),筛子,247
+630_winnowingfan,winnowing fan,2051,DUSTPAN,簸箕,247
+637_arrow,arrow,977,ARROW,箭,247
+647_paper,paper,648,PAPER,纸,247
+651_speechwordslanguage,speech; words; language,2799,LANGUAGE OR WORD,话,247
+659_drum,drum,908,DRUM,鼓,247
+669_ghostspirit,"ghost, spirit",1175,GHOST,鬼,247
+673_soulspirit,(soul); spirit,53,SPIRIT,灵魂,247
+687_name,name,1405,NAME,名字,247
+695_tracetrack,trace; track,,,痕迹,247
+698_shadow,shadow,1388,SHADE,影子,247
+699_dream,dream,2374,DREAM,梦,247
+703_directionorientation,direction; orientation,3427,DIRECTION,方向,247
+710_left,left,244,LEFT,左边,247
+713_backbehind,"back, behind",1686,BEHIND,后边,247
+714_outside,outside,762,OUTSIDE,外边,247
+722_theupperpartupreachesabove,the upper part; up reaches; above,1753,TOP,上方（地势，河流）,247
+738_today,today,1283,TODAY,今天,247
+739_yesterday,yesterday,1174,YESTERDAY,昨天,247
+752_atnightintheevening,at night; in the evening,,EVENING,晚上,247
+767_the12animalsrepresentingthe12years,the 12 animals representing the 12 years,,,属相,247
+771_month,month,1370,MONTH,月,247
+781_nextyear,next year,515,NEXT YEAR,明年,247
+797_one,one,1493,ONE,一,247
+798_two,two,1498,TWO,二,247
+799_three,three,492,THREE,三,247
+800_four,four,1500,FOUR,四,247
+801_five,five,493,FIVE,五,247
+802_six,six,1703,SIX,六,247
+803_seven,seven,1704,SEVEN,七,248
+804_eight,eight,1705,EIGHT,八,248
+805_nine,nine,1483,NINE,九,248
+806_ten,ten,1515,TEN,十,248
+808_twelve,twelve,1707,TWELVE,十二,248
+824_hundred,hundred,1634,HUNDRED,百,248
+826_thousand,thousand,1843,THOUSAND,千,248
+832_ahalf,a half,816,HALF,一半,248
+839_classifiersheetofpaper,classifier [sheet of paper],,SHEET (CLASSIFIER),张（纸）,248
+842_classifierbirds,classifier [birds],2081,CHICKEN (CLASSIFIER),只（鸟）,248
+845_classifiergrain,classifier [grain],2086,GRAIN (CLASSIFIER),粒（米）,248
+848_classifiertree,classifier [tree],2721,TREE (CLASSIFIER),棵（树）,248
+852_classifierhandfull,classifier [handfull],,,把（菜）,248
+864_classifierclothes,classifier [clothes],2088,CLOTHING (CLASSIFIER),件（衣服）,248
+876_classifierbackoffirewood,classifier [back of firewood],,,背（柴）,248
+881_classifiersackofrice,classifier [sack of rice],,,袋（米）,248
+889_classifierroom,classifier [room],,,间（房）,248
+894_classifierweightunit,classifier [weight unit],,,两,248
+899_classifierlengthunit,classifier [length unit],,,庹,248
+910_day,day,1260,DAY (24 HOURS),天,248
+914_ayearold,a year old,,,岁,248
+916_step,step,1158,STEP,步,248
+928_i,I,1209,I,我,248
+931_you,you,1215,THOU,你,248
+934_he,he,2642,HE OR SHE,他,248
+964_big,big,1202,BIG,大,248
+966_wide,wide,1244,THICK,粗,248
+968_high,high,2790,HIGH OR TALL,高,248
+969_lowshort,low; short,2484,SMALL (NOT TALL),低（矮）,248
+972_long,long,1203,LONG,长,248
+974_far,far,1406,FAR,远,248
+975_near,near,1942,NEAR,近,248
+976_wide,wide,1243,WIDE,宽,248
+977_narrow,narrow,1267,NARROW,窄,248
+980_thick,thick,1244,THICK,厚,248
+982_deep,deep,1593,DEEP,深,248
+985_empty,empty,1624,EMPTY,空,248
+987_many,many,1198,MANY,多,248
+990_round,round,1395,ROUND,圆,248
+994_smooth,smooth,1234,SMOOTH,平,248
+999_slantinglearning,slanting; learning,3075,SLANTED,偏,248
+1002_verticalbestanding,"vertical, be standing",2375,VERTICAL,竖,248
+1003_straight,straight,1404,STRAIGHT,直,248
+1004_curvedcrookedbent,curved; crooked; bent,1698,CURVED,弯,248
+1005_black,black,163,BLACK,黑,248
+1006_white,white,1335,WHITE,白,248
+1007_red,red,156,RED,红,248
+1008_yellow,yellow,1424,YELLOW,黄,249
+1013_dark,dark,706,DARK,暗,249
+1014_heavy,heavy,1210,HEAVY,重,249
+1015_light,light,1052,LIGHT (WEIGHT),轻,249
+1018_early,early,672,EARLY,早,249
+1019_late,late,477,LATE,迟；晚了,249
+1020_sharp,sharp,1396,SHARP,尖；锋利,249
+1023_muddyturbid,muddy; turbid,537,TURBID,浑浊,249
+1028_dry,dry,1398,DRY,干,249
+1031_waterythinporridge,watery/thin (porridge),207,SPARSE,稀（粥）,249
+1035_soft,soft,1856,SOFT,软,249
+1045_correctright,correct; right,1725,CORRECT (RIGHT),对,249
+1047_real,real,1657,TRUE,真,249
+1048_fraud,fraud,3069,FALSE,假,249
+1050_new,new,1231,NEW,新,249
+1051_usedold,"used, old",2113,OLD (USED),旧,249
+1052_good,good,1035,GOOD,好,249
+1053_badthings,bad (things),1292,BAD,坏,249
+1057_tenderyoungplant,tender young (plant),,,嫩（植物）,249
+1062_hot,hot,1286,HOT,热,249
+1063_cold,cold,1287,COLD,冷,249
+1064_lukewarm,lukewarm,,,温（水）,249
+1068_easy,easy,686,EASY,容易,249
+1069_fragrantsmell,fragrant (smell),376,FRAGRANT,香,249
+1070_stinkingsmelly,stinking; smelly,42,STINKING,臭,249
+1072_sour,sour,1906,SOUR,酸,249
+1074_bitter,bitter,887,BITTER,苦,249
+1076_salty,salty,1091,SALTY,咸,249
+1078_astringentlikeunripe,astringent; like unripe,,,涩,249
+1083_rich,rich,712,RICH,富,249
+1089_dead,dead,1625,DEAD,死,249
+1094_loud,loud,377,LOUD,响,249
+1124_cliffyprecipitous,cliffy; precipitous,2717,STEEP,陡峭,249
+1126_lovelike,love; like,1117,LIKE,爱,249
+1129_presswithpalmoffinger,press (with palm of finger),1913,PRESS,按,249
+1131_pullupweeds,pull up (weeds),3548,PULL UP WEEDS,拔（草）,249
+1132_torakethefields,to rake (the fields),3127,RAKE (SOMETHING),耙（田）,249
+1141_bindtieup,bind; tie up,1917,TIE,绑,249
+1148_haveeatenonesfill,have eaten one's fill,106,SATIATED,饱,249
+1149_hug,hug,928,EMBRACE,抱,249
+1151_carryshoulder,carry (shoulder),413,CARRY ON SHOULDER,背,249
+1155_closethemouth,close (the mouth),3547,CLOSE (MOUTH),闭（口）,250
+1156_toplait,to plait,3295,BRAID (VERB),编（辫子）,250
+1158_change,change,2857,CHANGE (BECOME DIFFERENT),变化,250
+1160_tobeill,to be ill,1847,SICK,病,250
+1161_patchclothing,patch (clothing),2243,REPAIR,补（衣服）,250
+1168_stepontread,step on; tread,575,TREAD,踩,250
+1169_hide,hide,602,HIDE (CONCEAL),藏（东西),250
+1171_topokeinsert,to poke; insert,3071,INSERT,插（牌子）,250
+1172_transplantriceseedlinginsert,transplant (rice seedling); insert,2064,SCATTER (SEEDS),插（秧）,250
+1174_unseamclothing,unseam (clothing),,,拆（衣服）,250
+1186_stirfrystir,stir-fry; stir,2162,STIR FRY,炒,250
+1188_weighfood,weigh (food),1098,WEIGH,称（粮食）,250
+1194_fillabowlwithrice,fill (a bowl with rice),2006,FILL,盛（饭）,250
+1198_eat,eat,1336,EAT,吃,250
+1212_putontheshoes,put on (the shoes),158,PUT ON,穿（鞋）,250
+1218_blowthetrumpet,blow (the trumpet),176,BLOW (WITH MOUTH),吹（喇叭）,250
+1225_twisthempfivers,twist (hemp fivers),3236,TWIST (TOGETHER),搓（绳）,250
+1234_fight,fight,1423,FIGHT,打架,250
+1240_tobet,to bet,,,打赌,250
+1248_tothunder,to thunder,2378,THUNDER (VERB),打雷,250
+1252_wearahat,wear (a hat),3428,WEAR (ON HEAD),戴（帽子）,250
+1254_wearabracelet,wear (a bracelet),,,戴（手镯 ）,250
+1256_toblockthewind,to block (the wind),2762,BLOCK (THE WAY),挡（风）,250
+1263_getacquire,get; acquire,694,GET,得到,250
+1264_wait,wait,1590,WAIT (FOR),等待,250
+1265_earthquake,earth quake,6,EARTHQUAKE,地震,250
+1269_toburn,to burn,2102,BURN,燃烧,250
+1274_todrop,to drop,750,DROP,掉（下),250
+1287_read,read,724,READ,读,250
+1298_behungry,be hungry,1533,BE HUNGRY,饿,250
+1318_fly,fly,1441,FLY (MOVE THROUGH AIR),飞,250
+1319_dividesharethings,divide; share (things),1119,DIVIDE,分（东西）,250
+1332_pullaquiltoveroneself,pull (a quilt over oneself),,,盖（被）,250
+1339_cutmeat,cut (meat),2156,CUT (WITH KNIFE),割（肉）,250
+1343_beontheothersideofariver,be on the other side of (a river),,,隔（河）,250
+1345_give,give,1447,GIVE,给,250
+1347_ploughtill,plough; till,1921,PLOUGH,耕,250
+1348_tohook,to hook,,,钩,251
+1357_topeninsheep,to pen in (sheep),,,关（羊）,251
+1360_kneel,kneel,66,KNEEL,跪,251
+1370_drink,drink,1401,DRINK,喝,251
+1383_tochange,to change,,,换,251
+1384_wavewield,wave; wield,3544,WAVE (VERB),挥动,251
+1385_return,return,581,COME BACK,回,251
+1405_squeezeformilk,squeeze (for milk),93,DRAW MILK,挤（奶）,251
+1412_pickupfoodwithchopstickfastenthebelt,pick up (food with chopstick) [fasten the belt],1094,FASTEN,系（腰带）,251
+1413_pickupfoodwithchopstick,pick up (food with chopstick),371,PICK UP,夹（菜）,251
+1414_pickup,pick up,,GATHER,捡,251
+1416_scissor,scissor,2155,CUT (WITH SCISSORS),剪,251
+1419_exchange,exchange,2509,EXCHANGE,交换,251
+1422_towatersprinkleirrigate,to water/sprinkle/irrigate,3078,IRRIGATE,浇（水）,251
+1425_teach,teach,709,TEACH,教,251
+1438_liftthelid,lift (the lid),501,LIFT,揭（盖子）,251
+1442_toborrowmoney,to borrow (money),,,借（钱）,251
+1443_toborrowtools,to borrow (tools),1823,BORROW,借（工具）,251
+1444_soaksteep,soak; steep,2069,SOAK (VERB),浸泡,251
+1452_livereside,live; reside,363,"DWELL (LIVE, RESIDE)",居住,251
+1454_tosaw,to saw,1948,SAW,锯,251
+1461_open,open,1156,OPEN,开（门）,251
+1462_waterbeboiling,(water) be boiling,792,BOIL (OF LIQUID),开（水）,251
+1474_roastinfire,roast in fire,,ROAST (SOMETHING),烤（火）,251
+1477_tocough,to cough,879,COUGH,咳嗽,251
+1478_bethirsty,be thirsty,847,THIRSTY,渴,251
+1485_cryverbornounshouldbemadeclearlateron,"cry (verb or noun?, should be made clear later on)",1839,CRY,哭,251
+1487_pulltug,pull; tug,1455,PULL,拉,251
+1489_peppery,peppery,544,SPICY,辣,251
+1493_old,old,1229,OLD,老的,251
+1502_waterflow,(water flow),,,流水,251
+1506_toleak,to leak,2253,DRIP (EMIT LIQUID),漏（水）,251
+1513_benumb,be numb,2216,BECOME NUMB,麻木,251
+1516_buy,buy,1869,BUY,买,251
+1517_sell,sell,1571,SELL,卖,251
+1521_birdscrychirp,(birds)cry/chirp,,,鸣（鸟）,251
+1523_closethemouthlightly,close (the mouth) lightly,,,抿着（嘴）,251
+1525_stroketouch,stroke; touch,1892,TOUCH,摸,251
+1526_whetaknife,whet (a knife),251,SHARPEN (SOMETHING),磨（刀）,251
+1527_grindflour,grind (flour),1033,GRIND,磨（面）,252
+1533_twistatower,twist (a tower),3199,TWIST (AROUND),拧（毛巾）,252
+1535_vomitthrowup,vomit/throw up,1278,VOMIT,呕吐,252
+1536_peoplecrawl,(people) crawl,96,CRAWL,爬（人）,252
+1546_compensate,compensate,,,赔偿,252
+1552_chopfirewood,chop (firewood),3151,CUT (WITH AXE),劈（柴）,252
+1553_float,float,1574,FLOAT,漂浮,252
+1561_cutripopen,cut/rip open,,,剖,252
+1562_pavelay,pave; lay,2071,LAY (VERB),铺,252
+1566_ride,ride,367,RIDE,骑,252
+1568_pullleadacowalong,pull/lead (a cow) along,43,LEAD (GUIDE),牵（牛）,252
+1569_toowemoney,to owe (money),369,OWE,欠（钱）,252
+1574_cutupvegetable,cut up (vegetable),2149,CHOP (INTO PIECES),切（菜）,252
+1580_fullyrecoverfromanillness,fully recover (from an illness),1978,RECOVER,痊愈（病）,252
+1587_heatupcoldrice,heat up (cold rice),1341,HEAT UP,热（饭）,252
+1596_pisspee,piss; pee,592,PISS,撒（尿）,252
+1597_scatterseeds,scatter (seeds),2064,SCATTER (SEEDS),撒（种）,252
+1601_seepsweep,seep [sweep],230,SWEEP,扫,252
+1613_stretchoutthearm,stretch out (the arm),214,STRETCH,伸,252
+1634_tocomb,to comb,2070,COMB (VERB),梳,252
+1635_loseagame,lose (a game),1660,LOSE,输,252
+1638_fruitberipe,(fruit) be ripe,178,RIPE,熟（果子）,252
+1643_flingtoss,fling; toss,1456,THROW,甩,252
+1645_tieacowto,tie (a cow) to,2891,TIE UP (TETHER),栓（牛）,252
+1648_suck,suck,1421,SUCK,吮,252
+1649_say,say,1458,SAY,说,252
+1650_tearuprip,"tear up, rip",1735,TEAR (SHRED),撕,252
+1651_die,die,1494,DIE,死,252
+1656_lockthedoor,lock (the door),,,锁（门）,252
+1663_escaperunaway,escape; run away,2142,RUN AWAY,逃跑,252
+1666_headache,(head) ache,1815,ACHE,痛（头痛）,252
+1668_shavethehead,shave (the head),231,SHAVE,剃（头）,252
+1674_licklap,"lick, lap",319,LICK,舔,252
+1681_listen,listen,1608,LISTEN,听,252
+1688_spitnounorverb,spit (noun or verb?),1440,SPIT,吐（痰）,252
+1707_tosmell,to smell,1586,SMELL (PERCEIVE),闻（嗅）,252
+1708_askquestion,ask; question,1309,ASK (INQUIRE),问,252
+1715_beblind,be blind,1653,BLIND,瞎,252
+1718_layeggs,lay (eggs),2464,LAY EGGS,下（蛋）,252
+1719_rainfall,(rain) fall,2234,FALL (OF SNOW AND RAIN),下（雨）,253
+1726_think,think,2271,THINK,想,253
+1733_parepeelwithaknife,pare/peel with a knife,,PEEL,削,253
+1735_laugh,laugh,1355,LAUGH,笑,253
+1745_presspushdown,"press, push down",1913,PRESS,压,253
+1746_castratechicken,[castrate (chicken)],,,阉（鸡）,253
+1749_toitchtickle,to itch/tickle,149,ITCHY,痒,253
+1754_scoopupwaterladleout,scoop up (water); ladle out,2788,LADLE (WATER),舀（水）,253
+1755_wantneed,want; need,1784,WANT,要,253
+1764_haveyou,have (you),773,HAVE,有（钱）,253
+1793_waspssting,(wasps) sting,571,STING,蜇（马蜂）,253
+1797_steam,steam,1193,STEAM,蒸,253
+1799_weaveknit,weave; knit,2905,KNIT,织,253
+1802_swell,swell,1573,SWELL,肿,253
+1803_useorleanonawalkingstick,use or lean on (a walking stick),,,拄,253
+1804_cookboil,cook; boil,1100,COOK (SOMETHING),煮,253
+1806_turnaround,turn around,1444,TURN AROUND,转（身）,253
+1813_catchcapture,catch; capture,702,CATCH,捉,253
+1819_sit,sit,1416,SIT,坐,253
+1823_loach,[loach],,,泥鳅,253
+1829_leg,leg,1297,LEG,腿,253
+1852_bark,bark,1204,BARK,树皮,253
+1858_jar,jar,,,甄子,253
+1863_price,price,657,PRICE,价,253
+2073_cowlouse,[cow louse],,,牛虱,253
+2075_distillersgrains,[Distillers grains],,,酒糟,253
+2086_bamboopiece,bamboo piece,,,篾,253
+2105_paint,paint,647,PAINT (PIGMENTS),漆,253
+2109_stomachbirdcrop,stomach [bird crop],,,嗉子,253
+2118_eaglefern,eagle fern,,,蕨菜,253
+2121_pullupweeds,[pull up weeds],,,薅草,253
+2124_xxlanguage,(xx language) ,1307,LANGUAGE,语言,253

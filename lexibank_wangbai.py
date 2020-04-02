@@ -34,39 +34,56 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     concept_class = HConcept
     language_class = HLanguage
-    #form_spec = FormSpec(
+
     
-
     def cmd_makecldf(self, args):
-
+        
         wl = Wordlist(self.raw_dir.joinpath('wang-wordlist.tsv').as_posix())
+        concepts = {}
         for concept in self.conceptlists[0].concepts.values():
+            idx = '{0}_{1}'.format(concept.number, slug(concept.english))
             args.writer.add_concept(
-                    ID=concept.number,
+                    ID=idx,
                     Name=concept.english,
                     Page=concept.attributes['page'],
                     Chinese_Gloss=concept.attributes['chinese'],
                     Concepticon_ID=concept.concepticon_id,
                     Concepticon_Gloss=concept.concepticon_gloss
                     )
-        args.writer.add_languages()
-        languages = {language['Source_ID']: language['ID'] for language in
-                self.languages}
+            concepts[concept.number] = idx
+        languages = args.writer.add_languages(lookup_factory='Source_ID')
         args.writer.add_sources()
+
         errors = []
         for idx in progressbar(wl, desc='cldfify'):
+            if wl[idx, 'form'] == 'tree + skin':
+                dct = wl.get_dict(col=wl[idx, 'doculect'])
+                idxA, idxB = dct['tree'][0], dct['skin'][0]
+                wl[idx, 'form'] = wl[idxA, 'form']+wl[idxB, 'form']
+            if wl[idx, 'form'] == 'female+brother':
+                dct = wl.get_dict(col=wl[idx, 'doculect'])
+                idxA, idxB = dct['woman'][0], dct['younger brother'][0]
+                wl[idx, 'form'] = wl[idxA, 'form']+wl[idxB, 'form']
+            if wl[idx, 'form'] == 'water':
+                dct = wl.get_dict(col=wl[idx, 'doculect'])
+                wl[idx, 'form'] = wl[dct['water'][0], 'form']
+            if wl[idx, 'form'] == 'trɚ+group':
+                dct = wl.get_dict(col=wl[idx, 'doculect'])
+                wl[idx, 'form'] = wl[dct['water'][0], 'form']
             
-            try:
-                args.writer.add_form_with_segments(
-                   Language_ID=languages[wl[idx, 'doculect']],
-                   Parameter_ID=wl[idx, 'glossid'], 
-                   Value=wl[idx, 'value'],
-                   Form=wl[idx, 'form'],
-                   Segments=wl[idx, 'tokens'],
-                   Source=['Wang2004b'],
-                   )
-            except:
-                errors += [(idx, wl[idx, 'doculect'], wl[idx, 'value'])]
+
+            if wl[idx, 'form'] not in ['di3+wag', 'ɣɯ2+year', 'trɚ+group', 'paddy+field',
+                'njoŋ1+brother', 'ji5+fragrant', '5']:
+                try:
+                    args.writer.add_form(
+                       Language_ID=languages[wl[idx, 'doculect']],
+                       Parameter_ID=concepts[wl[idx, 'glossid']], 
+                       Value=wl[idx, 'value'],
+                       Form=self.lexemes.get(wl[idx, 'form'], wl[idx, 'form']),
+                       Source=['Wang2004b'],
+                       )
+                except:
+                    errors += [(idx, wl[idx, 'doculect'], wl[idx, 'value'])]
         for line in errors:
             print(line[0], '\t', line[1], '\t', line[2])
 
