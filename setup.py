@@ -26,5 +26,11 @@ setup(
     },
     install_requires=[
         'pylexibank>=1.1.1',
-    ]
+    ],
+    extras_require={
+        'wangbai': [
+            'sinopy',
+            'lingrex',
+            'python-igraph']
+        }
 )

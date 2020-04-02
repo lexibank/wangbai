@@ -1,5 +1,5 @@
 """
-Compute partial cognates and alignments and create a wordlist.
+Check if structure conversion works without problems for the data.
 """
 
 from lingpy import *
@@ -75,9 +75,6 @@ def run(args):
     morphemes = set([(line[-4], str(line[-3]), str(line[-2])) for line in table])
     for a, b, c in sorted(morphemes, key=lambda x: x[-2]):
         print(a+'\t'+b+'\t'+c)
-
-    #part = Partial.from_cldf(str(ds.cldf_specs().metadata_path))
-    #part.partial_cluster(method='sca', threshold=0.45, ref='cogids')
-    #alms = Alignments(part, ref='cogids')
-    #alms.align()
-    #alms.output('tsv', filename='wordlist', ignore='all', prettify=False)
+    
+    wl.output('tsv', filename=ds.dir.joinpath('analysis',
+        'wordlist').as_posix())
