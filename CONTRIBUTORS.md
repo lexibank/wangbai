@@ -1,6 +1,6 @@
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Johann-Mattis List | @LinguList | maintainer
-Mei-Shin Wu | @macyl | concept mapping
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Johann-Mattis List | @LinguList | maintainer, patron | Author
+Mei-Shin Wu | @macyl | concept mapping | Author

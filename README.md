@@ -1,4 +1,4 @@
-# Language Contact and Language Comparison
+# CLDF dataset derived from Wang's "Language Contact and Language Comparison" from 2004
 
 Cite the source dataset as
 
@@ -27,3 +27,12 @@ Conceptlists in Concepticon:
 - **Tokens:** 16,286
 - **Segments:** 148 (0 BIPA errors, 0 CTLS sound class errors, 148 CLTS modified)
 - **Inventory size (avg):** 67.80
+
+# Contributors
+
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Johann-Mattis List | @LinguList | maintainer, patron | Author
+Mei-Shin Wu | @macyl | concept mapping | Author
+
+
