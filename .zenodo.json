@@ -1,0 +1,33 @@
+{
+    "creators": [
+        {
+            "name": "Wang, Feng"
+        }
+    ],
+    "contributors": [
+        {
+            "type": "Other",
+            "name": "Johann-Mattis List"
+        },
+        {
+            "type": "Other",
+            "name": "Mei-Shin Wu"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "access_right": "open",
+    "upload_type": "dataset",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "title": "CLDF dataset derived from Wang's \"Language Contact and Language Comparison\" from 2004",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Wang, Feng (2004): Language contact and language comparison. The case of Bai. PhD thesis. Hong Kong: City University of Hong Kong.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}

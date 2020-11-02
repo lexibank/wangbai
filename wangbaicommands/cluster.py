@@ -7,6 +7,8 @@ from lexibank_wangbai import Dataset
 from lingpy import *
 from lingrex.align import template_alignment
 from lingrex.colex import find_bad_internal_alignments, find_colexified_alignments
+from pyconcepticon import Concepticon
+from cldfcatalog import Config
 
 def run(args):
 
@@ -14,7 +16,7 @@ def run(args):
     args.log.info('[i] start analysis')
     part = Partial(ds.dir.joinpath('analysis', 'wordlist.tsv').as_posix())
     part.partial_cluster(method='sca', threshold=0.45, ref='cogids')
-    part.add_cognate_ids('cogids', 'cogid', idtype='strict')
+    part.add_cognate_ids('cogids', 'cogid', idtype='loose')
     args.log.info('[i] computed cognates')
 
     template_alignment(part, template='imnct', structure='structure',
@@ -50,4 +52,38 @@ def run(args):
                 ]
             )
     args.log.info('[i] saved alignments to file')
+
+    # export subset of cognates
+    S = {0: [c for c in part.columns]}
+    concepticon = Concepticon(Config.from_file().get_clone('concepticon'))
+    concepts = set()
+    for clist in ['Sagart-2019-250', 'Swadesh-1955-100', 'Swadesh-1952-200']:
+        for concept in concepticon.conceptlists[clist].concepts.values():
+            if concept.concepticon_id:
+                concepts.add(concept.concepticon_id)
+    for idx in part:
+        if part[idx, 'concepticon'] in concepts:
+            if part[idx, 'doculect'] != 'ProtoBai':
+                S[idx] = part[idx]
+    print(part.columns)
+    wls = Wordlist(S)
+    wls.output('tsv', filename=ds.dir.joinpath('analysis', 'wordlist-subset').as_posix(),
+            subset=True,
+            cols=[
+                'doculect',
+                'concept',
+                'concepticon',
+                'value',
+                'form',
+                'tokens',
+                'cogids',
+                'structure',
+                'alignment',
+                'cogid'
+                ])
+    wls.calculate('tree', ref='cogid', tree_calc='neighbor')
+    print(wls.tree.asciiArt())
+    args.log.info(' [i] wordlist has {0} concepts'.format(wls.height))
+    wls.output('dst', filename=ds.dir.joinpath('analysis', 'wordlist-subset').as_posix())
+
 
