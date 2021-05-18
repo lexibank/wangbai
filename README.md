@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Wang, Feng (2004): Language contact and language comparison. The case of Bai. PhD thesis. Hong Kong: City University of Hong Kong.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
