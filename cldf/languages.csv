@@ -1,11 +1,11 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,ChineseName,SubGroup,Location,Pinyin,Source_ID,DialectGroup
-Dashi,Dashi,,,,,26.3530106,100.1930442,Sino-Tibetan,大石白语,Bai,"Dashi village, Songgui, Heqing county",Dàshí,DS,Central
-Ega,Ega,egab1234,Ega Bai,,Eurasia,26.4858945,98.8528962,Sino-Tibetan,俄嘎白语,Bai,Ega village,Égā,EG,Northern
-Enqi,Enqi,enqi1234,Enqi Bai,,Eurasia,26.4738155,99.1189832,Sino-Tibetan,恩棋白语,Bai,Enqi village,Ēnqí,EQ,Northern
-Jinman,Jinman,nuji1238,Jinman Bai,,Eurasia,26.4154856,99.1285952,Sino-Tibetan,金满白语,Bai,Jinman village,Jīnmǎn,JM,Northern
-Jinxing,Jinxing,,,,,24.9259218,103.1237482,Sino-Tibetan,金星白语,Bai,"Jinxing village, Jianyang, Jianchuan county",Jīnxīng,JX,Central
-Mazhelong,Mazhelong,,,,,24.1677209,104.1950232,Sino-Tibetan,马者龙白语,Bai,Mazhelong village,Mǎzhělóng,MZL,Southern
-Tuoluo,Tuoluo,tuol1234,Tuoluo Bai,,Eurasia,23.3833337,102.1839821,Sino-Tibetan,妥洛白语,Bai,"Tuoluo village, Weiding, Weixi county",Tuǒluò,TL,Northern
-Zhoucheng,Zhoucheng,zhou1234,Zhoucheng,,Eurasia,25.8958826,100.0988062,Sino-Tibetan,周城白语,Bai,Zhoucheng village,Zhōuchéng,ZC,Southern
-Gongxing,Gongxing,,,,,27.0852794,99.1652452,Sino-Tibetan,共兴白语,Bai,"Gongxing village, Hexi, Lanping county",Gōngxìng,GX,Northern
-ProtoBai,Proto-Bai,,,,,,,Sino-Tibetan,,Bai,,,PB,
+ID,Name,Glottocode,Glottolog_Name,Macroarea,Latitude,Longitude,Family,ChineseName,SubGroup,Location,Pinyin,Source_ID,DialectGroup
+Dashi,Dashi,,,,26.3530106,100.1930442,Sino-Tibetan,大石白语,Bai,"Dashi village, Songgui, Heqing county",Dàshí,DS,Central
+Ega,Ega,egab1234,Ega Bai,Eurasia,26.4858945,98.8528962,Sino-Tibetan,俄嘎白语,Bai,Ega village,Égā,EG,Northern
+Enqi,Enqi,enqi1234,Enqi Bai,Eurasia,26.4738155,99.1189832,Sino-Tibetan,恩棋白语,Bai,Enqi village,Ēnqí,EQ,Northern
+Jinman,Jinman,nuji1238,Jinman Bai,Eurasia,26.4154856,99.1285952,Sino-Tibetan,金满白语,Bai,Jinman village,Jīnmǎn,JM,Northern
+Jinxing,Jinxing,,,,24.9259218,103.1237482,Sino-Tibetan,金星白语,Bai,"Jinxing village, Jianyang, Jianchuan county",Jīnxīng,JX,Central
+Mazhelong,Mazhelong,,,,24.1677209,104.1950232,Sino-Tibetan,马者龙白语,Bai,Mazhelong village,Mǎzhělóng,MZL,Southern
+Tuoluo,Tuoluo,tuol1234,Tuoluo Bai,Eurasia,23.3833337,102.1839821,Sino-Tibetan,妥洛白语,Bai,"Tuoluo village, Weiding, Weixi county",Tuǒluò,TL,Northern
+Zhoucheng,Zhoucheng,zhou1234,Zhoucheng,Eurasia,25.8958826,100.0988062,Sino-Tibetan,周城白语,Bai,Zhoucheng village,Zhōuchéng,ZC,Southern
+Gongxing,Gongxing,,,,27.0852794,99.1652452,Sino-Tibetan,共兴白语,Bai,"Gongxing village, Hexi, Lanping county",Gōngxìng,GX,Northern
+ProtoBai,Proto-Bai,,,,,,Sino-Tibetan,,Bai,,,PB,
