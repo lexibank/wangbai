@@ -27,21 +27,21 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 10
-- **Concepts:** 458
+- **Varieties:** 10 (linked to 5 different Glottocodes)
+- **Concepts:** 458 (linked to 404 different Concepticon concept sets)
 - **Lexemes:** 4,429
 - **Sources:** 1
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
 - **Tokens:** 16,287
-- **Segments:** 147 (0 BIPA errors, 0 CTLS sound class errors, 147 CLTS modified)
+- **Segments:** 147 (0 BIPA errors, 0 CLTS sound class errors, 147 CLTS modified)
 - **Inventory size (avg):** 67.50
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer, patron | Other 
+Johann-Mattis List | @LinguList | maintainer, patron | Editor
 Mei-Shin Wu | @macyl | concept mapping | Other
 Wang, Feng | | data collection | Author
 
